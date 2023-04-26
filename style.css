@@ -1,0 +1,725 @@
+/* Тело страницы */body {margin: 0px;background-color: #151111;overflow-x:hidden; }
+
+.menu-spisok-center {display: flex;margin-top: -16px;font-family: 'Oswald', sans-serif;line-height: 130px;justify-content: center;position: absolute;margin-left: 97px;}
+.menu-spisok-about-us {display: flex;margin-top: -16px;font-family: 'Oswald', sans-serif;line-height: 130px;justify-content: center;margin-left: 12px;margin-top: -6px;position: absolute;}
+.menu-spisok-about-us li a {text-decoration: none;color: #FFFFFF;font-family: 'Oswald', sans-serif;font-size: 30px;font-weight: 400;margin-left: 20px;font-size: 20px;}
+.logo-gym-index {display: grid;width: 192px;height: 100px;margin-top: 110px;}
+.logo-gym-about-us {display: grid;width: 192px;height: 100px;margin-top: 118px;}
+.page-header_nav ul li {margin-left: 12px;margin-top: 61px;}
+
+/*Текст меню*/.menu-spisok-center li a {text-decoration: none; color: #FFFFFF;font-family: 'Oswald', sans-serif;font-weight: 400;margin-left: 20px; font-size: 20px;}
+.text-sports-nutrition-index {display: none;}
+.menu-spisok-right {display: flex;margin-top: 34px;margin-left: 864px;justify-content: flex-end;align-items: center;position: absolute;}
+.odnoklassniki-index-menu{margin-left:5px;}.youtube-index-menu {margin-left:8px;} .instagram-index-menu{margin-left:10px;}
+/*Убрать подчеркивание фреймворк*/.pod-ubrat {text-decoration: none;}
+.index-banner {width: 1140px;margin: 0 auto ;}
+.main-menu-list {width: 1140px;margin: auto ;list-style:none; /*Уюрать маркеры на тексте*/}
+
+/* Подсвечивание иконок */
+.telegram-index-menu:hover { display: inline-block; background-color: #E4381C;}
+.odnoklassniki-index-menu:hover {background-color: #E4381C;border-radius: 15px;text-decoration:underline;}
+.vk-index-menu:hover { display: inline-block; background-color: #E4381C;}
+.youtube-index-menu:hover { display: inline-block; background-color: #E4381C;}
+.instagram-index-menu:hover { display: inline-block; background-color: #E4381C;}
+.text-sports-equipment-abous-us {display: none;}
+.menu-logo {width: 235px;height: 58px;text-align: center;margin-top: 147px;margin-left: 11px;font-family: 'Rubik One', sans-serif;font-size: 30px;text-transform: uppercase;background: #2E2F45;display: table;color: white;border-radius: 5px;padding: 5px 10px;position: absolute;}
+.menu-logo-about-us {width: 235px;height: 58px;text-align: center;margin-top: 147px;margin-left: 11px;font-family: 'Rubik One', sans-serif;font-size: 30px;text-transform: uppercase;background: #2E2F45;display: table;color: white;border-radius: 5px;padding: 5px 10px;position: absolute;}
+.index-training-complex {width: 1140px;margin: -24px auto;display: grid;grid-template-columns: repeat(4, 1fr);grid-gap: 0px;}
+.tekst-banner-index {display: grid;color: #FFFFFF;font-size: 35px;font-weight: 400;line-height: 85px;align-content: center;justify-content: start;   }
+.tekst-banner-index h1 {width: 1375px;font-family: 'Nunito Sans', sans-serif;margin-top: -451px;margin-left: -154px;text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);text-align: center;}
+.group-index  {font-family: 'Oswald', sans-serif;color: #FFFFFF;font-weight: 200;font-size: 20px;text-decoration: none; line-height: 60px;}
+.texth3-group-index  {margin-left: 87px;position: absolute;}
+.group-index-opisanie {line-height: 30px;font-size: 17px;font-family: 'Oswald', sans-serif;margin-top: -183px;margin-left: 48px;}
+.home-index-menu:hover  {color:  #e5280b;}
+.about-us-index-menu:hover  {color:  #e5280b;}
+.graph-index-menu:hover  {color:  #e5280b;}
+.gallery-index-menu:hover  {color:  #e5280b;}
+.blog-index-menu:hover  {color:  #e5280b;}
+.contact-index-menu:hover  {color:  #e5280b;}
+.text-sports-nutrition-index:hover  {color:  #e5280b;}
+
+
+/* Подсветка кнопки без наведения мышки Первая "Подробнее" banner two */.btn-block  {width: 165px;background: linear-gradient(180deg, rgba(225, 137, 33, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #E18921;color: #FFFFFF;font-family: 'Oswald', sans-serif;border-radius: 5px;margin-left: 107px;}
+/* Подсветка кнопки при наведении мышки Первая "Подробнее" banner two */.btn-block:hover { display: inline-block; background: linear-gradient(orangered, gold); }
+
+/* Подсветка кнопки без наведения мышки Вторая "Подробнее" banner two */.btn-block-two  {width: 165px;background: linear-gradient(180deg, rgba(225, 137, 33, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #E18921;color: #FFFFFF;font-family: 'Oswald', sans-serif;border-radius: 5px;margin-left: 107px;}
+/* Подсветка кнопки при наведении мышки Вторая "Подробнее" banner two */.btn-block-two:hover { display: inline-block; background: linear-gradient(orangered, gold); }
+
+/* Подсветка кнопки без наведения мышки Третья "Подробнее" banner two */.btn-block-three  {width: 165px;background: linear-gradient(180deg, rgba(225, 137, 33, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #E18921;color: #FFFFFF;font-family: 'Oswald', sans-serif;border-radius: 5px;margin-left: 107px;}
+/* Подсветка кнопки при наведении мышки Третья "Подробнее" banner two */.btn-block-three:hover { display: inline-block; background: linear-gradient(orangered, gold); }
+
+
+
+.group-index:hover  {background-color:  #e5280b;padding-bottom: 5px;border-radius: 8px;}
+.personal-index:hover  {background-color:  #e5280b;padding-bottom: 5px;border-radius: 8px;}
+.sports-nutrition-index:hover  {background-color:  #e5280b;padding-bottom: 5px;border-radius: 8px;}
+.personal-index {font-family: 'Oswald', sans-serif;color: #FFFFFF;font-weight: 200;font-size: 20px; text-decoration: none; line-height: 60px; }
+.personal-index-opisanie {line-height: 30px;font-size: 17px;font-family: 'Oswald', sans-serif;margin-top: -183px;margin-left: 48px;}
+.texth3-personal-index {margin-left: 64px;position: absolute;}
+.texth3-sport-index {margin-left: 64px;position: absolute;}
+.sports-nutrition-index {font-family: 'Oswald', sans-serif;color: #FFFFFF;font-weight: 200;font-size: 20px;text-decoration: none;line-height: 60px;}
+.sports-index-opisanie {line-height: 30px;font-size: 17px;font-family: 'Oswald', sans-serif;margin-top: -183px;margin-left: 48px;}
+
+/*blok на Grid - banner three*/
+
+.index-welcone-club {display: grid;width: 1140px;margin: auto;grid-template-columns: 50% 40%; grid-template-rows: 343px 40px 168px;grid-gap: 0px;align-items: center;justify-content: center;}
+.teks-welcome-index {font-weight: 400;font-size: 46px;line-height: 98%;font-family: 'Oswald', sans-serif;color: #FFFFFF; }
+.teks-podborki-index {font-family: 'Nunito Sans', sans-serif;font-size: 17px;line-height: 25px;color: #FFFFFF;}
+.teks-podborki-index-two {font-family: 'Nunito Sans', sans-serif;font-size: 17px;line-height: 25px;color: #FFFFFF;}
+.foto-gym-three-index {width: 470px;height: 320px;margin-top: 166px;}
+/* Подсветка кнопки без наведения кнопки мышки "Подробнее" banner three */.btn-three-index {width: 165px;height: 40px;background: linear-gradient(180deg, #E18921 0%, #E4381C 100%);color: #FFFFFF;font-family: 'Oswald', sans-serif;border-radius: 5px;margin-left: -571px;margin-top: 189px;text-decoration: none}
+/* Подвинуть текст внутри кнопки banner three*/.btn-three-index-text {padding-left: 45px;margin-top: 8px;} 
+/* Подсветка кнопки при наведении мышки "Подробнее" banner three */.btn-three-index:hover { display: inline-block; background: linear-gradient(orangered, gold); }
+.index-programs-club {width: 1140px;margin: auto ;}
+.heading-index-programs-club {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 44px;text-align: center;color: #FFFFFF;margin-top: -295px;}
+.text-index-programs-four {font-family: 'Nunito Sans', sans-serif;font-size: 21px;line-height: 21px;text-align: center;color: #FFFFFF;margin-top: -14px;}
+.index-offers-club {display: grid;width: 1140px;margin: auto;grid-template-columns: 25% 24% 25% 25%;margin-top: 40px;}
+/* Подсветка контейнера Crossfit */.foto-crossfit-index:hover  {background-color:  #e5280b;padding-bottom: 10px;border-radius: 8px;}
+/* Подсветка контейнера Fitnes */.foto-fitness-index:hover  {background-color:  #e5280b;padding-bottom: 10px;border-radius: 8px;}
+/* Подсветка контейнера BJJ */.foto-bjj-index:hover  {background-color:  #e5280b;padding-bottom: 10px;border-radius: 8px;}
+/* Подсветка контейнера MIX */.foto-dance-index:hover  {background-color:  #e5280b;padding-bottom: 10px;border-radius: 8px;}
+.zagalovok-crossfit-index {font-family: 'Oswald', sans-serif;font-size: 25px;color: #FFFFFF;margin-left: 92px;margin-top: 37px;position: absolute;}
+.teks-crossfit-index {font-family: 'Nunito Sans', sans-serif;font-size: 15px;line-height: 113.7%;color: #FFFFFF;margin-top: -209px;margin-left: 32px;}
+.teks-crossfit-index {font-size: 14px;color: #FFFFFF;margin-top: -179px;}
+
+/* Подсветка кнопки при наведении мышки "Подробнее-Crossfit" banner five */.crossfit-btn-five-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
+/* Подсветка кнопки без наведения кнопки мышки "Подробнее-Crossfit" banner five */
+.crossfit-btn-five-index {width: 125px;height: 30px;
+background: linear-gradient(180deg, rgba(253, 3, 3, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);
+border: 1px solid #FA0909;font-family: 'Oswald', sans-serif;color: #FFFFFF;margin-left: -207px;border-radius: 3px;margin-top: 212px;text-decoration: none;font-size: 14px;}
+
+/* выравнивание текста в кнопке "Подробнее-Crossfit" banner five */.crossfit-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
+
+.zagalovok-fitness-index {font-family: 'Oswald', sans-serif;font-size: 25px;font-weight: 200;color: #FFFFFF;margin-left: -181px;margin-top: 38px;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Подробнее-Fitness" banner five */.fitness-btn-five-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
+/* выравнивание текста в кнопке "Подробнее-Crossfit" banner five */.fitness-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
+/* Фото Crossfit */.foto-crossfit-index {margin-left: 1px;margin-top: 3px;}
+/* Фото фитнес */.foto-fitness-index {margin-left: -288px;margin-top: 3px;}
+.teks-fitness-index {font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -180px;margin-left: -258px;}
+/* Кнопка "Подробнее" five Fitness цвет  */.fitness-btn-five-index {width: 125px;height: 30px;background: linear-gradient(180deg, rgba(253, 3, 3, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margin-left: 350px;margin-top: 212px;border-radius: 3px;text-decoration: none;font-size: 14px;position: absolute;}
+.zagalovok-bjj-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 23px;color: #FFFFFF;margin-top: 14px;margin-left: -583px;position: absolute;}
+.bjj-index {display: flex;flex-direction: column;align-items: center;}
+.teks-bjj-index {font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -167px;margin-left: -560px;}
+
+
+/* Кнопка "Подробнее" five BJJ цвет  */.bjj-five-index {width: 125px;height: 30px;
+background: linear-gradient(180deg, rgba(253, 3, 3, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);
+border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margin-left: 636px;margin-top: 212px;border-radius: 3px;text-decoration: none;font-size: 14px;position: absolute;}
+/* выравнивание текста в кнопке "Подробнее-bjj" banner five */.bjj-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
+/* Подсветка кнопки при наведении мышки "Подробнее-bjj" banner five */.bjj-five-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
+/* Смещение фотографии бразильское джиуджитсу*/ .foto-bjj-index {margin-left: -573px;margin-top: 3px;}
+/* Смещение фотографии Танцевальный микс*/.foto-dance-index {margin-left: 841px;margin-top: -244px;}
+/* Заголовок Танцевальный Микс five */.zagalovok-dance-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 25px;color: #FFFFFF;margin-left: 887px;margin-top: -234px;position: absolute;}
+/* Текст Танцевальный Микс five */.teks-dance-index {width: 252px;font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -177px;margin-left: 886px;}
+ /* Кнопка "Подробнее" five Dance цвет  */.btn-dance-mix-index {width: 125px;height: 30px;background: linear-gradient(180deg, rgba(253, 3, 3, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #FA0909;font-size: 14px;color: #FFFFFF;font-family: 'Oswald', sans-serif;margin-top: 212px;margin-left: 938px;border-radius: 3px;text-decoration: none;position: absolute;}
+/* выравнивание текста в кнопке "Подробнее-dance" banner five */.dance-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
+  /* Подсветка кнопки при наведении мышки "Подробнее-dancej" banner five */.btn-dance-mix-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
+
+
+
+ /* banner-six */
+
+/* Контейнер six secti */.club-table-index {display: grid;width: 1140px;margin: auto;grid-template-columns: 25% 24% 25% 25%;margin-top: 196px;color: #f4f2f2;}
+/* Заголовок РАСПИСАНИЕ ЗАНЯТИЙ */.zagolovok-schedule-index {width: 448px;margin-left: 382px;margin-top: -110px;font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 36px;line-height: 56px;color: #FFF7F7;}
+/* Перемещение таблицы */.iksweb {margin-top: 30px;margin-left: -243px;}
+/* Шрифт время по левой стороне */.time-shrift-table-index {font-family: 'Oswald', sans-serif;font-size: 35px;}
+/* Шрифт заглавный Понед-Воск верх */.weekday-shrift-table-index {font-family: 'Oswald', sans-serif;text-align: center;}
+/* Текст в таблице с названием мероприятий Красный */.tekst-lessons-table-index {color: #E4381C;text-align: center;font-family: 'Oswald', sans-serif;line-height: 18px;font-size: 15px;}
+/* цифры в таблице маленькие */.numbers-table-index { width: 123px; font-size: 13px;font-family: 'Nunito Sans', sans-serif;  text-align: center;}
+
+
+table.iksweb th{font-weight:normal;font-size:16px; color:#ffffff;background-color:#348f00;}
+table.iksweb td{font-size:17px;color:#fefdfd;}
+table.iksweb td,table.iksweb th{white-space:pre-wrap;padding:4px 7px;border: 1px solid #313330;}
+/* Непонятно как выделить цвет в одну яйчейку а не несколько *//* table.iksweb tr:hover{background: linear-gradient(180deg, #E18921 0%, #E4381C 100%);} */
+table.iksweb tr:hover td{color:#f1f4f8;cursor:default;}
+
+/* Подсветка таблицы в яйчеках */
+table th, table td {color: 1px solid #e10c0c;padding: 10px;text-align: center;vertical-align: middle;position: relative;}
+table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px; bottom: 0px; left: 0px;border: 3px solid rgb(255, 60, 0);}
+
+
+                         /* banner-seven */
+
+/* Контейнер six secti */.season-tickets-index {display: grid;width: 1140px;margin: auto;grid-template-columns: 25% 24% 25% 25%;margin-top: 125px;color: #f4f2f2;}
+/* Заголовок выберите свой абонемент */.zagolovok-abonement-index {width: 426px;font-family: 'Oswald', sans-serif;font-size: 35px;font-weight: 500;margin-left: 51px;}
+
+.tekst-season-tickets-index {display: grid;width: 670px;font-family: 'Nunito Sans', sans-serif;font-size: 14px;text-align: center;color: #ffffff;margin-top: 131px;margin-left: -353px;}
+/* Блок №1 */.block-index-one {background: #ffffff;width: 208px;height: 325px;margin-left: -617px;margin-top: 348px;}
+/* Блок №2 */.block-index-two {background: #ffffff;width: 208px;height: 325px;margin-left: -97px;margin-top: -365px;}
+/* Блок №3 */.block-index-three {background: #ffffff;width: 208px;height: 325px;margin-left: 411px;margin-top: -365px;}
+/* Текст Ежемесяно 1 блок */.one-monthly-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -253px;margin-left: 304px;font-size: 10px;}
+/* Текст Ежемесяно 2 блок */.two-monthly-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -254px;margin-left: -842px;font-size: 10px;}
+/* Текст Ежемесяно 3 блок */.three-monthly-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -28px;margin-left: -4px;font-size: 10px;}
+/* Заголовок Обычный блок №1 */.ordinary-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 18px;text-align: center;color: #000000;margin-top: 33px;}
+/* Заголовок Проффессиональный блок №2 */.professional-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 18px;text-align: center;color: #000000;margin-top: 33px;}
+/* Заголовок ПРОДВИНУТЫЙ блок №3 */.advanced-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 18px;text-align: center;color: #000000;margin-top: 33px;}
+/* Сумма абонементов 1800-3000-4500 */.numer-one-index {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 25px;text-align: center;color: #000000;margin-top: -41px;}
+/* Рубль символ 1 */.rub-one-index {color: #000000;text-align: center;margin-left: -77px;margin-top: 23px;}
+/* Рубль символ 2 */.rub-two-index {color: #000000;text-align: center;margin-left: -77px;margin-top: 23px;}
+/* Рубль символ 3 */.rub-three-index {color: #000000;text-align: center;margin-left: -77px;margin-top: 23px;}
+/* Текст в блоке 1 */.description-one-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 10px;line-height: 15px;text-align: center;color: #000000;margin-left: -183px;margin-top: -230px;}
+/* Текст в блоке 2 */.description-two-index {width: 760px;font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 10px;line-height: 15px;text-align: center;color: #0a0909;margin-left: 189px;margin-top: -230px;}
+/* Текст в блоке 3 */.description-three-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 10px;line-height: 15px;text-align: center;color: #000000;margin-left: -1px;margin-top: 10px;}
+/* Расположение блока radio двойная кнопка */.form_toggle {display: inline-block;overflow: hidden;margin-left: -99px;padding-top: 30px;}
+
+.form_toggle-item {float: left; }
+.form_toggle-item input[type=radio] {display: none;}
+.form_toggle-item label {display: inline-block;padding: 0px 15px;line-height: 34px;border: 1px solid #999;border-right:none;cursor: pointer;user-select: none;}
+ 
+.form_toggle .item-1 label {border-radius: 6px 0 0 6px;}
+.form_toggle .item-2 label {border-radius: 0 6px 6px 0;border-right: 1px solid #999;}
+ 
+/* Цвет первого переключателя */
+.form_toggle .item-1 input[type=radio]:checked + label {background: #e5b8ae;}
+
+/* Цвет второго переключателя */.form_toggle .item-2 input[type=radio]:checked + label {background: #e5b8ae;}
+
+
+
+/* Текст кнопки купить 1 */.one-btn-seven-index-text {font-family: 'Oswald', sans-serif;font-weight: 500;line-height: 16px;font-size: 10px;color: #E4381C;letter-spacing: 0.105em;margin-top: 3px;}
+/* Оформление кнопки купить 1 */.one-btn-blok-seven-index {width: 91px;height: 26px;background: rgba(217, 217, 217, 0.09);border: 1px solid #E4381C;border-radius: 3px;margin-top: 303px;margin-left: -276px;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Купить" banner seven тариф Обычный  */.one-btn-blok-seven-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E26F1F 31.41%, #E4381C 100%);}
+/*Подсветка текста "Купить" тариф Обычный*/.one-btn-seven-index-text:hover  {color: #f6f1f1;border-radius: 5px;text-decoration:underline;}
+
+
+
+/* Текст кнопки купить 2 */.two-btn-seven-index-text {font-family: 'Oswald', sans-serif;font-weight: 500;line-height: 16px;font-size: 10px;color: #E4381C;letter-spacing: 0.105em;margin-top: 3px;}
+/* Оформление кнопки купить 1 */.two-btn-blok-seven-index {width: 91px;height: 26px;background: rgba(217, 217, 217, 0.09);border: 1px solid #E4381C;border-radius: 3px;margin-top: 303px;margin-left: -35px;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Купить" banner seven тариф Обычный  */.two-btn-blok-seven-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E26F1F 31.41%, #E4381C 100%);}
+/*Подсветка текста "Купить" тариф Обычный*/.two-btn-seven-index-text:hover  {color: #f6f1f1;border-radius: 5px;text-decoration:underline;}
+
+
+
+/* Текст кнопки купить 2 */.three-btn-seven-index-text {font-family: 'Oswald', sans-serif;font-weight: 500;line-height: 16px;font-size: 10px;color: #E4381C;letter-spacing: 0.105em;margin-top: 3px;}
+/* Оформление кнопки купить 1 */.three-btn-blok-seven-index {width: 91px;height: 26px;background: rgba(217, 217, 217, 0.09);border: 1px solid #E4381C;border-radius: 3px;margin-top: 303px;margin-left: 195px;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Купить" banner seven тариф Обычный  */.three-btn-blok-seven-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E26F1F 31.41%, #E4381C 100%);}
+/*Подсветка текста "Купить" тариф Обычный*/.three-btn-seven-index-text:hover  {color: #f6f1f1;border-radius: 5px;text-decoration:underline;}
+
+
+                                              /* banner-eight*/
+
+
+/* Контейнер eight secti */.advantages-index {display: grid;width: 1140px;margin: auto;color: #f4f2f2;justify-content: center;grid-template-rows: 162px 115px 276px 285px;}
+/* Текст - ПОЧЕМУ ЛЮДИ ВЫБИРАЮТ ИМЕННО НАС */.tekst-choosing-us-index {display: grid;font-family: 'Oswald', sans-serif;font-weight: 400;color: #FAF3F3;font-size: 42px;justify-content: center;}
+/* Текст спортивные эксперты */.text-sports-equipment-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 16px;color: #FDF8F8;margin-top: -17px;}
+
+
+.blocki-banner-eight {display: flex; /* выставил блоки друг за другом */grid-gap: 64px; }
+
+/* Блок 1  */
+/* Поднять блок мы будем с вами */.block-weare-with-you-index {margin-top: -5px;}
+
+
+/* текст Мы с вами */.teks-mu-s-vami-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
+/* Текст опыт команды */.teks-oput-komandu-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
+
+
+/* Блок 2 - опустить */.block-nach-trener {margin-top: 37px;}
+/* 2 текст */.teks-nechastui-posetitel-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;margin-top: 34px;}
+/* текст Наш тренер */.teks-nach-trener-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
+
+/* Блок 3 */
+/* поднять блок */.block-personalized-sessions-index {margin-top: -15px;}
+/* 3 текст */.tekst-succeed-in-business-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
+/* текст ПЕРСОНАЛИЗИРОВАННЫЕ СЕССИИ */.teks-personalized-sessions-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
+
+
+/* Нижние иконки banner-eight  */
+/* Нижние блоки */.blocki-two-banner-eight {display: flex;grid-gap: 64px;}
+
+/* 4 Блок */
+/* Текст наш современный тренажерный зал */.tekst-modern-gym-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
+
+
+/* текст НАШИ ТРЕНАЖЁРЫ */.tekst-our-simulators-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
+/* текст Ежедневные тренировки */.tekst-daily-workouts-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
+/* текст "У нас просто не хватило бы воли" */.tekst-everyday-life-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
+
+/* Блок 6 */
+/* Опустить блок */.block-focus-one-index {margin-top: 10px;}
+/* текст СОСРЕДОТОЧЬТЕСЬ НА СВОЕМ ЗДОРОВЬЕ */.tekst-your-health-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
+/* текст в создании идеального тела  */.tekst-will-engage-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
+
+
+                                             /* Block девятый */
+
+/* Контейнер nine secti */.swimming-pool-index {display: grid;width: 1140px;margin: auto;color: #f4f2f2;justify-content: center;grid-template-rows: 162px 115px 75px;}
+/* Текст бассейн в Нижнем Новгороде */.tekst-swimming-pool-index {display: grid;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 38px;line-height: 135.7%;text-align: center;color: #FDF8F8;margin-top: -255px;text-decoration: none;}
+/* Подвинуть иконку */.icons-video-index {margin-left: 549px;margin-top: -20px;text-align: center;}
+
+
+
+                                              /* Block десятый */
+
+.from-our-blog-index {display: grid;width: 1140px;margin: auto;color: #f4f2f2;justify-content: center;grid-template-rows: 133px 115px 689px;}
+/* Текст из нашего блога */.tekst-from-our-blog-index {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 44px;text-align: center;color: #FEF5F5;}
+/* Текст "Список всех новостей" */.tekst-list-news-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 20px;text-align: center;color: #FEF9F9;letter-spacing: -0.025em;}
+/* Текст "Список всех новостей" */.tekst-list-news-blog {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 20px;text-align: center;color: #FEF9F9;letter-spacing: -0.025em;}
+/* Расположения Блогов */.block-offers-one-index {display: grid;grid-template-columns: 33% 40% 35%;}
+
+/* Первый блок */
+
+/* Текст "ONE-FIT & CROOSFIT" */.tekst-one-fit-crosfit {font-family: 'Nunito Sans', sans-serif;font-weight: 300;color: #FEF6F6;font-size: 16px;margin-top: -76px;margin-left: 17px;}
+/* Текст "Индивидуальные занятия" */.tekst-one-individual-classes-crossfit-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;color: #FEF6F6;font-size: 14px;margin-top: -10px;margin-left: 19px;}
+
+    /* Второй блок */
+
+/* Текст "СПОРТИВНЫЙ КЛУБ "ONE-FIT" */.tekst-two-gym-fit-crosfit {font-family: 'Nunito Sans', sans-serif;font-weight: 300;color: #FEF6F6;font-size: 16px;margin-top: -126px;margin-left: 17px;}
+.tekst-two-gym-fit-crosfit-blog {font-family: 'Nunito Sans', sans-serif;font-weight: 300;color: #FEF6F6;font-size: 16px;margin-top: -126px;margin-left: 17px;}
+/* Иконка instagram */.ten-block-icons-instagram {margin-left: 263px;margin-top: -33px;position: absolute;}
+.tekst-two-follow-our-classes-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 14px;color: #FCF7F7;margin-left: 19px;}
+.tekst-two-follow-our-classes-blog {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 14px;color: #FCF7F7;margin-left: 19px;}
+
+    /* 3 блок */
+
+/* Опустить бок */.ten-block-four-index  {margin-top: -132px;}
+/* Текст  ONE-FIT & БОДИБИЛДИНГ */.ten-tekst-three-gym-fit-bodibilding {font-family: 'Nunito Sans', sans-serif;font-weight: 300;color: #FEF6F6;font-size: 16px;margin-top: -77px;margin-left: 17px;}
+/* Текст "Галерея" */.ten-tekst-three-gallery-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;color: #FEF6F6;font-size: 14px;margin-top: -10px;margin-left: 19px;}
+/* Текст БОКС | СПОРТИВНЫЙ КЛУБ |ONE-FIT */.ten-tekst-four-gym-fit-bodibilding {font-family: 'Nunito Sans', sans-serif;font-weight: 300;color: #FEF6F6;font-size: 14px;margin-top: -114px;margin-left: 17px;}
+/* Текст Групповые, индивидуальные */.ten-tekst-four-group-individual-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;color: #FEF6F6;font-size: 13px;margin-top: -7px;margin-left: 17px;}
+
+    /* Блок 5 */
+
+    /* Поднять блок */.ten-block-five-index {margin-top: -270px;}
+   /* Текст Спортивный клуб */.ten-tekst-five-sport-gym {font-family: 'Nunito Sans', sans-serif;font-weight: 500;color: #FEF6F6;font-size: 14px;margin-top: -119px;margin-left: 17px;}
+/* Текст наши тренажёры */.ten-tekst-five-our-simulators-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;color: #FEF6F6;font-size: 13px;margin-top: -7px;margin-left: 17px;}
+
+            /* Блок 6  */
+
+/* Поднять блок */.ten-block-six-index {margin-top: -222px;}
+/* Текст ТЕХНИКА ВЫПОЛНЕНИЯ БАЗОВЫХ Упражнений */.ten-tekst-six-technique-execution {font-family: 'Nunito Sans', sans-serif;font-weight: 500;color: #FEF6F6;font-size: 14px;margin-top: -111px;margin-left: 17px;}
+/* Текст "Чтобы не травмировать суставы" */.ten-tekst-six-injure-joints {font-family: 'Nunito Sans', sans-serif;font-weight: 400;color: #FEF6F6;font-size: 12px;margin-top: -4px;margin-left: 17px;}
+
+                                           /* block banner 11 */
+
+/* Цветовая окраска блока */.buy-blog-index {background: linear-gradient(180deg, #E17D21 0%, rgba(228, 56, 28, 0.81)100%);}
+/* Размер экрана блока, отступы */.vnutru-buy-blog-index {width: 1140px;margin: auto ;height: 191px;grid-template-rows: 133px 115px 605px;grid-template-columns: 33% 40% 35%;}           
+/* Текст Начните сегодня */.eleven-tekst-start-today-index {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 40px;color: #FCF7F7;padding-top: 38px;padding-left: 144px;}
+/* Текст Вы студент! 500 рублей  */.tekst-are-you-student-index {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 13px;text-align: left;color: #FDF9F9;padding-left: 144px;margin-top: -24px;}
+/* Оформление кнопки купить 1 */.one-btn-blok-eleven-index {display: grid;width: 141px;height: 36px;background: rgba(217, 217, 217, 0.09);border: 1px solid #FFFFFF;border-radius: 3px;margin-top: -49px;margin-left: 914px;text-align: right;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Купить" banner seven тариф Обычный  */.one-btn-blok-eleven-index:hover { display: inline-block; background: #e10c0c;}
+/* Текст в кнопке Купить */.text-one-btn-blok-eleven-index {font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;text-align: center;margin-top: 3px;color: #FFFFFF;}
+
+
+                                         /* block banner 12 */
+
+
+.maps-api-blog-index{width: 1140px;margin: auto;}
+.maps-api-contact {display: grid;width: 372px;height: 406px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;position: absolute;background: #FFF8F8;border: #E1E1E1 1px;margin-top: -58px;}
+/* Подвинуть форму влево */.form-twelve-index {margin-left: 684px;}
+/* Блог Характеристик описания адреса Поднять Блок, Цвет, ширина, высота, */
+.maps-api-index {
+  display: grid;
+  width: 400px;
+  height: 343px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  position: absolute;
+  background: #FFF8F8;
+  border: #E1E1E1 1px;
+  margin-top: 9px;
+  margin-left: -658px;
+}
+/* Текст Режим работы */
+.tekst-operating-mode-index {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  padding-top: 46px;
+  margin-left: 40px;
+  margin-top: -8px;
+}
+/* Текст Будние дни */
+.tekst-weekdays-index {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  margin-top: -38px;
+  margin-left: 175px;
+}
+/* Текст 06:30 - 11:00 */
+.tekst-time-one-index {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  margin-top: -53px;
+  margin-left: 274px;
+}
+/* Текст суббота */
+.tekst-saturday-index {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  margin-top: -72px;
+  margin-left: 176px;
+}
+/* Текст 07:00 - 22:00 */
+.tekst-time-two-index {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  margin-top: -87px;
+  margin-left: 275px;
+}
+/* Текст Воскресенье */
+.tekst-sunday-index {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  margin-top: -109px;
+  margin-left: 176px;
+}
+/* Текст 09:00 - 18:00 */
+.tekst-time-three-index {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  margin-top: -124px;
+  margin-left: 274px;
+}
+/* Текст связаться с нами */.tekst-contact-us-index {font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;margin-top: -134px;margin-left: 41px;}
+/* Форма "Имя" */.form-one-name-index {box-sizing: border-box;width: 138px;height: 32px;border: 2px solid #E1E1E1;border-radius: 1px;margin-top: -132px;margin-left: 1px;padding-left: 13px;text-decoration: none;list-style: none;position: absolute;}
+/* Форма "Телефон" */
+.form-two-name-index {
+  box-sizing: border-box;
+  width: 148px;
+  height: 32px;
+  border: 2px solid #E1E1E1;
+  margin-left: 149px;
+  margin-top: -132px;
+  padding-left: 11px;
+  position: absolute;
+}
+/* Форма "Написать нам" */.form-three-name-index {width: 298px;height: 56px;border: 2px solid #E1E1E1;margin-top: -90px;padding-left: 13px;padding-top: 10px;position: absolute;}
+/* Кнопка "Оставить заявку" */.btn-submit-your-application-index {width: 166px;height: 34px;background: rgba(217, 217, 217, 0.09);border: 1px solid #E4381C;margin-top: -6px;border-radius: 7px;position: absolute;}
+/* Текст Кнопки "Оставить заявку" */.text-submit-your-application-index {    font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 12px;text-align: center;color: #000000;margin-top: 8px;}
+/* Подсветка кнопки при наведении мышки "Оставить заявку" banner 12 тариф Обычный  */.btn-submit-your-application-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E26F1F 31.41%, #E4381C 100%);}
+
+                                                                   /* 13 blog */
+
+
+.information-blog-index {width: 1140px;margin: auto;}
+/* Расположение блогов */.location-blog {display: grid;grid-template-rows: 580px;grid-template-columns: 34% 23% 18% 18%;}
+.location-contact {display: grid;grid-template-rows: 580px;grid-template-columns: 40% 28% 18%;}
+.one-sec-contact {display: grid;grid-template-rows: 243px 105px;grid-gap: 10px;}
+/* Первая колонка Блогов */.one-sec-blog {display: grid;grid-template-rows: 243px 105px;grid-gap: 10px;}
+/* Логотип-фото */.logo-gym-thirteen-index {width: 199px;height: 103px;margin-top: 80px;margin-left: 104px;}
+/* Текст Логотипа */.text-logo-index {width: 465px;height: 58px;font-family: 'Monoton', sans-serif;font-weight: 400;text-align: center;color: #19A616;position: absolute;margin-top: 211px;margin-left: -23px;font-size: 35px;}
+/* Текст ПРИВОДИ СВОИХ ДРУЗЕЙ */.text-your-friends-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;line-height: 25px;color: #FDFAFA;margin-left: 118px;margin-top: 77px;}
+/* Текст "СЛЕДУЙТЕ ЗА НАМИ" */.text-follow-us-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;line-height: 33px;color: #FCF5F5;margin-top: 61px;margin-left: 115px;}
+/* Расположение иконок соц-сетей */.menu-spisok-niz-index {display: flex;margin-top: 471px;margin-left: 114px;justify-content: flex-end;align-items: center;position: absolute;}
+.two-sec-contact {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: -7px;}
+/* Текст НАШ БЛОГ */.tekst-our-blog-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 149px;}
+/* Вторая колонка блогов */.two-sec-blog {display: grid;}
+/* 1-Красная иконка с временем */.icons-one-index-thirteen {margin-top: 32px;margin-left: -153px;position: absolute;}
+/* Текст ЛЮДИ КОТОРЫЕ РАБОТАЮТ С НАМИ */.tekst-people-work-index  {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 11px;text-decoration: none;color: #FFF2F2;}
+/* Подсветка кнопки при наведении мышки "ЛЮДИ КОТОРЫЕ РАБОТАЮТ С НАМИ"  */.tekst-people-work-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст ЯНВАРЬ 02, 2023 */.text-january-index {display: grid;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 11px;margin-top: 10px;margin-left: 34px;color: #AFB4BF;text-decoration: none;}
+/* Подсветка кнопки при наведении мышки "Текст ЯНВАРЬ 02, 2023"  */.text-january-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст СОСТАВЛЕНИЕ ПРОГРАММЫ ДЛЯ НОВИЧКА */.tekst-preparation-programs-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 12px;text-decoration: none;color: #FFF2F2;margin-top: 22px;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Текст СОСТАВЛЕНИЕ ПРОГРАММЫ ДЛЯ НОВИЧКА"  */.tekst-preparation-programs-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* 2-Красная иконка с временем */.icons-two-index-thirteen {margin-top: 48px;margin-left: -1px;position: absolute;}
+/* Текст Февраль 02, 2023 */.text-february-index {display: grid;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 11px;margin-top: 53px;margin-left: 33px;color: #AFB4BF;text-decoration: none;}                  
+/* Подсветка кнопки при наведении мышки "Текст ФЕВРАЛЬ 09, 2023"  */.text-february-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст НОВОСТИ */.tekst-news-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 12px;text-decoration: none;color: #FFF2F2;margin-top: 18px;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Текст НОВОСТИ"  */.tekst-news-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* 3-Красная иконка с временем */.icons-three-index-thirteen {margin-top: 44px;margin-left: -2px;position: absolute;}
+/* Текст Март 17 , 2023 */.text-march-index {display: grid;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 11px;margin-top: 50px;margin-left: 33px;color: #AFB4BF;text-decoration: none;}
+/* Подсветка кнопки при наведении мышки "Текст Март 17 , 2023"  */.text-march-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+
+                                                /* footer */
+
+.footer-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;  color: #AFB4BF;text-align: center;height: 61px;line-height: 23px;background: #000000;padding-top: 11px;;}
+/* Третья колонка блогов */.three-sec-blog {display: grid;}
+/* Текст ПРОГРАММА */.tekst-programm-blog-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
+/* Текст Бодибилдинг */.tekst-bodybuilding-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
+/* Подсветка кнопки при наведении мышки "Текст Бодибилдинг  */.tekst-bodybuilding-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст Стретчинг */.tekst-stretching-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
+/* Подсветка кнопки при наведении мышки "Текст Стретчинг  */.tekst-stretching-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст Бег */.tekst-running-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
+/* Подсветка кнопки при наведении мышки "Текст Бег */.tekst-running-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст Питание */.tekst-food-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
+/* Подсветка кнопки при наведении мышки "Текст Питание */.tekst-food-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст Тренажерный зал Фитнес */.tekst-gym-fitness-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
+/* Подсветка кнопки при наведении мышки "Текст Тренажерный зал Фитнес */.tekst-gym-fitness-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст Получить информацию */.tekst-get-information-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
+/* Текст Контакты: */.tekst-contacts-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
+/* Текст email: */.tekst-email-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
+/* Текст Адрес */.tekst-address-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
+
+                                                               /* Раздел о нас Abous US */
+
+/* Текст О нас */.tekst-about-us {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 74px;color: #FEF9F9;margin-left: -642px;margin-top: 336px;text-decoration: none;position: absolute;}
+/* Иконка телефона */.icons-phone-about-us {margin-top: 483px;margin-left: -743px;position: absolute;}
+/* Текст Главная> */.icons-vector-left-about-us {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 30px;margin-top: 472px;margin-left: -700px;color: #FFFFFF;text-decoration: none;line-height: 135.2%;position: absolute;}
+/* Текст О нас */.icons-vector-right-about-us {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 30px;margin-top: 472px;margin-left: -545px;color: #FFFFFF;text-decoration: none;line-height: 135.2%;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Текст Текст Главная> */.icons-vector-left-about-us:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Подсветка кнопки при наведении мышки "Текст Текст О нас */.icons-vector-right-about-us:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Подсветка кнопки при наведении мышки "Текст Текст Главная> */.icons-vector-left-gallery:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Подсветка кнопки при наведении мышки "Текст Текст Главная> */.icons-vector-right-gallery:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
+/* Текст МЫ ЛУЧШИЕ В СВОЕМ ДЕЛЕ */.tekst-the-best-about-us {display: grid;font-weight: 400;font-size: 46px;line-height: 98%;font-family: 'Oswald', sans-serif;justify-content: center;margin-top: -265px;color: #FFFFFF; }
+/* Третья секция Блока */.abous-us-welcone-club {display: grid;width: 1140px;margin: auto;grid-template-columns: 75%;grid-template-rows: 620px 530px 122px;grid-gap: 0px;align-items: center;justify-content: center;}
+/* Фото клиенты на тренажёрах */.foto-gym-three-about-us {margin-top: -602px;}
+/* Блок расположения двух текстов */.description-care-quality-abous-us {display: grid;width: 847px;margin: auto;grid-template-columns: 50% 50%;grid-template-rows: 412px;gap: 97px;}
+
+/* Галочки Белые */
+.one-jackdaw-about-us {margin-top: -519px;margin-left: -519px;position: absolute;}
+.two-jackdaw-about-us {margin-top: -468px;margin-left: -521px;position: absolute;}
+.three-jackdaw-about-us {margin-top: -393px;margin-left: -521px;position: absolute;}
+.four-jackdaw-about-us {margin-top: -219px;margin-left: -521px;position: absolute;}
+.five-jackdaw-about-us {margin-top: -145px;margin-left: -522px;position: absolute;}
+.six-jackdaw-about-us {margin-top: -518px;margin-left: -1px;position: absolute;}
+.seven-jackdaw-about-us {margin-top: -443px;margin-left: 2px;position: absolute;}
+.nine-jackdaw-about-us {margin-top: -392px;margin-left: 0px;position: absolute;}
+
+/* Галочки красные */
+.one-red-jackdaw-about-us {margin-top: -269px;margin-left: -1px;position: absolute;}
+.two-red-jackdaw-about-us {margin-top: -194px;margin-left: -2px;position: absolute;}
+.three-red-jackdaw-about-us {margin-top: -120px;margin-left: -2px;position: absolute;}
+.four-red-jackdaw-about-us {margin-top: -69px;margin-left: -3px;position: absolute;}
+/* Текст "ИСКРЕННЯЯ ЗАБОТА О КЛИЕНТЕ" */.tekst-concern-klient-about-us {display: grid;font-weight: 400;font-size: 30px;line-height: 98%;font-family: 'Oswald', sans-serif;margin-top: -265px;color: #FFFFFF; }
+/* Текст НАШЕ КАЧЕСТВО */
+.tekst-our-quality-about-us {display: grid;font-weight: 400;font-size: 30px;line-height: 98%;font-family: 'Oswald', sans-serif;margin-top: -265px;color: #FFFFFF; }
+.teks-podborki-two-index {font-family: 'Nunito Sans', sans-serif;font-size: 17px;line-height: 25px;color: #FFFFFF;}
+/* Четвертый блок расположение элементов */.about-us-programs-club {display: grid;width: 1140px;margin: auto;height: 564px;grid-template-rows: 146px 103px 278px;}
+
+/* 5 звезд фото */
+.one-zvezda-about-us {margin-left: -706px;margin-top: 90px;position: absolute;}
+.two-zvezda-about-us {margin-left: -654px;margin-top: 89px;position: absolute;}
+.three-zvezda-about-us {margin-left: -601px;margin-top: 89px;position: absolute;}
+.four-zvezda-about-us {margin-left: -547px;margin-top: 89px;position: absolute;}
+.five-zvezda-about-us {margin-left: -493px;margin-top: 89px;position: absolute;}
+/* Текст Хожу в этот клуб с самого открытия */.text-about-us-four {font-family: 'Nunito Sans', sans-serif;font-size: 21px;line-height: 21px;text-align: center;color: #FFFFFF;}
+/* Текст имя клиента */.tekst-name-klient-about-us {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 17px;color: #FFFFFF;margin-left: 538px;}
+/* Фото клиента на отзыве */.foto-klient-about-us {width: 70px;height: 88px;margin-left: 534px;margin-top: -201px;}
+
+                                                                          /* banner five 5 about-us */
+
+/* Контейнер five secti */.coaches-about-us {display: grid;width: 1140px;margin: auto;color: #f4f2f2;justify-content: center;grid-template-rows: 199px 94px 316px 318px 302px;grid-gap: 0px;}
+/* Текст наши тренера */.tekst-choosing-about-us {display: grid;font-family: 'Oswald', sans-serif;font-weight: 400;color: #FAF3F3;font-size: 42px;justify-content: center;margin-top: 122px;}
+/* Текст наши эксперты */.text-expert-equipment-about-us {display: grid;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 16px;justify-content: center;}
+/* Расположение блоков */.blocki-banner-five-trainer {width: 1140px;display: flex; grid-template-columns: repeat(4, 1fr);grid-gap: 64px; justify-content: center;}
+/* Расположение Цветовой гаммы */.gamma-tekst-about-us {margin-top: 217px;margin-left: -188px;position: absolute;}
+/* Текст Полина Курбанова */.tekst-polina-about-us {font-family: 'Oswald', sans-serif;font-weight: 400;color: #FAF3F3;font-size: 15px;color: #FBF6F6;margin-top: -50px;margin-left: 11px;position: absolute;}
+.tekst-stretching-about-us {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 12px;  color: #FBF6F6;  margin-top: -26px;margin-left: 11px;position: absolute;} 
+/* Расположение блоков Тренеров 2 колонка*/.blocki-two-banner-five-trainer {width: 1140px;display: flex; grid-template-columns: repeat(4, 1fr);grid-gap: 64px; justify-content: center;}
+/* Расположение блоков Тренеров 3 колонка тренеров*/.blocki-three-banner-five-trainer {width: 1140px;display: flex; grid-template-columns: repeat(4, 1fr);grid-gap: 64px; justify-content: center;}
+/* Подсветка кнопки при наведении мышки "на блок тренера" */.icons-one-block-five-about-us:hover  {border: 8px solid #f26522; /* Рамка при наведении на ссылку курсора мыши */}
+/* Подчеркивание текста колонки тренеров */.tekst-stretching-about-us:hover {width: 150px;height: 20px;font-weight: 400;color: #3016a6;}
+.tekst-polina-about-us:hover {width: 150px;height: 20px;color: #0c57c8;}
+/* Текст О нас */.tekst-shedule-table {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 74px;color: #FEF9F9;margin-left: -893px;margin-top: 341px;text-decoration: none;position: absolute;}
+.club-table-schedule {display: grid;width: 1140px;margin: 206px auto auto;grid-template-columns: 25% 24% 25% 25%;grid-template-rows: 328px 327px ;color: rgb(244, 242, 242);}
+.advantages-about-us {display: grid;width: 1140px;margin: auto;margin-top: 48px;color: #f4f2f2;justify-content: center;grid-template-rows: 162px 115px 276px 285px;}
+
+                                             /* Страница Blog */
+
+/* Текст последний Блог */.tekst-blog-one {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 74px;color: #FEF9F9;margin-left: -765px;margin-top: 340px;text-decoration: none;position: absolute;}
+/* Характеристики Блога */.posledni-from-our-blog {display: grid;width: 1140px;margin: auto;color: #f4f2f2;justify-content: center;grid-template-rows: 144px 96px 957px;}
+/* Текст ONE-FIT & CROOSFIT */.tekst-the-championship-has-gathered {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -82px;}
+/* Текст Индивидуальные занятия */.tekst-Individual-classes-has-gathered-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -12px;}
+/* Текст в рамке Бразильское джиу-джитсу */.tekst-three-gym-bjj-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -68px;}
+/* Поднять блок CROOSFIT Индивидуальные и групповые занятия */.individual-group-classes-block {margin-top: -83px;}
+/* Текст CROOSFIT Индивидуальные и групповые занятия */.tekst-crossfit-individual-classes-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -82px;}
+/* Поднять блок Спортивный клуб */.sport-club-blog {margin-top: -220px;}
+/* Блог Бокс Спортивный клуб */.box-club-block {margin-top: -146px;}
+/* Блог Gradient */.linear-grad-block {margin-top: -82px;}
+/* Текст БОКС | СПОРТИВНЫЙ КЛУБ |ONE-FIT */.tekst-gym-crossfit-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -118px;}
+/* Текст Спортивный клуб и наши тренажёры */.tekst-sports-club-fitness-equipment-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -80px;}
+/* Текст Бокс и спортивный клуб */.tekst-box-gym-club-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -159px;}
+/* СЛЕДИТЕ ЗА НАШИМИ ЗАНЯТИЯМИ */.tekst-follow-our-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 14px;color: #FDF9F9;  margin-left: 20px;}
+/* Текст ФИТНЕС  */.tekst-championship-bodybilding-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -118px;}
+/* Текст ФИТНЕС  */.tekst-championship-fitness-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;margin-left: 20px;margin-top: -118px;}
+/* Текст Индивидуальные занятия */.tekst-fitness-has-gathered-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;  margin-left: 20px;}
+/* Текст Индивидуальные занятия */.tekst-championship-has-gathered-blog {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 15px;color: #FDF9F9;  margin-left: 20px;}
+/* Блог чемпионат бодибилдеров */.bodibilding-grad-block {margin-top: -247px;}
+/* Блог Фитнес */.fitness-grad-block {margin-top: -210px;}
+
+                                            /* Contacts */
+
+/* Опустить иконку с контактами в карте */.geoloc-maps-contact {margin-top: 111px;}
+/* Заглавный текст Контакты */.tekst-contacts-one {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 74px;color: #FEF9F9;margin-left: -703px;margin-top: 267px;text-decoration: none;position: absolute;}
+/* Блог с картой */.maps-api-blog-contact{display: grid;width: 1140px;margin: auto;grid-template-rows:0px;}
+/* Блог с контакактами и формой */.information-blog-contact {display: grid;width: 1140px;margin: auto;grid-template-rows: 462px ;}
+.four-sect-contact {margin-left: 149px;margin-top: -42px;}
+/* Текст связаться с нами */.tekst-contact-us-blog-contact {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 22px;margin-left: -39px;}
+.maps-api-two-contact {display: grid;width: 489px;height: 384px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;position: absolute;border: #403b3b 1px;margin-top: -384px;margin-left: -155px;}
+/* Форма Имя */.form-one-name-contact {width: 173px;height: 26px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Форма Телефон */.form-two-phone-contact {width: 173px;height: 26px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -124px;margin-left: 140px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Форма написать нам */.form-three-name-contact {width: 398px;height: 112px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -68px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Кнопка Оставить заявку */.btn-submit-your-application-contact {width: 166px;height: 34px;background: rgba(217, 217, 217, 0.09);border: 1px solid #E4381C;margin-top: 80px;margin-left: -78px;border-radius: 7px;position: absolute;}
+/* Текст Кнопки "Оставить заявку" */.text-submit-your-application-contact {    font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 12px;text-align: center;color: #ffffff;margin-top: 8px;}
+    
+
+             /* Подсветка кнопки при наведении мышки "Оставить заявку"  */.btn-submit-your-application-contact:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E26F1F 31.41%, #E4381C 100%);}
+
+
+
+
+                                                                             /* Blog Gallery */
+/* Расположение блоков */.training-complex-gallery {width: 1140px;margin: 199px auto;display: grid;grid-template-columns: 24% 24% 24%;grid-gap: 37px;justify-content: center;}
+/* Вся Галерея */.all-tekst-gallery {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 24px;color: #E4381C;text-decoration: underline;margin-top: -86px;margin-left: 278px;position: absolute;}
+/* Вся crossfit */.crossfit-tekst-gallery {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 24px;color: #ffffff;margin-top: -86px;margin-left: 445px;text-decoration: none;position: absolute;}
+
+
+/* Вся ТРЕНИРОВКА*/.training-tekst-gallery {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 24px;color: #ffffff;margin-top: -86px;margin-left: 575px;text-decoration: none;position: absolute;}
+.gym-tekst-gallery {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 24px;color: #ffffff;margin-top: -86px;margin-left: 728px;text-decoration: none;position: absolute;}
+
+
+                                           /* Страницв sport-nutrition Cпортивное питание */
+
+
+
+/* СПОРТИВНОЕ ПИТАНИЕ - ПОЛЕЗНО ИЛИ НЕТ */.tekst-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 44px;color: #FEF9F9;margin-left: -922px;margin-top: 318px;line-height: 56px;text-decoration: none;text-align: center;position: absolute;}
+/* Текст Спортивный диетолог: Дмитрий Воронин */.sport-dietolog-sports-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 27px;margin-top: 553px;margin-left: -936px;color: #FFFFFF;text-decoration: none;text-align: center;position: absolute;}
+.blog-opisanie-sport-nutrition {width: 1140px;display: grid;grid-gap: 20px;grid-template-rows: 613px 368px;grid-template-columns: 65% 30%;margin: 72px auto;}
+/* Текст Сон, питание и тренировки - троица */.teksts-sleep-nutrition-exercise {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;color: #FFFBFB;padding-left: 57px;padding-top: 27px;}
+/* Текст последние новости */.tekst-latest-news-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 32px;  color: #FDF9F9;}
+/* Блог У всех нас в жизни бывают такие моменты, когда мы чувствуем. */.blog-all-us-life-sport-nutrition {width: 332px;height: 124px;background: #FFFAFA;border-radius: 6px;text-decoration: none;margin-top: 10px;position: absolute;}
+/* Текст У всех нас в жизни бывают такие моменты, когда мы чувствуем. */.tekst-all-us-life-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;padding-left: 30px;padding-top: 5px;color: #000000;}
+/* Текст Январь 31, 2023 */.tekst-data-all-life-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 18px;color: #000000;padding-left: 27px;padding-top: -2px;}
+/* Блог Найти идеального тренера - непростая задача для любого новичка. */.blog-two-all-us-life-sport-nutrition {width: 332px;height: 124px;background: #FFFAFA;border-radius: 6px;text-decoration: none;margin-top: 158px;position: absolute;}
+/* Блог Какую программу выбрать - советы новичку */.blog-three-all-us-life-sport-nutrition {width: 332px;height: 124px;background: #FFFAFA;border-radius: 6px;text-decoration: none;margin-top: 301px;position: absolute;}
+/* Блог Камни в почках - это очень твердые отложения минералов, которые образуются. */.blog-four-all-us-life-sport-nutrition {width: 332px;height: 155px;background: #FFFAFA;border-radius: 6px;text-decoration: none;margin-top: 444px;position: absolute;}
+/* 3 Блог */.blog-three-sport-nutrition {display:grid;margin-left: 53px;grid-gap: 10px;grid-template-columns: repeat(2, 1fr);grid-template-rows: 216px ;}
+/* Подвинуть третье фото в контейнере */.three-foto-raspolochenie {margin-top: 18px;}
+/* Подвинуть четвертое фото в контейнере */.four-foto-raspolochenie {margin-left: 19px;}                                            
+.blog-four-sport-nutrition {display: grid;width: 1140px;margin: 72px auto 0;grid-template-columns: 67%;grid-template-rows: 117px 501px 139px 601px 179px 82px 278px 0px;}
+/* Текст ВИДЫ СПОРТИВНОГО ПИТАНИЯ  */.tekst-types-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 32px;padding-left: 57px;color: #FDF9F9;}
+/* Текст Когда речь заходит о разновидностях спортпита */.tekst-types-sportpit-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
+/* Текст ПЛЮСЫ СПОРТИВНОГО ПИТАНИЯ */.tekst-advantages-of-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 32px;padding-left: 57px;color: #FDF9F9;}
+/* Текст Бытует мнение, что спортивное питание  */.tekst-lot-narrow-audience-sport-nutrition {width: 624px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
+/* Текст Для решения возникающих проблем и были разработаны */.tekst-solutions-emergin-problems-sports-nutrition {width: 624px;font-family: 'Nunito Sans', sans-serif;margin-top: 35px;font-weight: 400;font-size: 15px;padding-left: 136px;color: #FFFBFB;}
+.the-harm-sports-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 20px;padding-left: 57px;color: #FDF9F9;}
+.tekst-harmful-solid-chemistry {width: 624px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
+/* Текст поделиться */.tekst-to-share-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 600;font-size: 14px;color: #FFFAFA;margin-left: 318px;margin-top: 1904px;text-decoration: none;position: absolute;}
+/* Подсветка кнопки при наведении мышки "Текст поделиться" */.tekst-to-share-sport-nutrition:hover  {color: #e90606; text-decoration: underline;/* Рамка при наведении на ссылку курсора мыши */}
+/* переместить иконки на социальные сети */.menu-spisok-niz {margin-left: 487px;margin-top: 1894px;position: absolute;}
+/* Кнопка тренажрный зал */.knopka-training-gym-sport-nutrition {display: grid;width: 111px;height: 28px;margin-left: 57px;background: #FDF7F7;color: #000000;text-decoration: none;}
+/* Текст в кнопке Кнопка тренажрный зал */.tekst-knopka-training-gym-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 600;font-size: 9px;text-align: center;}
+/* Кнопка Crossfit */.knopka-crossfit-gym-sport-nutrition {display: grid;width: 101px;height: 28px;margin-left: 192px;background: #FDF7F7;color: #000000;text-decoration: none;}
+/* Сместить иконку соц сетей telegram */.telegram-sport-nutrition-menu {width: 40px;height: 33px;margin-left: -72px;margin-top: 2px;position: absolute;}
+/* Сместить иконку соц сетей Одноклассники */.odnoklassniki-sport-nitrition-menu {margin-left: -33px;position: absolute;}
+/* Сместить иконку соц сетей Youtob */.youtube-sport-nitrition-menu {width: 35px;height: 31px;padding-left: 48px;margin-top: 2px;position: absolute;}
+/* Сместить иконку соц сетей instagram */.instagram-sport-nitrition-menu {padding-left: 8px;margin-top: 2px;position: absolute;}
+/* Подсвечивание иконоки telegram */.telegram-sport-nutrition-menu:hover { display: inline-block; background-color: #E4381C;}
+/* Подсвечивание иконоки Одноклассники */.odnoklassniki-sport-nitrition-menu:hover { display: inline-block; background-color: #E4381C;}
+/* Подсвечивание иконоки Youtube */.youtube-sport-nitrition-menu:hover { display: inline-block; background-color: #E4381C;}
+/* Подсвечивание иконоки Instagram */.instagram-sport-nitrition-menu:hover { display: inline-block; background-color: #E4381C;position: absolute;}
+/* Подсветка кнопки Тренажёрный зал */.knopka-training-gym-sport-nutrition:hover { display: inline-block; background-color: #E4381C;color: #ffffff;}
+/* Подсветка кнопки Crossfit */.knopka-crossfit-gym-sport-nutrition:hover { display: inline-block; background-color: #E4381C;color: #ffffff;}
+
+
+                                                                /* four banner sport-nutrition */
+
+/* Ширина, высота, расстановка блоков секции*/.four-related-news-sport-nutrition {display: grid;width: 1140px;margin: 72px auto 0;grid-template-rows: 117px 501px;}
+/* Ширина, высота, расстановка блоков секции */.block-three-sport-nutrition {display: grid;grid-template-columns: 22% 22% 25%;grid-gap: 18px;margin-left: 56px;}
+/* Текст НОВОСТИ ПО ТЕМЕ */.tekst-related-news-sport {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 24px;color: #FFF8F8;padding-left: 56px;}
+/* Текст ТРЕНАЖЕРНЫЙ ЗАЛ & CROOSFIT */.tekst-gym-crossfit-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 800;font-size: 11px;color: #FEFEFE;margin-top: -68px;margin-left: 18px;text-decoration: none;}
+/* Текст Аэробика, стретчинг какую<br>программу выбрать */.tekst-aerobics-stretching-which-program-choose {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 10px;color: #FFFCFC;margin-top: -10px;margin-left: 18px;}
+/* Подсветка блока с нижним выделением Crossfit */.foto-recent-one-block-sport-nutrition:hover {background-color:  #e5280b;padding-bottom: 10px;border-radius: 8px;}
+/* Подсветка текста через блок 1 */.recent-one-block-sport-nutrition:hover p {color: #e5280b;text-decoration: underline;}
+
+
+                                                              /* five banner sport-nutrition */
+
+.five-banner-block-sport-nutrition {width: 1140px;margin: 116px auto 0;}
+/* Параметры формы */.maps-api-two-block-sport-nutrition {display: grid;width: 489px;height: 384px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;position: absolute;border: #403b3b 1px;margin-top: -381px;margin-left: -603px;}
+/* Форма Имя */.form-one-name-sport-nutrition {width: 240px;height: 32px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Форма email */.form-two-email-sport-nutrition {width: 242px;height: 32px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: 171px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}/* Форма Телефон */.form-three-phone-sport-nutrition {width: 237px;height: 32px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: 426px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Форма Написать нам */.form-three-sport-nutrition {width: 743px;height: 112px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -82px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+.icons-vector-left-gallery {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 30px;margin-top: 511px;margin-left: -705px;color: #FFFFFF;text-decoration: none;line-height: 135.2%;position: absolute;}
+.icons-vector-right-gallery {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 30px;margin-top: 511px;margin-left: -551px;color: #FFFFFF;text-decoration: none;line-height: 135.2%;position: absolute;}
+.icons-phone-gallery {margin-top: 521px;margin-left: -744px;position: absolute;}
+.block-offers-one-blog {display: grid;grid-template-columns: 33% 40% 35%;}
+
+                                 /* Параметры меню  * PC - версии*/
+
+
+
+ul {list-style: none;   /* Убрать подчеркивание */}
+.topmenu > li {display: inline-block;margin-right: 220px;position: relative;}
+
+
+/* Параметры блока меню */.submenu {position: absolute;/* опустить меню */top: 140%;/* сместить влево-вправо меню */ left: 40;/* Ширина, высота меню */ width: 40%;z-index: 10;-webkit-transition: 0.5s ease-in-out;-moz-transition: 0.5s ease-in-out;-o-transition: 0.5s ease-in-out;transition: 0.5s ease-in-out;}
+.page-header_nav .submenu {width: 300px;height: 60px;/* Скрыть меню */ display: none; /* Цыет меню */ background: #EEBD1A;border: 2px solid grey;position: absolute;}
+.page-header_nav ul li:hover .submenu {display: block;}
+/* Подчёркивание текста в меню */
+.submenu li a:hover  {color: #E4381C;border-radius: 5px;text-decoration:underline;}
+.sports-nutrition-menu-tekst {display: grid;margin-top: -95px;}
+.sports-nutrition-menu-tekst-about-us  {display: grid;margin-top: -96px;position: absolute;}
+.tekst-from-our-blog {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 44px;text-align: center;color: #FEF5F5;}
+.ten-block-icons-instagram-blog {margin-left: 263px;margin-top: -33px;position: absolute;}
+#src {margin: 20px auto;width: 1140px;height: 700px;margin-top: 0px;background-color: white;background-size: cover;border: 2px solid black;border-radius: 10px;}
+button {position: absolute;width: 25px;height: 70px;font: 57pt arial, tahoma, sans-serif;text-align: center;padding-left: 6px;}
+.left {margin-left: 99px;margin-top: 396px;color: #fff;background-color: transparent; /* Прозрачная кнопка */border: transparent; /* Прозрачная рамка */}
+.right {margin-left: 940px;margin-top: -323px;color: #fff;background-color: transparent; /* Прозрачная кнопка */border: transparent; /* Прозрачная рамка */}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+html, body {margin: 0;height: 100%;}
+* {box-sizing: border-box;}
+.top-nav {width: 1140px;display: flex;flex-direction: row;align-items: center;color: #FFF;height: 50px;padding: 1em;border-radius: 10px;}
+.index-mobile {margin-left: -83px;margin-top: 12px;}
+.menu {display: flex;flex-direction: row;list-style-type: none;margin: 0;padding: 0;}
+.menu > li {margin: 0 1rem;overflow: hidden;}
+.menu-button-container {display: none;height: 100%;width: 76px;cursor: pointer;flex-direction: column;justify-content: center;align-items: center;}
+
+#menu-toggle {display: none;}
+.menu-button,
+.menu-button::before,
+.menu-button::after {display: block;background-color: #fff;position: absolute;height: 4px;width: 30px;transition: transform 400ms cubic-bezier(0.23, 1, 0.32, 1);border-radius: 2px;z-index: 2;}
+
+.menu-button::before {content: '';margin-top: -8px;}
+.menu-button::after {content: '';margin-top: 8px;}
+
+
+#menu-toggle:checked + .menu-button-container .menu-button::before {
+  margin-top: 0px;
+  transform: rotate(405deg);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button {
+  background: rgba(255, 255, 255, 0);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button::after {
+  margin-top: 0px;
+  transform: rotate(-405deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+           /* Шрифты
+font-family: 'Oswald', sans-serif;
+font-family: 'Nunito Sans', sans-serif; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
