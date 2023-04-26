@@ -449,7 +449,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .index-offers-club {grid-template-rows: 100px 318px 100px 100px;margin-top: -80px;}
 .logo-gym-index {width: 143px;height: 79px;margin-top: 159px;margin-left: 18px;}
 .logo-gym-about-us {width: 143px;height: 79px;margin-top: 159px;margin-left: 21px;}
-.texth3-group-index {margin-left: 115px;}
+.texth3-group-index {width: 490px; margin-left: 115px;}
 .group-index-opisanie {margin-left: -455px;}
 .btn-block {margin-left: 195px;margin-top: 33px;}
 .texth3-personal-index {
@@ -459,13 +459,14 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   font-size: 45px;
 }
 .personal-index-opisanie {
+  width: 574px;
   font-size: 30px;
   margin-top: -336px;
   margin-left: 75px;
 }
 .btn-block-two {margin-left: -642px;}
 .texth3-sport-index {margin-left: 102px;}
-.sports-index-opisanie {font-size: 30px;margin-top: -356px;margin-left: 70px;}
+.sports-index-opisanie {width: 577px;font-size: 30px;margin-top: -356px;margin-left: 70px;}
 .btn-block-three {margin-left: -647px;margin-top: 431px;}
 .index-welcone-club {width: 908px;}
 .teks-podborki-index {margin-left: 184px;margin-top: -273px;}
