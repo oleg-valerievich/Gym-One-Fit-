@@ -488,6 +488,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   width: 844px;
   height: 294px;
   margin-top: -44px;
+  margin-left: -7px;
   object-fit: cover;
 }
 .zagolovok-schedule-index {
@@ -496,12 +497,15 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 
 .text-index-programs-four {
+  width: 598px;
   margin-top: -140px;
   margin-left: 112px;
   position: absolute;
 }
 
-.heading-index-programs-club {margin-top: -287px;}
+.heading-index-programs-club {
+  width: 300px;
+  margin-top: -287px;}
 .club-table-index {margin: 293px auto;}
 .iksweb {margin-top: 83px;margin-left: -206px;}
 .tekst-contacts-one {margin-left: -497px;margin-top: 187px;}
@@ -654,7 +658,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .block-personalized-sessions-index {margin-left: -32px;}
 .blocki-two-banner-eight {margin-top: -35px;}
 .tekst-modern-gym-index {font-weight: 500;font-size: 11px;}
-.tekst-everyday-life-index {font-weight: 500;font-size: 11px;}
+.tekst-everyday-life-index {width: 186px;font-weight: 500;font-size: 11px;}
 .block-daily-workouts-index {margin-left: 211px;position: absolute;}
 .block-focus-one-index {margin-left: 171px;}
 .tekst-will-engage-index {font-weight: 500;font-size: 11px;}
