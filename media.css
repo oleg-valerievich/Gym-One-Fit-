@@ -18,6 +18,9 @@
 @media (max-width: 1120px) {
 
   /* Чтобы не открывалась вкладка  в мобильной версии Блог/Спортивное питание  */.submenu {display: none;}
+  body {
+    overflow: hidden;
+  }
 #src {margin-top: 60px;}
 .menu-button-container {display: flex;}
 .text-sports-nutrition-index {display: block;}
