@@ -184,13 +184,13 @@
 .tekst-contacts-one {margin-left: -583px;margin-top: 215px;}
 .location-contact {display: grid;grid-template-rows: 790px;grid-template-columns: 40% 50%;}
 /* Текст Загаловок Crossfit */.zagalovok-crossfit-index {font-size: 40px;margin-left: 135px;margin-top: 57px;}
-/* Текст Crossfit */.teks-crossfit-index {font-size: 18px;margin-top: -259px;margin-left: 64px;}
+/* Текст Crossfit */.teks-crossfit-index {width: 313px;font-size: 18px;margin-top: -259px;margin-left: 64px;}
 /* Положение кнопки Подробнее в Crossfit */.crossfit-btn-five-index-text {padding-left: 33px;margin-top: 7px;}
 /* Параметры кнопки Текст */.crossfit-btn-five-index {width: 168px;height: 45px;margin-left: -726px;margin-top: 308px;font-size: 20px;}
 /* Загаловок Текста Фитнес */.zagalovok-fitness-index {font-size: 40px;font-weight: 400;margin-left: 560px;margin-top: -42px;}
 /* Параметры кнопки Фитнес */.fitness-btn-five-index {width: 168px;height: 45px;margin-left: 526px;margin-top: 302px;font-size: 20px;}
 /* Текст кнопки фитнес */.fitness-btn-five-index-text {padding-left: 35px;margin-top: 6px;}
-/* Текст фитнесс */.teks-fitness-index {font-family: 'Nunito Sans', sans-serif;font-size: 18px;color: #FFFFFF;margin-top: -262px;margin-left: 469px;}
+/* Текст фитнесс */.teks-fitness-index {width: 392px;font-family: 'Nunito Sans', sans-serif;font-size: 18px;color: #FFFFFF;margin-top: -262px;margin-left: 469px;}
 /* Фото BJJ */.foto-bjj-index {width: 410px;height: 385px;margin-left: -1576px;margin-top: 303px;}
 /* Положение кнопки в BJJ */.bjj-btn-five-index-text {padding-left: 38px;margin-top: 7px;}
 /* Фото Dance-mix */
@@ -204,7 +204,7 @@
 /* Текст BJJ */.teks-bjj-index {font-family: 'Nunito Sans', sans-serif;font-size: 18px;color: #FFFFFF;margin-top: 437px;margin-left: -1573px;position: absolute;}
 /* Параметры кнопки BJJ */.bjj-five-index {width: 168px;height: 45px;margin-left: 123px;margin-top: 702px;font-size: 20px;}
 /* Параметры кнопки Танцевальный микс */.btn-dance-mix-index {width: 168px;height: 45px;font-size: 20px;margin-top: 704px;margin-left: 537px;}
-/* Загаловок Танцевальный микс */.zagalovok-dance-index {font-size: 35px;margin-left: 475px;margin-top: -134px;}
+/* Загаловок Танцевальный микс */.zagalovok-dance-index {width: 282px;font-size: 35px;margin-left: 484px;margin-top: -144px;}
 /* Текст под Танцевальным миксом */.teks-dance-index {width: 324px;font-size: 18px;margin-top: -65px;margin-left: 481px;position: absolute;}
 /* Положение текста кнопки Подробнее в Танцевальном миксе */.dance-btn-five-index-text {padding-left: 35px;margin-top: 6px;}
 
