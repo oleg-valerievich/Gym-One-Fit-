@@ -80,7 +80,7 @@
 /* Подсветка контейнера MIX */.foto-dance-index:hover  {background-color:  #e5280b;padding-bottom: 10px;border-radius: 8px;}
 .zagalovok-crossfit-index {font-family: 'Oswald', sans-serif;font-size: 25px;color: #FFFFFF;margin-left: 92px;margin-top: 37px;position: absolute;}
 .teks-crossfit-index {font-family: 'Nunito Sans', sans-serif;font-size: 15px;line-height: 113.7%;color: #FFFFFF;margin-top: -209px;margin-left: 32px;}
-.teks-crossfit-index {font-size: 14px;color: #FFFFFF;margin-top: -179px;}
+.teks-crossfit-index {width: 230px;font-size: 14px;color: #FFFFFF;margin-top: -179px;}
 
 /* Подсветка кнопки при наведении мышки "Подробнее-Crossfit" banner five */.crossfit-btn-five-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
 /* Подсветка кнопки без наведения кнопки мышки "Подробнее-Crossfit" banner five */
@@ -95,7 +95,7 @@ border: 1px solid #FA0909;font-family: 'Oswald', sans-serif;color: #FFFFFF;margi
 /* выравнивание текста в кнопке "Подробнее-Crossfit" banner five */.fitness-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
 /* Фото Crossfit */.foto-crossfit-index {margin-left: 1px;margin-top: 3px;}
 /* Фото фитнес */.foto-fitness-index {margin-left: -288px;margin-top: 3px;}
-.teks-fitness-index {font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -180px;margin-left: -258px;}
+.teks-fitness-index {width: 262px;font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -180px;margin-left: -258px;}
 /* Кнопка "Подробнее" five Fitness цвет  */.fitness-btn-five-index {width: 125px;height: 30px;background: linear-gradient(180deg, rgba(253, 3, 3, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margin-left: 350px;margin-top: 212px;border-radius: 3px;text-decoration: none;font-size: 14px;position: absolute;}
 .zagalovok-bjj-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 23px;color: #FFFFFF;margin-top: 14px;margin-left: -583px;position: absolute;}
 .bjj-index {display: flex;flex-direction: column;align-items: center;}
@@ -109,7 +109,7 @@ border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margi
 /* Подсветка кнопки при наведении мышки "Подробнее-bjj" banner five */.bjj-five-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
 /* Смещение фотографии бразильское джиуджитсу*/ .foto-bjj-index {margin-left: -573px;margin-top: 3px;}
 /* Смещение фотографии Танцевальный микс*/.foto-dance-index {margin-left: 841px;margin-top: -244px;}
-/* Заголовок Танцевальный Микс five */.zagalovok-dance-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 25px;color: #FFFFFF;margin-left: 887px;margin-top: -234px;position: absolute;}
+/* Заголовок Танцевальный Микс five */.zagalovok-dance-index {width: 226px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 25px;color: #FFFFFF;margin-left: 887px;margin-top: -234px;position: absolute;}
 /* Текст Танцевальный Микс five */.teks-dance-index {width: 252px;font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -177px;margin-left: 886px;}
  /* Кнопка "Подробнее" five Dance цвет  */.btn-dance-mix-index {width: 125px;height: 30px;background: linear-gradient(180deg, rgba(253, 3, 3, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #FA0909;font-size: 14px;color: #FFFFFF;font-family: 'Oswald', sans-serif;margin-top: 212px;margin-left: 938px;border-radius: 3px;text-decoration: none;position: absolute;}
 /* выравнивание текста в кнопке "Подробнее-dance" banner five */.dance-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
@@ -120,7 +120,7 @@ border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margi
  /* banner-six */
 
 /* Контейнер six secti */.club-table-index {display: grid;width: 1140px;margin: auto;grid-template-columns: 25% 24% 25% 25%;margin-top: 196px;color: #f4f2f2;}
-/* Заголовок РАСПИСАНИЕ ЗАНЯТИЙ */.zagolovok-schedule-index {width: 448px;margin-left: 382px;margin-top: -110px;font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 36px;line-height: 56px;color: #FFF7F7;}
+/* Заголовок РАСПИСАНИЕ ЗАНЯТИЙ */.zagolovok-schedule-index {width: 537px;margin-left: 382px;margin-top: -110px;font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 36px;line-height: 56px;color: #FFF7F7;}
 /* Перемещение таблицы */.iksweb {margin-top: 30px;margin-left: -243px;}
 /* Шрифт время по левой стороне */.time-shrift-table-index {font-family: 'Oswald', sans-serif;font-size: 35px;}
 /* Шрифт заглавный Понед-Воск верх */.weekday-shrift-table-index {font-family: 'Oswald', sans-serif;text-align: center;}
