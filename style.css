@@ -118,9 +118,9 @@ border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margi
 /* выравнивание текста в кнопке "Подробнее-bjj" banner five */.bjj-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
 /* Подсветка кнопки при наведении мышки "Подробнее-bjj" banner five */.bjj-five-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
 /* Смещение фотографии бразильское джиуджитсу*/ .foto-bjj-index {margin-left: -573px;margin-top: 3px;}
-/* Смещение фотографии Танцевальный микс*/.foto-dance-index {margin-left: 841px;margin-top: -244px;}
-/* Заголовок Танцевальный Микс five */.zagalovok-dance-index {width: 226px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 25px;color: #FFFFFF;margin-left: 887px;margin-top: -234px;position: absolute;}
-/* Текст Танцевальный Микс five */.teks-dance-index {width: 252px;font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -177px;margin-left: 886px;}
+/* Смещение фотографии Танцевальный микс*/.foto-dance-index {margin-left: 841px;margin-top: -241px;position: absolute;}
+/* Заголовок Танцевальный Микс five */.zagalovok-dance-index {width: 226px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 25px;color: #FFFFFF;margin-left: 887px;margin-top: -212px;position: absolute;}
+/* Текст Танцевальный Микс five */.teks-dance-index {width: 252px;font-family: 'Nunito Sans', sans-serif;font-size: 14px;color: #FFFFFF;margin-top: -161px;margin-left: 886px;position: absolute;}
  /* Кнопка "Подробнее" five Dance цвет  */.btn-dance-mix-index {width: 125px;height: 30px;background: linear-gradient(180deg, rgba(253, 3, 3, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #FA0909;font-size: 14px;color: #FFFFFF;font-family: 'Oswald', sans-serif;margin-top: 212px;margin-left: 938px;border-radius: 3px;text-decoration: none;position: absolute;}
 /* выравнивание текста в кнопке "Подробнее-dance" banner five */.dance-btn-five-index-text {padding-left: 29px;margin-top: 3px;}
   /* Подсветка кнопки при наведении мышки "Подробнее-dancej" banner five */.btn-dance-mix-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E4381C 100%); }
