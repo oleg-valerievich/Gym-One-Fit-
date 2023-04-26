@@ -176,7 +176,7 @@
 /* Добро пожаловать в спортивный клуб  */.teks-welcome-index {margin-left: -269px;text-align: center;}
 /* Текст Подборки эффективных упражнений от фитнес-тренеров. */
 .teks-podborki-index {margin-left: 167px;margin-top: -144px;}
-.foto-gym-three-index {width: 622px;height: 409px;margin-top: 752px;margin-left: 109px;}
+.foto-gym-three-index {width: 622px;height: 409px;margin-top: 757px;margin-left: 109px;}
 /* Уменьшаем 4 Секцию  */.index-programs-club {width: 839px;}
 /* Параметры 5 Секции */.index-offers-club {grid-template-columns: repeat(2, 1fr);grid-template-rows: 100px 500px 100px 100px;margin-top: -160px;}
 .foto-crossfit-index {width: 410px;height: 389px;margin-left: -1px;margin-top: 5px;}
@@ -313,7 +313,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .description-care-quality-abous-us {grid-template-rows: 798px;}
 .foto-programs-four-index {
   width: 844px;
-  margin-left: -1px;
+  margin-left: -13px;
   height: 561px;
 }
 .text-about-us-four {margin-left: -269px;}
@@ -399,7 +399,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 
 .tekst-preparation-programs-index {width: 397px;}
-.btn-three-indexc{margin-left: 341px;margin-top: -295px;}
+.btn-three-index {margin-left: 341px;margin-top: -295px;}
 
 }
 
