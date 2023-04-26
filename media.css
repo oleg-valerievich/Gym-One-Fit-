@@ -152,7 +152,8 @@
 .foto-sports-nutrition-index {height: 569px;}
 /* Текст групповые занятия */.texth3-group-index {margin-left: 187px;margin-top: 147px;font-size: 50px;}
 .group-index-opisanie {font-size: 35px;margin-top: -333px;margin-left: -312px;text-align: center;}
-/* Текст Спортивное питание */.texth3-sport-index {margin-left: 198px;margin-top: 147px;font-size: 50px;}
+/* Текст Спортивное питание */.texth3-sport-index {
+  width: 508px; margin-left: 198px;margin-top: 147px;font-size: 50px;}
 /* Кнопка подробнее 1 */.btn-block {width: 277px;font-size: 30px;height: 53px;margin-left: 278px;margin-top: 35px;}
 .btn-block-two {width: 277px;font-size: 30px;height: 53px;margin-left: -563px;margin-top: 459px;position: absolute;}
 .btn-block-three {width: 277px;font-size: 30px;height: 53px;margin-left: -563px;margin-top: 459px;position: absolute;}
