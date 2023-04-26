@@ -108,6 +108,18 @@
 .top-nav {
   width: 848px;
 }
+
+
+/* Снять подчёркивание контейнера */
+.group-index:hover  {background: none;}
+.personal-index:hover  {background: none;}
+.sports-nutrition-index:hover  {background: none;}
+
+
+
+
+
+
 .left {margin-left: 99px;margin-top: 318px;}
 .right {margin-left: 735px;margin-top: -264px;}
 .mobile-index-spisok {margin-left: -8px;}
