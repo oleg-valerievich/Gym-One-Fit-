@@ -158,8 +158,8 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Блок №1 */.block-index-one {background: #ffffff;width: 208px;height: 325px;margin-left: -617px;margin-top: 348px;}
 /* Блок №2 */.block-index-two {background: #ffffff;width: 208px;height: 325px;margin-left: -97px;margin-top: -365px;}
 /* Блок №3 */.block-index-three {background: #ffffff;width: 208px;height: 325px;margin-left: 411px;margin-top: -365px;}
-/* Текст Ежемесяно 1 блок */.one-monthly-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -253px;margin-left: 304px;font-size: 10px;}
-/* Текст Ежемесяно 2 блок */.two-monthly-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -254px;margin-left: -842px;font-size: 10px;}
+/* Текст Ежемесяно 1 блок */.one-monthly-text-index {width: 108px;height: 20px;font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -253px;margin-left: 277px;font-size: 10px;}
+/* Текст Ежемесяно 2 блок */.two-monthly-text-index {width: 171px;height: 31px;font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -254px;margin-left: -363px;font-size: 10px;}
 /* Текст Ежемесяно 3 блок */.three-monthly-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;text-align: center;color: #000000;margin-top: -28px;margin-left: -4px;font-size: 10px;}
 /* Заголовок Обычный блок №1 */.ordinary-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 18px;text-align: center;color: #000000;margin-top: 33px;}
 /* Заголовок Проффессиональный блок №2 */.professional-text-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 18px;text-align: center;color: #000000;margin-top: 33px;}
