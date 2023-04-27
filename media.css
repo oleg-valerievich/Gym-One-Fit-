@@ -275,12 +275,12 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
 
                                                       /* thirteen-banner */
-/* Блог получить информацию */.four-sec-blog {margin-left: -738px;margin-top: 415px;}
+/* Блог получить информацию */.four-sec-blog {width: 300px;height: 308px;margin-left: -520px;margin-top: 458px;}
 /* БЛоГ */.tekst-our-blog-index {margin-left: 102px;margin-top: 584px;}
-/* Блог программа перемещение текста */.three-sec-blog {margin-left: -189px;margin-top: -13px;}
+/* Блог программа перемещение текста */.three-sec-blog {width: 300px;height: 393px;margin-left: 13px;margin-top: 8px;}
 /* Блог программа текст */.three-sec-blog a {font-size: 30px;}
 /* Перемещение и изменение текста Программа */.tekst-programm-blog-index {font-size: 30px;margin-top: 105px;}
-/* Текст Наш блог */.two-sec-blog {margin-left: -21px;margin-top: -24px;}
+/* Текст Наш блог */.two-sec-blog {width: 364px;height: 430px;margin-left: 111px;margin-top: -20px;}
 .advantages-about-us {width: 828px;}
 .tekst-about-us {margin-left: -517px;margin-top: 215px;}
 .icons-phone-about-us {margin-top: 338px;margin-left: -609px;}
@@ -289,12 +289,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .foto-gym-three-about-us {height: 436px;margin-left: -7px;margin-top: -935px;}
 .tekst-the-best-about-us {margin-left: -278px;margin-top: -422px;}
 .tekst-concern-klient-about-us {margin-top: -570px;margin-left: 140px;position: absolute;}
-.heading-index-programs-club {
-  margin-top: -407px;
-  margin-left: 258px;
-  font-size: 42px;
-  position: absolute;
-}
+.heading-index-programs-club {margin-top: -407px;margin-left: 258px;font-size: 42px;position: absolute;}
 .two-three-block-about-us {margin-left: 10px;margin-top: 10px;}
 .one-jackdaw-about-us {margin-top: -1081px;margin-left: -393px;}
 .two-jackdaw-about-us {margin-top: -1031px;margin-left: -394px;}
@@ -402,6 +397,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .tekst-preparation-programs-index {width: 397px;}
 .btn-three-index {margin-left: 341px;margin-top: -295px;}
 .club-table-index {width: 696px;margin-left: 110px;}
+.information-blog-index {width: 850px;}
+.one-sec-blog {width: 418px;height: 511px;}
+
+
 
 
 }
