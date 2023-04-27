@@ -217,7 +217,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 .blocki-banner-eight {display: flex; /* выставил блоки друг за другом */grid-gap: 64px; }
 
 /* Блок 1  */
-/* Поднять блок мы будем с вами */.block-weare-with-you-index {margin-top: -5px;}
+/* Поднять блок мы будем с вами */.block-weare-with-you-index {width: 185px;height: 246px;margin-top: -5px;}
 
 
 /* текст Мы с вами */.teks-mu-s-vami-index {width: 182px;font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
