@@ -47,7 +47,7 @@
 
 /* Подсветка кнопки без наведения мышки Третья "Подробнее" banner two */.btn-block-three  {width: 165px;background: linear-gradient(180deg, rgba(225, 137, 33, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #E18921;color: #FFFFFF;font-family: 'Oswald', sans-serif;border-radius: 5px;margin-left: 107px;}
 /* Подсветка кнопки при наведении мышки Третья "Подробнее" banner two */.btn-block-three:hover { display: inline-block; background: linear-gradient(orangered, gold); }
-
+.block-nachi-trenera-index {width: 184px;height: 253px;}
 
 
 .group-index:hover  {background-color:  #e5280b;padding-bottom: 5px;border-radius: 8px;}
