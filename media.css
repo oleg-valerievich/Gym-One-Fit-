@@ -224,20 +224,20 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
 /* Уменьшить Фото баннера */.men-and-woman-gym-sport {width: 841px;}
 /* Заголовок выберите свой абанемент */.zagolovok-abonement-index {margin-left: -39px;margin-top: 19px;}
-/* Текст Ежемесячные/годовые безлимитные абонементы */.tekst-season-tickets-index {font-size: 12px;margin-top: 84px;margin-left: -455px;}
-/* Radio Ежемесячно/Годовой */.form_toggle {margin-left: -216px;padding-top: 11px;position: absolute;}
-/* 1 Блок Размеры */.block-index-one {width: 198px;height: 258px;margin-left: -712px;margin-top: 242px;}
-/* Текст Ежемесячно 1 */.one-monthly-text-index {margin-top: -186px;margin-left: 177px;}
-/* Текст Ежемесячно 2*/.two-monthly-text-index {margin-top: -190px;margin-left: -1082px;}
-/* 2 Блок Размеры */.block-index-two {width: 198px;height: 257px;margin-left: -213px;margin-top: -284px;}
-/* 3 Блок Размеры */.block-index-three {width: 198px;height: 257px;margin-left: 273px;margin-top: -284px;}
-/* 1 Текст в блоке */.description-one-index {line-height: 11px;margin-left: -381px;margin-top: -166px;}
-/* 2 Текст в блоке */.description-two-index {line-height: 11px;margin-left: 68px;margin-top: -165px;}
+/* Текст Ежемесячные/годовые безлимитные абонементы */.tekst-season-tickets-index {font-size: 12px;margin-top: 84px;margin-left: -424px;}
+/* Radio Ежемесячно/Годовой */.form_toggle {margin-left: -117px;padding-top: 11px;position: absolute;}
+/* 1 Блок Размеры */.block-index-one {width: 198px;height: 258px;margin-left: -535px;margin-top: 242px;}
+/* Текст Ежемесячно 1 */.one-monthly-text-index {margin-top: -192px;margin-left: 134px;}
+/* Текст Ежемесячно 2*/.two-monthly-text-index {margin-top: -190px;margin-left: -306px;}
+/* 2 Блок Размеры */.block-index-two {width: 198px;height: 257px;margin-left: -108px;margin-top: -284px;}
+/* 3 Блок Размеры */.block-index-three {width: 198px;height: 257px;margin-left: 312px;margin-top: -284px;}
+/* 1 Текст в блоке */.description-one-index {line-height: 11px;margin-left: -176px;margin-top: -167px;}
+/* 2 Текст в блоке */.description-two-index {line-height: 11px;margin-left: 25px;margin-top: -165px;}
 /* 3 Текст в блоке */.description-three-index {line-height: 12px;}
 /* Поднять цифры 1800,4500,3000 */.numer-one-index {margin-top: -42px;}
-/* Кнопка 1 Купить  */.one-btn-blok-seven-index {margin-top: 279px;margin-left: -372px;}
-/* Кнопка 2 Купить  */.two-btn-blok-seven-index {margin-top: 279px;margin-left: -156px;}
-/* Кнопка 3 Купить  */.three-btn-blok-seven-index {margin-top: 280px;margin-left: 56px;}
+/* Кнопка 1 Купить  */.one-btn-blok-seven-index {margin-top: 279px;margin-left: -271px;}
+/* Кнопка 2 Купить  */.two-btn-blok-seven-index {margin-top: 279px;margin-left: -55px;}
+/* Кнопка 3 Купить  */.three-btn-blok-seven-index {margin-top: 280px;margin-left: 162px;}
 /* Символ рубль 1 */.rub-one-index {margin-left: -68px;margin-top: -12px;}
 /* Символ рубль 2 */.rub-two-index {margin-left: -69px;margin-top: -11px;}
 /* Символ рубль 3 */.rub-three-index {margin-left: -68px;margin-top: -12px;}
@@ -384,6 +384,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   position: absolute;
 }
 
+.season-tickets-index {width: 843px;}
 
 .maps-api-index {
   width: 390px;
