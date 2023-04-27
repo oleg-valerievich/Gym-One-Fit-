@@ -48,6 +48,8 @@
 /* Подсветка кнопки без наведения мышки Третья "Подробнее" banner two */.btn-block-three  {width: 165px;background: linear-gradient(180deg, rgba(225, 137, 33, 0) 0%, rgba(233, 98, 25, 0) 42.71%, rgba(237, 77, 21, 0) 66.67%, rgba(244, 47, 15, 0) 100%);border: 1px solid #E18921;color: #FFFFFF;font-family: 'Oswald', sans-serif;border-radius: 5px;margin-left: 107px;}
 /* Подсветка кнопки при наведении мышки Третья "Подробнее" banner two */.btn-block-three:hover { display: inline-block; background: linear-gradient(orangered, gold); }
 .block-nachi-trenera-index {width: 184px;height: 253px;}
+.block-daily-workouts-index {width: 178px;height: 239px;}
+
 
 
 .group-index:hover  {background-color:  #e5280b;padding-bottom: 5px;border-radius: 8px;}
@@ -250,7 +252,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* текст "У нас просто не хватило бы воли" */.tekst-everyday-life-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
 
 /* Блок 6 */
-/* Опустить блок */.block-focus-one-index {margin-top: 10px;}
+/* Опустить блок */.block-focus-one-index {width: 204px;height: 235px;margin-top: 6px;}
 /* текст СОСРЕДОТОЧЬТЕСЬ НА СВОЕМ ЗДОРОВЬЕ */.tekst-your-health-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
 /* текст в создании идеального тела  */.tekst-will-engage-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
 
