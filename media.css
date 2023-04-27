@@ -148,7 +148,7 @@
 .block-offers-one-blog {display: grid;grid-template-columns: 50% 50%;}
 .ten-block-two-blog {margin-left: 308px;margin-top: 11px;position: absolute;}
 .tekst-two-follow-our-classes-blog {width: 250px;margin-top: -84px;margin-left: 21px;position: absolute;}
-.ten-block-one-index {margin-left: 26px;}
+.ten-block-one-index {margin-left: 173px;}
 .gym-tekst-gallery {margin-left: 567px;}
 .training-complex-gallery {width: 806px;margin: 167px auto;grid-template-rows: 273px 276px 276px 276px 180px;grid-template-columns: 35% 35%;grid-gap: 22px;}
 .posledni-from-our-blog {display: grid;width: 809px;color: #f4f2f2;justify-content: center;grid-template-rows: 144px 96px 1723px;}
@@ -244,8 +244,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
                                             /* Eight-Block */
 
-/* Уменьшаем Разрешение Блока до 909px */.advantages-index {width: 909px;}
-/* Текст ПОЧЕМУ ЛЮДИ ВЫБИРАЮТ ИМЕННО НАС */.tekst-choosing-us-index {margin-left: -96px;font-size: 35px;}
+/* Уменьшаем Разрешение Блока до 909px */.advantages-index {width: 825px;}
+/* Текст ПОЧЕМУ ЛЮДИ ВЫБИРАЮТ ИМЕННО НАС */.tekst-choosing-us-index {margin-left: -4px;font-size: 35px;}
 
 
                                             /* Nine-Block */
@@ -258,10 +258,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 /* Текст Список всех новостей и событий */.tekst-list-news-index {margin-left: 40px;font-size: 18px;}
 .tekst-list-news-blog {margin-left: 40px;font-size: 18px;}
 /* 1 блог */.foto-ten-block-one-index {margin-left: 1px;margin-top: -23px;}
-/* 2 Блог */.ten-block-two-index {margin-left: 299px;margin-top: -22px;position: absolute;}
-/* 3 блок */.ten-block-three-index {margin-left: 0px;margin-top: 165px;}
-/* 4 Блог */.ten-block-six-index {margin-left: 307px;margin-top: 402px;position: absolute;}
-/* 5 Блог */.ten-block-five-index {margin-top: 306px;margin-left: 23px;position: absolute;}
+/* 2 Блог */.ten-block-two-index {margin-left: 448px;margin-top: -22px;position: absolute;}
+/* 3 блок */.ten-block-three-index {margin-left: 13px;margin-top: 165px;}
+/* 4 Блог */.ten-block-six-index {margin-left: 455px;margin-top: 402px;position: absolute;}
+/* 5 Блог */.ten-block-five-index {margin-top: 306px;margin-left: 169px;position: absolute;}
 /* Фото со Спортивным залом */.foto-gym-sport-index {width: 262px;}
 /* 6 Блог */.ten-block-four-index {margin-top: 593px;margin-left: -465px;}
 
