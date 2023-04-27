@@ -134,7 +134,16 @@ border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margi
  /* banner-six */
 
 /* Контейнер six secti */.club-table-index {display: grid;width: 1140px;margin: auto;grid-template-columns: 25% 24% 25% 25%;margin-top: 196px;color: #f4f2f2;}
-/* Заголовок РАСПИСАНИЕ ЗАНЯТИЙ */.zagolovok-schedule-index {width: 537px;margin-left: 382px;margin-top: -110px;font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 36px;line-height: 56px;color: #FFF7F7;}
+/* Заголовок РАСПИСАНИЕ ЗАНЯТИЙ */.zagolovok-schedule-index {
+  width: 375px;
+  height: 68px;
+  margin-left: 382px;
+  margin-top: -110px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 56px;
+  color: #FFF7F7;}
 /* Перемещение таблицы */.iksweb {margin-top: 30px;margin-left: -243px;}
 /* Шрифт время по левой стороне */.time-shrift-table-index {font-family: 'Oswald', sans-serif;font-size: 35px;}
 /* Шрифт заглавный Понед-Воск верх */.weekday-shrift-table-index {font-family: 'Oswald', sans-serif;text-align: center;}
