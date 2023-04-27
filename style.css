@@ -26,7 +26,7 @@
 .menu-logo-about-us {width: 235px;height: 58px;text-align: center;margin-top: 147px;margin-left: 11px;font-family: 'Rubik One', sans-serif;font-size: 30px;text-transform: uppercase;background: #2E2F45;display: table;color: white;border-radius: 5px;padding: 5px 10px;position: absolute;}
 .index-training-complex {width: 1140px;margin: -24px auto;display: grid;grid-template-columns: repeat(4, 1fr);grid-gap: 0px;}
 .tekst-banner-index {display: grid;color: #FFFFFF;font-size: 35px;font-weight: 400;line-height: 85px;align-content: center;justify-content: start;   }
-.tekst-banner-index h1 {width: 1375px;font-family: 'Nunito Sans', sans-serif;margin-top: -451px;margin-left: -154px;text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);text-align: center;}
+.tekst-banner-index h1 {width: 1140px;font-family: 'Nunito Sans', sans-serif;margin-top: -451px;margin-left: 11px;text-shadow: 0px 4px 4px rgb(0 0 0 / 25%);text-align: center;}
 .group-index  {font-family: 'Oswald', sans-serif;color: #FFFFFF;font-weight: 200;font-size: 20px;text-decoration: none; line-height: 60px;}
 .texth3-group-index  {margin-left: 87px;position: absolute;}
 .group-index-opisanie {line-height: 30px;font-size: 17px;font-family: 'Oswald', sans-serif;margin-top: -183px;margin-left: 48px;}
