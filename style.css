@@ -697,7 +697,7 @@ button {position: absolute;width: 25px;height: 70px;font: 57pt arial, tahoma, sa
 html, body {margin: 0;height: 100%;}
 /* * {box-sizing: border-box;} */
 .top-nav {width: 1140px;display: flex;flex-direction: row;align-items: center;color: #FFF;height: 50px;padding: 1em;border-radius: 10px;}
-.index-mobile {margin-left: -83px;margin-top: 12px;}
+.index-mobile {margin-left: -83px;margin-top: -4px;}
 .menu {display: flex;flex-direction: row;list-style-type: none;margin: 0;padding: 0;}
 .menu > li {margin: 0 1rem;overflow: hidden;}
 .menu-button-container {display: none;height: 100%;width: 76px;cursor: pointer;flex-direction: column;justify-content: center;align-items: center;}
