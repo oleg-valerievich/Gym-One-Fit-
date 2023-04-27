@@ -623,7 +623,8 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Подвинуть четвертое фото в контейнере */.four-foto-raspolochenie {margin-left: 19px;}                                            
 .blog-four-sport-nutrition {display: grid;width: 1140px;margin: 72px auto 0;grid-template-columns: 67%;grid-template-rows: 117px 501px 139px 601px 179px 82px 278px 0px;}
 /* Текст ВИДЫ СПОРТИВНОГО ПИТАНИЯ  */.tekst-types-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 32px;padding-left: 57px;color: #FDF9F9;}
-/* Текст Когда речь заходит о разновидностях спортпита */.tekst-types-sportpit-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
+/* Текст Когда речь заходит о разновидностях спортпита */
+.tekst-types-sportpit-sport-nutrition {width: 632px;height: 510px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
 /* Текст ПЛЮСЫ СПОРТИВНОГО ПИТАНИЯ */.tekst-advantages-of-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 32px;padding-left: 57px;color: #FDF9F9;}
 /* Текст Бытует мнение, что спортивное питание  */.tekst-lot-narrow-audience-sport-nutrition {width: 624px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
 /* Текст Для решения возникающих проблем и были разработаны */.tekst-solutions-emergin-problems-sports-nutrition {width: 624px;font-family: 'Nunito Sans', sans-serif;margin-top: 35px;font-weight: 400;font-size: 15px;padding-left: 136px;color: #FFFBFB;}
