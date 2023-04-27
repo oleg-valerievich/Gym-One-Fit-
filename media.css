@@ -105,9 +105,8 @@
     margin-left: -1px;
 }
 .menu-logo-about-us {width: 187px;margin-top: 192px;margin-left: -2px;font-size: 25px;}
-.top-nav {
-  width: 848px;
-}
+.top-nav {width: 820px;}
+.index-training-complex {width: 855px;}
 
 
 /* Снять подчёркивание контейнера */
@@ -164,19 +163,19 @@
 .foto-personal-group-index {height: 567px;}
 .foto-sports-nutrition-index {height: 569px;}
 /* Текст групповые занятия */.texth3-group-index {margin-left: 187px;margin-top: 147px;font-size: 50px;}
-.group-index-opisanie {font-size: 35px;margin-top: -333px;margin-left: -312px;text-align: center;}
+.group-index-opisanie {font-size: 35px;margin-top: -333px;margin-left: -47px;text-align: center;}
 /* Текст Спортивное питание */.texth3-sport-index {
   width: 508px; margin-left: 198px;margin-top: 147px;font-size: 50px;}
 /* Кнопка подробнее 1 */.btn-block {width: 277px;font-size: 30px;height: 53px;margin-left: 278px;margin-top: 35px;}
 .btn-block-two {width: 277px;font-size: 30px;height: 53px;margin-left: -563px;margin-top: 459px;position: absolute;}
 .btn-block-three {width: 277px;font-size: 30px;height: 53px;margin-left: -563px;margin-top: 459px;position: absolute;}
-/* Текст персональная тренировка */.texth3-personal-index {margin-left: 130px;margin-top: 147px;font-size: 50px;}
+/* Текст персональная тренировка */.texth3-personal-index {width: 659px;height: 79px;margin-left: 114px;margin-top: 147px;font-size: 50px;}
 .personal-index-opisanie {line-height: 38px;font-size: 35px;margin-top: -330px;margin-left: 104px;text-align: center;position: absolute;}
 .sports-index-opisanie {line-height: 38px;font-size: 35px;margin-top: -330px;margin-left: 104px;text-align: center;position: absolute;}
 /* Перестановка блоков во второй секции */.index-welcone-club {grid-template-columns: repeat(1, 1fr);grid-template-rows: 260px 78px 453px;}
 /* Добро пожаловать в спортивный клуб  */.teks-welcome-index {margin-left: -269px;text-align: center;}
 /* Текст Подборки эффективных упражнений от фитнес-тренеров. */
-.teks-podborki-index {margin-left: 167px;margin-top: -144px;}
+.teks-podborki-index {height: 125px;margin-left: 167px;margin-top: -144px;}
 .foto-gym-three-index {width: 622px;height: 409px;margin-top: 757px;margin-left: 109px;}
 /* Уменьшаем 4 Секцию  */.index-programs-club {width: 839px;}
 /* Параметры 5 Секции */.index-offers-club {grid-template-columns: repeat(2, 1fr);grid-template-rows: 100px 500px 100px 100px;margin-top: -160px;}
