@@ -418,8 +418,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .menu-logo-about-us {width: 147px;margin-top: 160px;margin-left: -4px;font-size: 20px;}
 .tekst-shedule-table {font-size: 50px;margin-left: -587px;margin-top: 214px;}
 .mobile-index-spisok {margin-left: -19px;}
-.top-nav {width: 846px;}
-.teks-welcome-index {margin-left: -37px;}
+.top-nav {width: 819px;}
+.teks-welcome-index {margin-left: 173px;}
 .right {margin-left: 596px;margin-top: -217px;}
 .icons-vector-left-gallery {margin-top: 323px;margin-left: -495px;}
 .one-sec-contact {margin-top: 88px;margin-left: -29px;}
@@ -463,31 +463,21 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 /* .sport-hero-slider {width: 700px;} */
 .three-sec-blog  {width: 200px;}
-.tekst-banner-index h1 {margin-top: -305px;margin-left: -333px;}
-.index-offers-club {grid-template-rows: 100px 318px 100px 100px;margin-top: -9px;}
+.tekst-banner-index h1 {margin-top: -305px;margin-left: 95px;}
+.index-offers-club {width: 706px;grid-template-rows: 100px 318px 100px 100px;margin-top: -9px;}
 .logo-gym-index {width: 143px;height: 79px;margin-top: 159px;margin-left: 18px;}
 .logo-gym-about-us {width: 143px;height: 79px;margin-top: 159px;margin-left: 21px;}
-.texth3-group-index {width: 490px; margin-left: 115px;}
-.group-index-opisanie {margin-left: -455px;}
-.btn-block {margin-left: 195px;margin-top: 33px;}
-.texth3-personal-index {
-  width: 576px;
-  margin-left: 67px;
-  margin-top: 143px;
-  font-size: 45px;
-}
-.personal-index-opisanie {
-  width: 574px;
-  font-size: 30px;
-  margin-top: -336px;
-  margin-left: 75px;
-}
-.btn-block-two {margin-left: -642px;}
-.texth3-sport-index {margin-left: 102px;}
-.sports-index-opisanie {width: 577px;font-size: 30px;margin-top: -356px;margin-left: 70px;}
-.btn-block-three {margin-left: -647px;margin-top: 431px;}
-.index-welcone-club {width: 908px;}
-.teks-podborki-index {margin-left: 184px;margin-top: -273px;}
+.texth3-group-index {width: 490px; margin-left: 205px;}
+.group-index-opisanie {margin-left: -14px;}
+.btn-block {margin-left: 280px;margin-top: 33px;}
+.texth3-personal-index {width: 576px;margin-left: 166px;margin-top: 143px;font-size: 45px;}
+.personal-index-opisanie {width: 574px;font-size: 30px;margin-top: -336px;margin-left: 145px;}
+.btn-block-two {margin-left: -547px;}
+.texth3-sport-index {margin-left: 213px;}
+.sports-index-opisanie {width: 577px;font-size: 30px;margin-top: -356px;margin-left: 149px;}
+.btn-block-three {margin-left: -547px;margin-top: 431px;}
+.index-welcone-club {width: 764px;height: 893px;}
+.teks-podborki-index {margin-left: 184px;margin-top: -271px;}
 .foto-programs-four-index {
   width: 844px;
   height: 294px;
@@ -511,7 +501,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   width: 300px;
   margin-top: -287px;}
 .club-table-index {margin: 293px auto;}
-.iksweb {margin-top: 83px;margin-left: -206px;}
+.iksweb {margin-top: 83px;margin-left: -110px;}
 .tekst-contacts-one {margin-left: -497px;margin-top: 187px;}
 .text-about-us-four {margin-left: -432px;font-size: 18px;margin-top: -172px;}
 .zvezdu-about-us {margin-top: -137px;}
@@ -581,7 +571,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .foto-bjj-index {
   width: 422px;
   height: 372px;
-  margin-left: -1572px;
+  margin-left: -1361px;
   margin-top: 286px;
 }
 .men-and-woman-gym-sport {width: 845px;margin-top: -98px;}
@@ -594,8 +584,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 414px;
   margin-top: -31px;
 }
-.zagalovok-bjj-index {font-size: 32px;margin-top: 313px;line-height: 38px;margin-left: -1593px;}
-.teks-bjj-index {font-size: 16px;margin-top: 411px;margin-left: -1566px;}
+.zagalovok-bjj-index {font-size: 32px;margin-top: 313px;line-height: 38px;margin-left: -1370px;}
+.teks-bjj-index {font-size: 16px;margin-top: 411px;margin-left: -1362px;}
 .bjj-five-index {margin-left: 110px;margin-top: 672px;font-size: 20px;}
 .zagalovok-dance-index {width: 261px;font-size: 30px;margin-left: 509px;margin-top: 16px;}
 .teks-dance-index {font-size: 16px;margin-top: 87px;margin-left: 503px;}
@@ -622,6 +612,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 386px;
   margin-top: -17px;
   height: 88px;
+}
+.btn-three-index {
+  margin-left: 341px;
+  margin-top: -344px;
 }
 .advantages-index {width: 834px;grid-template-rows: 162px 115px 276px 319px;}
 .block-index-one {width: 154px;height: 187px;margin-left: -724px;margin-top: 227px;}
