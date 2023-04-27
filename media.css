@@ -178,7 +178,7 @@
 .teks-podborki-index {height: 125px;margin-left: 167px;margin-top: -144px;}
 .foto-gym-three-index {width: 622px;height: 409px;margin-top: 757px;margin-left: 109px;}
 /* Уменьшаем 4 Секцию  */.index-programs-club {width: 839px;}
-/* Параметры 5 Секции */.index-offers-club {grid-template-columns: repeat(2, 1fr);grid-template-rows: 100px 500px 100px 100px;margin-top: -160px;}
+/* Параметры 5 Секции */.index-offers-club {width: 841px;grid-template-columns: repeat(2, 1fr);grid-template-rows: 100px 500px 100px 100px;margin-top: -160px;}
 .foto-crossfit-index {width: 410px;height: 389px;margin-left: -1px;margin-top: 5px;}
 .foto-fitness-index {width: 436px;height: 392px;margin-left: 408px;margin-top: -96px;}
 .tekst-contacts-one {margin-left: -583px;margin-top: 215px;}
@@ -191,7 +191,7 @@
 /* Параметры кнопки Фитнес */.fitness-btn-five-index {width: 168px;height: 45px;margin-left: 526px;margin-top: 302px;font-size: 20px;}
 /* Текст кнопки фитнес */.fitness-btn-five-index-text {padding-left: 35px;margin-top: 6px;}
 /* Текст фитнесс */.teks-fitness-index {width: 392px;font-family: 'Nunito Sans', sans-serif;font-size: 18px;color: #FFFFFF;margin-top: -262px;margin-left: 469px;}
-/* Фото BJJ */.foto-bjj-index {width: 410px;height: 385px;margin-left: -1576px;margin-top: 303px;}
+/* Фото BJJ */.foto-bjj-index {width: 410px;height: 385px;margin-left: -1318px;margin-top: 304px;}
 /* Положение кнопки в BJJ */.bjj-btn-five-index-text {padding-left: 38px;margin-top: 7px;}
 /* Фото Dance-mix */
 .foto-dance-index {
@@ -200,8 +200,8 @@
   margin-top: -196px;
   position: absolute;
 }
-/* Текст загаловка BJJ */.zagalovok-bjj-index {font-size: 40px;margin-top: 326px;line-height: 47px;margin-left: -1587px;}
-/* Текст BJJ */.teks-bjj-index {font-family: 'Nunito Sans', sans-serif;font-size: 18px;color: #FFFFFF;margin-top: 437px;margin-left: -1573px;position: absolute;}
+/* Текст загаловка BJJ */.zagalovok-bjj-index {font-size: 40px;margin-top: 326px;line-height: 47px;margin-left: -1312px;}
+/* Текст BJJ */.teks-bjj-index {font-family: 'Nunito Sans', sans-serif;font-size: 18px;color: #FFFFFF;margin-top: 437px;margin-left: -1313px;position: absolute;}
 /* Параметры кнопки BJJ */.bjj-five-index {width: 168px;height: 45px;margin-left: 123px;margin-top: 702px;font-size: 20px;}
 /* Параметры кнопки Танцевальный микс */.btn-dance-mix-index {width: 168px;height: 45px;font-size: 20px;margin-top: 704px;margin-left: 537px;}
 /* Загаловок Танцевальный микс */.zagalovok-dance-index {width: 282px;font-size: 35px;margin-left: 484px;margin-top: -144px;}
@@ -212,7 +212,7 @@
 
                                             /* Параметры Таблицы */
 
-/* Подвинуть Текст Расписание */.zagolovok-schedule-index {margin-left: 238px;}
+/* Подвинуть Текст Расписание */.zagolovok-schedule-index {margin-left: 119px;}
 
 table.iksweb td {font-size: 13px;}
 table.iksweb td, table.iksweb th {padding: 0px 0px;}
@@ -400,6 +400,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
 .tekst-preparation-programs-index {width: 397px;}
 .btn-three-index {margin-left: 341px;margin-top: -295px;}
+.club-table-index {width: 696px;margin-left: 110px;}
+
 
 }
 
