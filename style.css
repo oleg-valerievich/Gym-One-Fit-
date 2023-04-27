@@ -318,7 +318,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 
 
 .maps-api-blog-index{width: 1140px;margin: auto;}
-.maps-api-contact {display: grid;width: 372px;height: 406px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;position: absolute;background: #FFF8F8;border: #E1E1E1 1px;margin-top: -58px;}
+.maps-api-contact {display: grid;width: 372px;height: 382px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;background: #FFF8F8;border: #E1E1E1 1px;margin-top: -110px;margin-left: -684px;position: absolute;}
 /* Подвинуть форму влево */.form-twelve-index {margin-left: 684px;}
 /* Блог Характеристик описания адреса Поднять Блок, Цвет, ширина, высота, */
 .maps-api-index {
