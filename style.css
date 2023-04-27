@@ -233,7 +233,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* текст Наш тренер */.teks-nach-trener-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
 
 /* Блок 3 */
-/* поднять блок */.block-personalized-sessions-index {margin-top: -15px;}
+/* поднять блок */.block-personalized-sessions-index {width: 203px;height: 246px;margin-top: -15px;}
 /* 3 текст */.tekst-succeed-in-business-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
 /* текст ПЕРСОНАЛИЗИРОВАННЫЕ СЕССИИ */.teks-personalized-sessions-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
 
