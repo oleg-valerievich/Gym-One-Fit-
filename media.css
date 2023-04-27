@@ -245,7 +245,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
                                             /* Eight-Block */
 
 /* Уменьшаем Разрешение Блока до 909px */.advantages-index {width: 825px;}
-/* Текст ПОЧЕМУ ЛЮДИ ВЫБИРАЮТ ИМЕННО НАС */.tekst-choosing-us-index {margin-left: -4px;font-size: 35px;}
+/* Текст ПОЧЕМУ ЛЮДИ ВЫБИРАЮТ ИМЕННО НАС */.tekst-choosing-us-index {margin-left: -66px;font-size: 35px;}
 
 
                                             /* Nine-Block */
@@ -276,7 +276,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
                                                       /* thirteen-banner */
 /* Блог получить информацию */.four-sec-blog {width: 300px;height: 308px;margin-left: -520px;margin-top: 458px;}
-/* БЛоГ */.tekst-our-blog-index {margin-left: 102px;margin-top: 584px;}
+/* БЛоГ */.tekst-our-blog-index {margin-left: 102px;margin-top: 619px;}
 /* Блог программа перемещение текста */.three-sec-blog {width: 300px;height: 393px;margin-left: 13px;margin-top: 8px;}
 /* Блог программа текст */.three-sec-blog a {font-size: 30px;}
 /* Перемещение и изменение текста Программа */.tekst-programm-blog-index {font-size: 30px;margin-top: 105px;}
@@ -370,7 +370,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .maps-api-two-block-sport-nutrition {margin-top: -159px;margin-left: 46px;}
 .tekst-contact-us-blog-contact {margin-top: -166px;margin-left: -27px;font-size: 20px;}
 .one-btn-blok-eleven-index {margin-top: 21px;margin-left: 119px;}
-.vnutru-buy-blog-index {height: 243px;}
+.vnutru-buy-blog-index {width: 851px;height: 243px;}
 .blog-four-sport-nutrition {grid-template-rows: 117px 501px 139px 625px 179px 82px 278px 0px;}
 .tekst-solutions-emergin-problems-sports-nutrition {margin-top: 24px;}
 .text-index-programs-four {
@@ -688,6 +688,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .block-three-sport-nutrition {grid-template-columns: 22% 22%;grid-template-rows: 200px;grid-gap: 12px;}
 .one-btn-blok-eleven-index {margin-top: 13px;margin-left: 53px;}
 .menu-logo {width: 169px;margin-top: 102px;margin-left: -14px;font-size: 20px;}
+.vnutru-buy-blog-index {width: 715px;height: 228px;}
 .maps-api-index {
   width: 390px;
   height: 335px;
