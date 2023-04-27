@@ -221,8 +221,10 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Поднять блок мы будем с вами */.block-weare-with-you-index {margin-top: -5px;}
 
 
-/* текст Мы с вами */.teks-mu-s-vami-index {font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
-/* Текст опыт команды */.teks-oput-komandu-index {font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
+/* текст Мы с вами */.teks-mu-s-vami-index {width: 182px;font-family: 'Oswald', sans-serif;font-weight: 500;font-size: 13px;color: #FDF9F9;line-height: 19px;}
+/* Текст опыт команды */.teks-oput-komandu-index {
+  width: 182px;
+  font-family: 'Oswald', sans-serif;font-weight: 300;font-size: 14px;line-height: 122.2%;color: #7B7B7B;}
 
 
 /* Блок 2 - опустить */.block-nach-trener {margin-top: 37px;}
