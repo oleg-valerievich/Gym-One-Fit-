@@ -55,7 +55,7 @@
 .sports-nutrition-index:hover  {background-color:  #e5280b;padding-bottom: 5px;border-radius: 8px;}
 .personal-index {font-family: 'Oswald', sans-serif;color: #FFFFFF;font-weight: 200;font-size: 20px; text-decoration: none; line-height: 60px; }
 .personal-index-opisanie {line-height: 30px;font-size: 17px;font-family: 'Oswald', sans-serif;margin-top: -183px;margin-left: 48px;}
-.texth3-personal-index {margin-left: 64px;position: absolute;}
+.texth3-personal-index {width: 294px;margin-left: 64px;position: absolute;}
 .texth3-sport-index {width: 340px; margin-left: 64px;position: absolute;}
 .sports-nutrition-index {font-family: 'Oswald', sans-serif;color: #FFFFFF;font-weight: 200;font-size: 20px;text-decoration: none;line-height: 60px;}
 .sports-index-opisanie {line-height: 30px;font-size: 17px;font-family: 'Oswald', sans-serif;margin-top: -183px;margin-left: 48px;}
