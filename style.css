@@ -266,7 +266,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 
 .from-our-blog-index {display: grid;width: 1140px;margin: auto;color: #f4f2f2;justify-content: center;grid-template-rows: 133px 115px 689px;}
 /* Текст из нашего блога */.tekst-from-our-blog-index {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 44px;text-align: center;color: #FEF5F5;}
-/* Текст "Список всех новостей" */.tekst-list-news-index {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 20px;text-align: center;color: #FEF9F9;letter-spacing: -0.025em;}
+/* Текст "Список всех новостей" */.tekst-list-news-index {width: 849px;height: 68px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 20px;text-align: center;color: #FEF9F9;letter-spacing: -0.025em;}
 /* Текст "Список всех новостей" */.tekst-list-news-blog {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 20px;text-align: center;color: #FEF9F9;letter-spacing: -0.025em;}
 /* Расположения Блогов */.block-offers-one-index {display: grid;grid-template-columns: 33% 40% 35%;}
 
