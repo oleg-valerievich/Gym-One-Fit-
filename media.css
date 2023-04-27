@@ -575,9 +575,9 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: 286px;
 }
 .men-and-woman-gym-sport {width: 845px;margin-top: -98px;}
-.zagolovok-abonement-index {margin-left: -112px;}
-.tekst-season-tickets-index {margin-left: -524px;}
-.form_toggle {margin-left: -289px;}
+.zagolovok-abonement-index {margin-left: 12px;margin-top: -10px;}
+.tekst-season-tickets-index {width: 655px;margin-left: -324px;margin-top: 56px;}
+.form_toggle {margin-left: -98px;}
 .advantages-about-us {width: 715px;}
 .foto-dance-index {
   height: 370px;
@@ -618,10 +618,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: -344px;
 }
 .advantages-index {width: 834px;grid-template-rows: 162px 115px 276px 319px;}
-.block-index-one {width: 154px;height: 187px;margin-left: -724px;margin-top: 227px;}
-.block-index-two {width: 154px;height: 187px;margin-left: -264px;margin-top: -202px;}
+.block-index-one {width: 154px;height: 187px;margin-left: -450px;margin-top: 205px;}
+.block-index-two {width: 154px;height: 187px;margin-left: -65px;margin-top: -225px;}
 .tekst-get-information-index {margin-left: -3px;margin-top: 151px;}
-.block-index-three {width: 154px;height: 187px;margin-left: 183px;margin-top: -202px;}
+.block-index-three {width: 154px;height: 187px;margin-left: 308px;margin-top: -225px;}
 .form-one-name-contact {width: 149px;margin-top: 494px;margin-left: 359px;}
 .form-two-phone-contact {width: 145px;height: 21px;margin-top: 494px;margin-left: 547px;}
 .form-three-name-contact {width: 345px;margin-left: 359px;}
@@ -632,7 +632,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .form-three-phone-sport-nutrition {width: 216px;height: 32px;margin-top: -163px;margin-left: 169px;}
 .btn-submit-your-application-contact {margin-left: -80px;}
 .ordinary-text-index {font-size: 15px;margin-top: 11px;}
-.one-monthly-text-index {margin-top: -143px;margin-left: 109px;}
+.one-monthly-text-index {margin-top: -165px;margin-left: 196px;}
 .rub-one-index {margin-left: -55px;}
 .rub-two-index {margin-left: -56px;}
 .three-monthly-text-index {margin-top: -20px;margin-left: -2px;}
@@ -640,12 +640,12 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .professional-text-index {font-size: 14px;margin-top: 14px;}
 .advanced-text-index {font-size: 15px;margin-top: 13px;}
 .numer-one-index {margin-top: -39px;font-size: 20px;}
-.description-one-index {font-size: 9px;line-height: 10px;margin-left: -455px;margin-top: -124px;}
-.description-two-index {font-size: 9px;line-height: 10px;margin-left: -8px;margin-top: -122px;}
-.two-monthly-text-index {margin-top: -139px;margin-left: -1231px;}
-.one-btn-blok-seven-index {margin-top: 221px;margin-left: -409px;}
-.two-btn-blok-seven-index {margin-top: 221px;margin-left: -234px;}
-.three-btn-blok-seven-index {margin-top: 221px;margin-left: -59px;}
+.description-one-index {font-size: 9px;line-height: 10px;margin-left: -113px;margin-top: -143px;}
+.description-two-index {width: 139px;height: 82px;font-size: 9px;line-height: 10px;margin-left: 353px;margin-top: -142px;}
+.two-monthly-text-index {margin-top: -165px;margin-left: -345px;}
+.one-btn-blok-seven-index {margin-top: 221px;margin-left: -206px;}
+.two-btn-blok-seven-index {margin-top: 226px;margin-left: -37px;}
+.three-btn-blok-seven-index {margin-top: 226px;margin-left: 136px;}
 .description-three-index {font-size: 9px;margin-top: -4px;line-height: 10px;}
 .from-our-blog-index {width: 796px;}
 .teks-oput-komandu-index {font-weight: 500;font-size: 11px;}
