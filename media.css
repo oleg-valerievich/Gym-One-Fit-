@@ -1240,7 +1240,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .tekst-swimming-pool-index {
   width: 261px;
   font-size: 35px;
-  padding-left: 69px;
+  padding-left: 71px;
+  margin-left: -70px;
   color: #FDF8F8;
   margin-top: -410px;
 }
@@ -1248,7 +1249,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
 .icons-video-index {
   height: 82px;
-  margin-left: 27px;
+  margin-left: 89px;
   margin-top: -7px;
   text-align: center;
 }
@@ -1350,14 +1351,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 .blog-three-sport-nutrition {margin-left: 62px;}
 
-/* iframe[Attributes Style] {
-  border-top-width: 0px;
-  border-right-width: 0px;
-  border-bottom-width: 0px;
-  border-left-width: 0px;
-  width: 300px;
-  height: 497px;
-} */
+
 
 /* Ширину блока уменьшили до 300px а на самой карте установлено width"auto"
 что бы она автоматически подстривалась под блок */
@@ -1367,10 +1361,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
 /* Обрезка фото */
 .banner-swiming-video {
-  width: 314px;
+  width: 343px;
   height: 471px;
   object-fit: cover;
-  margin-left: -92px;
+  margin-left: -59px;
   margin-top: -96px;
 }
 
