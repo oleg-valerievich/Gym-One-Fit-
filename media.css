@@ -784,7 +784,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .knopka-training-gym-sport-nutrition {margin-left: 46px;}
 .knopka-crossfit-gym-sport-nutrition {margin-left: 170px;}
 .maps-api-two-block-sport-nutrition {margin-top: -171px;margin-left: 46px;}
-.season-tickets-index {width: 304px;}
+.season-tickets-index {width: 304px;grid-template-columns: 100%;}
 .form-one-name-sport-nutrition {width: 202px;}
 .form-three-sport-nutrition {margin-top: -33px;width: 204px;}
 .form-two-email-sport-nutrition {width: 202px;margin-top: -119px;}
