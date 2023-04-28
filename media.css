@@ -299,7 +299,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 38px;
   margin-top: -338px;
 }
-.blocki-banner-five-trainer {width: 810px;margin-left: 164px;}
+.blocki-banner-five-trainer {
+  width: 722px;
+  margin-left: 261px;
+}
 .tekst-concern-klient-about-us {margin-top: -570px;margin-left: 140px;position: absolute;}
 .heading-index-programs-club {margin-top: -407px;margin-left: 258px;font-size: 42px;position: absolute;}
 .two-three-block-about-us {width: 239px;margin-left: 15px;margin-top: 18px;}
@@ -329,8 +332,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: -142px;
 }
 .blocki-two-banner-five-trainer {
-  width: 829px;
-  margin-left: 153px;
+  width: 542px;
+  margin-left: 349px;
 }
 .text-about-us-four {
   width: 766px;
@@ -339,13 +342,27 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: -81px;
 }
 .one-zvezda-about-us {
-  margin-left: -537px;
+  margin-left: -613px;
   margin-top: -26px;
 }
-.two-zvezda-about-us {margin-left: -481px;margin-top: -26px;}
-.three-zvezda-about-us {margin-left: -424px;margin-top: -26px;}
-.four-zvezda-about-us {margin-left: -366px;margin-top: -26px;}
-.five-zvezda-about-us {margin-left: -310px;margin-top: -26px;}
+.two-zvezda-about-us {
+  margin-left: -562px;
+  margin-top: -26px;
+}
+.three-zvezda-about-us {
+  margin-left: -512px;
+  margin-top: -26px;
+}
+
+
+.four-zvezda-about-us {
+  margin-left: -463px;
+  margin-top: -26px;
+}
+.five-zvezda-about-us {
+  margin-left: -413px;
+  margin-top: -26px;
+}
 .tekst-name-klient-about-us {
   margin-top: -108px;
   margin-left: 322px;
@@ -356,10 +373,24 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 320px;
   margin-top: -347px;
 }
-.blocki-three-banner-five-trainer {width: 699px;margin-left: 214px;}
+.blocki-three-banner-five-trainer {
+  width: 533px;
+  margin-left: 355px;
+}
 .coaches-about-us {width: 681px;margin: auto;grid-template-rows: 45px 201px 616px 318px 302px;grid-gap: 0px;}
-.tekst-choosing-about-us {width: 419px;height: 79px;margin-left: 356px;margin-top: -40px;}
-.text-expert-equipment-about-us {width: 518px;height: 60px;margin-left: 318px;margin-top: 14px;text-align: center;}
+.tekst-choosing-about-us {
+  width: 419px;
+  height: 79px;
+  margin-left: 279px;
+  margin-top: -46px;
+}
+.text-expert-equipment-about-us {
+  width: 518px;
+  height: 60px;
+  margin-left: 217px;
+  margin-top: -1px;
+  text-align: center;
+}
 .block-trainer-one-about-us {margin-left: -755px;margin-top: -104px;position: absolute;}
 .block-trainer-two-about-us {margin-left: -245px;margin-top: -103px;position: absolute;}
 .block-trainer-three-about-us {margin-top: -103px;margin-left: 242px;position: absolute;}
