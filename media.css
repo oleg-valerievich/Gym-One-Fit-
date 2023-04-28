@@ -482,23 +482,20 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .crossfit-tekst-gallery {margin-left: 136px;margin-top: -113px;}
 .training-tekst-gallery {margin-left: 261px;margin-top: -113px;}
 .gym-tekst-gallery {width: 141px;text-align: center;margin-left: 412px;margin-top: -113px;}
-.tekst-about-us {
-  margin-left: -591px;
-  margin-top: 236px;
-}
+.tekst-about-us {margin-left: -514px;margin-top: 236px;}
 .icons-vector-left-about-us {
   margin-top: 363px;
-  margin-left: -649px;
+  margin-left: -559px;
 }
 .tekst-blog-one {font-size: 45px;margin-left: -503px;margin-top: 239px;}
 .icons-phone-about-us {
   margin-top: 374px;
-  margin-left: -688px;
+  margin-left: -601px;
 }
 .icons-vector-right-about-us {
   font-weight: 500;
   margin-top: 363px;
-  margin-left: -498px;
+  margin-left: -406px;
 }
 /* .sport-hero-slider {width: 700px;} */
 .three-sec-blog  {width: 300px;}
@@ -518,10 +515,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .index-welcone-club {width: 764px;height: 893px;}
 .teks-podborki-index {margin-left: 184px;margin-top: -271px;}
 .foto-programs-four-index {
-  width: 844px;
-  height: 294px;
-  margin-top: -44px;
-  margin-left: -7px;
+  width: 851px;
+  height: 355px;
+  margin-top: -20px;
+  margin-left: -2px;
   object-fit: cover;
 }
 .zagolovok-schedule-index {
@@ -542,7 +539,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .club-table-index {margin: 293px auto;}
 .iksweb {margin-top: 83px;margin-left: -110px;}
 .tekst-contacts-one {margin-left: -497px;margin-top: 187px;}
-.text-about-us-four {margin-left: -432px;font-size: 18px;margin-top: -172px;}
+.text-about-us-four {margin-left: 42px;font-size: 18px;margin-top: -197px;}
 .zvezdu-about-us {margin-top: -137px;}
 .one-zvezda-about-us {
   margin-left: -539px;
@@ -565,17 +562,18 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: 27px;
 }
 .coaches-about-us {grid-template-rows: 45px 201px 616px 318px 53px;width: 550px;}
-.tekst-name-klient-about-us {margin-left: 315px;margin-top: -191px;}
-.foto-klient-about-us {margin-left: 309px;margin-top: -426px;height: 79px;}
+.tekst-name-klient-about-us {margin-left: 412px;margin-top: -206px;}
+.foto-klient-about-us {margin-left: 410px;margin-top: -450px;height: 79px;}
 .tekst-choosing-about-us {width: 337px;height: 60px;margin-left: -429px;margin-top: -277px;}
 .block-trainer-one-about-us {margin-top: -303px;}
 .block-trainer-two-about-us {margin-left: -327px;margin-top: -303px;}
 .block-trainer-four-about-us {margin-top: 9px;}
 .block-trainer-five-about-us {margin-top: -607px;margin-left: -328px;}
-.blocki-banner-five-trainer {width: 839px;}
+.blocki-banner-five-trainer {width: 637px;margin-left: 472px;}
 .block-trainer-six-about-us {margin-top: -606px;margin-left: 94px;}
 .blocki-two-banner-eight {width: 837px;}
-.blocki-three-banner-five-trainer {width: 837px;}
+.blocki-two-banner-five-trainer {width: 684px;margin-left: 448px;}
+.blocki-three-banner-five-trainer {width: 563px;margin-left: 509px;}
 .block-trainer-seven-about-us {margin-top: -301px;margin-left: -326px;}
 .block-trainer-ten-about-us {margin-top: -620px;margin-left: 96px;}
 .block-trainer-three-about-us {margin-top: -304px;margin-left: 92px;}
@@ -632,8 +630,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .zagalovok-dance-index {width: 261px;font-size: 30px;margin-left: 509px;margin-top: 16px;}
 .teks-dance-index {font-size: 16px;margin-top: 87px;margin-left: 503px;}
 .btn-dance-mix-index {margin-top: 670px;margin-left: 546px;}
-.tekst-the-best-about-us {margin-left: -450px;}
-.foto-gym-three-about-us {margin-left: -88px;margin-top: -992px;}
+.tekst-the-best-about-us {margin-left: 81px;}
+.foto-gym-three-about-us {margin-left: -43px;margin-top: -992px;}
 .location-blog {grid-template-rows: 989px;}
 .block-trainer-eight-about-us {margin-left: -753px;margin-top: -301px;}
 .banner-swiming-video {
