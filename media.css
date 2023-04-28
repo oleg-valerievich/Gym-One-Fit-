@@ -1083,8 +1083,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   text-align: center;
   width: 212px;
   height: 92px;
-  margin-left: 69px;
-  margin-top: -313px;
+  margin-left: -16px;
+  margin-top: -174px;
   font-size: 30px;
 }
 
@@ -1092,8 +1092,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .tekst-season-tickets-index {
   width: 281px;
   font-size: 10px;
-  margin-top: -208px;
-  margin-left: 34px;
+  margin-top: -64px;
+  margin-left: -129px;
   font-weight: 600;
   position: absolute;
 }
@@ -1102,7 +1102,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 177px;
   margin-top: 603px;
 }
-.form_toggle {margin-top: -150px;margin-left: 97px;padding-top: 39px;position: absolute;}
+.form_toggle {margin-top: -9px;margin-left: -62px;padding-top: 39px;position: absolute;}
 .form_toggle-item label {padding: 0px 6px;}
 .block-index-one {
   width: 164px;
