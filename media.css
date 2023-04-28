@@ -687,9 +687,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .maps-api-index {
   width: 390px;
   height: 335px;
-  margin-top: 73px;
-  margin-left: 244px;
+  margin-top: 66px;
+  margin-left: 379px;
 }
+.form_toggle {width: 271px;height: 39px;}
 .information-blog-index {width: 714px;}
 .konteiner-maps-index {width: 850px;}
 .tekst-our-blog-index {width: 235px;height: 283px;margin-left: 357px;margin-top: 662px;}
