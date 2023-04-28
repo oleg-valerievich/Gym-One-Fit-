@@ -288,8 +288,17 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .icons-phone-about-us {margin-top: 338px;margin-left: -609px;}
 .icons-vector-right-about-us {margin-left: -427px;margin-top: 329px;}
 .icons-vector-left-about-us {margin-left: -575px;margin-top: 329px;}
-.foto-gym-three-about-us {height: 436px;margin-left: -7px;margin-top: -935px;}
-.tekst-the-best-about-us {margin-left: -278px;margin-top: -422px;}
+.foto-gym-three-about-us {
+  height: 436px;
+  margin-left: 14px;
+  margin-top: -935px;
+}
+.tekst-the-best-about-us {
+  width: 552px;
+  height: 60px;
+  margin-left: 38px;
+  margin-top: -338px;
+}
 .tekst-concern-klient-about-us {margin-top: -570px;margin-left: 140px;position: absolute;}
 .heading-index-programs-club {margin-top: -407px;margin-left: 258px;font-size: 42px;position: absolute;}
 .two-three-block-about-us {width: 239px;margin-left: 15px;margin-top: 18px;}
@@ -314,18 +323,35 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .description-care-quality-abous-us {grid-template-rows: 798px;}
 .foto-programs-four-index {
   width: 844px;
-  margin-left: -13px;
+  margin-left: -71px;
   height: 561px;
+  margin-top: -142px;
 }
 .blocki-two-banner-five-trainer {width: 829px;}
-.text-about-us-four {margin-left: -269px;}
-.one-zvezda-about-us {margin-left: -537px;}
-.two-zvezda-about-us {margin-left: -481px;}
-.three-zvezda-about-us {margin-left: -424px;}
-.four-zvezda-about-us {margin-left: -366px;}
-.five-zvezda-about-us {margin-left: -310px;}
-.tekst-name-klient-about-us {margin-left: 392px;}
-.foto-klient-about-us {margin-left: 386px;margin-top: -220px;}
+.text-about-us-four {
+  width: 766px;
+  height: 86px;
+  margin-left: -30px;
+  margin-top: -81px;
+}
+.one-zvezda-about-us {
+  margin-left: -537px;
+  margin-top: -26px;
+}
+.two-zvezda-about-us {margin-left: -481px;margin-top: -26px;}
+.three-zvezda-about-us {margin-left: -424px;margin-top: -26px;}
+.four-zvezda-about-us {margin-left: -366px;margin-top: -26px;}
+.five-zvezda-about-us {margin-left: -310px;margin-top: -26px;}
+.tekst-name-klient-about-us {
+  margin-top: -108px;
+  margin-left: 322px;
+  width: 65px;
+  height: 31px;
+}
+.foto-klient-about-us {
+  margin-left: 320px;
+  margin-top: -347px;
+}
 .coaches-about-us {width: 1044px;margin: auto;grid-template-rows: 45px 201px 616px 318px 302px;grid-gap: 0px;}
 .tekst-choosing-about-us {margin-left: -250px;margin-top: -40px;}
 .text-expert-equipment-about-us {margin-left: -255px;margin-top: 17px;}
