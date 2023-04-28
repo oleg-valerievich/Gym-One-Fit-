@@ -299,6 +299,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 38px;
   margin-top: -338px;
 }
+.blocki-banner-five-trainer {width: 810px;margin-left: 164px;}
 .tekst-concern-klient-about-us {margin-top: -570px;margin-left: 140px;position: absolute;}
 .heading-index-programs-club {margin-top: -407px;margin-left: 258px;font-size: 42px;position: absolute;}
 .two-three-block-about-us {width: 239px;margin-left: 15px;margin-top: 18px;}
@@ -327,7 +328,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   height: 561px;
   margin-top: -142px;
 }
-.blocki-two-banner-five-trainer {width: 829px;}
+.blocki-two-banner-five-trainer {
+  width: 829px;
+  margin-left: 153px;
+}
 .text-about-us-four {
   width: 766px;
   height: 86px;
@@ -364,7 +368,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .block-trainer-seven-about-us {margin-top: -101px;margin-left: -244px;position: absolute;}
 .block-trainer-nine-about-us {margin-top: -101px;margin-left: -244px;}
 .block-trainer-ten-about-us {margin-top: -419px;margin-left: 244px;position: absolute;}
-.block-trainer-eleven-about-us {margin-top: -101px;margin-left: 239px;position: absolute;}
+.block-trainer-eleven-about-us {margin-top: -97px;margin-left: 239px;position: absolute;}
 .block-trainer-eight-about-us {margin-left: -753px;margin-top: -101px;}
 .block-trainer-nine-about-us {margin-top: -101px;margin-left: -498px;}
 .block-trainer-twelve-about-us {margin-top: -99px;}
