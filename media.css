@@ -928,11 +928,14 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 15px;
 }
 .index-offers-club {
-  grid-template-columns: repeat(4, 1fr);grid-template-rows: 100px 500px 100px 412px;
-margin-top: 114px;}
+  width: 319px;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: 2px 464px 99px 405px;
+  margin-top: 114px;
+}
 .foto-programs-four-index {
+  width: 342px;
   object-fit: cover;
-  width: 316px;
   margin-left: -9px;
   height: 367px;
   margin-top: -15px;
@@ -968,46 +971,47 @@ margin-top: 114px;}
   margin-top: -126px;
 }
 .teks-crossfit-index {
+  width: 213px;
   font-size: 13px;
   margin-top: -213px;
-  margin-left: 45px;
+  margin-left: 72px;
 }
-.zagalovok-crossfit-index {font-size: 30px;margin-left: 92px;margin-top: -87px;}
+.zagalovok-crossfit-index {font-size: 30px;margin-left: 121px;margin-top: -87px;}
 .foto-bjj-index {
   width: 339px;
   height: 339px;
-  margin-left: -1662px;
-  margin-top: 477px;
+  margin-left: -21px;
+  margin-top: -102px;
 }
 
 .zagalovok-bjj-index {font-size: 25px;margin-top: 340px;line-height: 30px;margin-left: -2006px;}
 .teks-bjj-index {
   font-size: 13px;
-  margin-top: 595px;
-  margin-left: -1692px;
+  margin-top: 20px;
+  margin-left: -13px;
   line-height: 16px;
 }
 .foto-fitness-index {
   width: 381px;
   height: 300px;
-  margin-left: -623px;
-  margin-top: 181px;
+  margin-left: -17px;
+  margin-top: -319px;
 }
 .foto-dance-index {
   height: 294px;
-  margin-left: 1px;
-  margin-top: 682px;
+  margin-left: -3px;
+  margin-top: -186px;
 }
 .zagalovok-bjj-index {
   font-size: 25px;
-  margin-top: 515px;
+  margin-top: -65px;
   line-height: 30px;
-  margin-left: -1711px;
+  margin-left: -25px;
 }
 .crossfit-btn-five-index {
   width: 138px;
   height: 38px;
-  margin-left: -262px;
+  margin-left: -268px;
   margin-top: 123px;
   font-size: 14px;
 }
@@ -1028,15 +1032,15 @@ margin-top: 114px;}
 }
 .zagalovok-fitness-index {
   font-size: 35px;
-  margin-left: -512px;
-  margin-top: 200px;
+  margin-left: 110px;
+  margin-top: -273px;
 }
 .fitness-btn-five-index-text {padding-left: 37px;margin-top: 9px;}
 .teks-fitness-index {
   font-size: 13px;
   color: #FFFFFF;
   margin-top: -208px;
-  margin-left: -560px;
+  margin-left: 70px;
   line-height: 14px;
 }
 .btn-dance-mix-index {
@@ -1048,13 +1052,13 @@ margin-top: 114px;}
 }
 .zagalovok-dance-index {
   font-size: 24px;
-  margin-left: 52px;
-  margin-top: 735px;
+  margin-left: 73px;
+  margin-top: -146px;
 }
 .teks-dance-index {
   font-size: 13px;
-  margin-top: 802px;
-  margin-left: 46px;
+  margin-top: -71px;
+  margin-left: 74px;
   line-height: 13px;
 }
 .zagolovok-schedule-index {
@@ -1063,7 +1067,7 @@ margin-top: 114px;}
   font-size: 22px;
   position: absolute;
 }
-.club-table-index {display: grid;width: 1140px;margin-top: 30px;overflow-x: auto;overflow-y: hidden;}
+.club-table-index {display: grid;width: 774px;margin-top: 184px;overflow-x: auto;overflow-y: hidden;}
 .iksweb {margin-top: 82px;margin-left: 30px;}
 
 .men-and-woman-gym-sport {
