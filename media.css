@@ -104,6 +104,8 @@
     margin-top: 60px;
     margin-left: -1px;
 }
+.about-us-programs-club {width: 704px;}
+.abous-us-welcone-club { width: 860px;}
 .menu-logo-about-us {width: 187px;margin-top: 192px;margin-left: -2px;font-size: 25px;}
 .top-nav {width: 820px;}
 .index-training-complex {width: 855px;}
@@ -422,6 +424,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .teks-welcome-index {margin-left: 173px;}
 .right {margin-left: 667px;margin-top: -217px;}
 /* БЛоГ */.tekst-our-blog-index {width: 300px;height: 283px;margin-left: 237px;margin-top: 631px;}
+.abous-us-welcone-club { width: 710px;}
 .icons-vector-left-gallery {margin-top: 323px;margin-left: -495px;}
 .one-sec-contact {margin-top: 88px;margin-left: -29px;}
 .icons-vector-right-gallery {margin-top: 323px;margin-left: -347px;}
@@ -645,8 +648,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .description-two-index {width: 139px;height: 82px;font-size: 9px;line-height: 10px;margin-left: 353px;margin-top: -142px;}
 .two-monthly-text-index {margin-top: -165px;margin-left: -286px;}
 .one-btn-blok-seven-index {margin-top: 221px;margin-left: -206px;}
-.two-btn-blok-seven-index {margin-top: 226px;margin-left: -37px;}
-.three-btn-blok-seven-index {margin-top: 226px;margin-left: 136px;}
+.two-btn-blok-seven-index {margin-top: 222px;margin-left: -34px;}
+.three-btn-blok-seven-index {margin-top: 222px;margin-left: 136px;}
 .description-three-index {font-size: 9px;margin-top: -4px;line-height: 10px;}
 .from-our-blog-index {width: 796px;}
 .teks-oput-komandu-index {font-weight: 500;font-size: 11px;}
@@ -694,7 +697,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .information-blog-index {width: 714px;}
 .konteiner-maps-index {width: 850px;}
 .tekst-our-blog-index {width: 235px;height: 283px;margin-left: 357px;margin-top: 662px;}
-.footer-index {margin-left: 164px;}
+.footer-index {
+  margin-left: 226px;
+  width: 395px;
+}
 
 }
 
