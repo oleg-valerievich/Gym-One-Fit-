@@ -529,22 +529,25 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: -307px;
   margin-top: 27px;
 }
-.coaches-about-us {grid-template-rows: 45px 201px 616px 318px 53px;width: 1014px;}
+.coaches-about-us {grid-template-rows: 45px 201px 616px 318px 53px;width: 550px;}
 .tekst-name-klient-about-us {margin-left: 315px;margin-top: -191px;}
 .foto-klient-about-us {margin-left: 309px;margin-top: -426px;height: 79px;}
-.tekst-choosing-about-us {margin-left: -343px;margin-top: -260px;}
+.tekst-choosing-about-us {width: 337px;height: 60px;margin-left: -429px;margin-top: -277px;}
 .block-trainer-one-about-us {margin-top: -303px;}
 .block-trainer-two-about-us {margin-left: -327px;margin-top: -303px;}
 .block-trainer-four-about-us {margin-top: 9px;}
 .block-trainer-five-about-us {margin-top: -607px;margin-left: -328px;}
+.blocki-banner-five-trainer {width: 839px;}
 .block-trainer-six-about-us {margin-top: -606px;margin-left: 94px;}
+.blocki-two-banner-eight {width: 837px;}
+.blocki-three-banner-five-trainer {width: 837px;}
 .block-trainer-seven-about-us {margin-top: -301px;margin-left: -326px;}
 .block-trainer-ten-about-us {margin-top: -620px;margin-left: 96px;}
 .block-trainer-three-about-us {margin-top: -304px;margin-left: 92px;}
 .block-trainer-nine-about-us {margin-top: -304px;margin-left: -755px;}
 .block-trainer-twelve-about-us {margin-top: -303px;margin-left: -325px;position: absolute;}
 .block-trainer-eleven-about-us {margin-top: -303px;margin-left: 97px;}
-.text-expert-equipment-about-us {width: 521px;margin-left: 128px;margin-top: -211px;text-align: center;}
+.text-expert-equipment-about-us {width: 521px;height: 57px;margin-left: 332px;margin-top: -211px;text-align: center;}
 .eleven-tekst-start-today-index {padding-left: 54px;}
 .tekst-are-you-student-index {padding-left: 55px;}
 .tekst-programm-blog-index {font-size: 28px;margin-top: 136px;margin-left: 89px;}
