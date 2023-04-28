@@ -707,7 +707,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .logo-gym-index {display: none;}
 .logo-gym-about-us {display: none;}
 .menu-spisok-center {margin-top: -11px;}
-.top-nav {width: 341px;height: 56px;}
+.top-nav {
+  width: 312px;
+  height: 24px;
+}
 .mobile-index-spisok {
   margin-top: 12px;
   margin-left: -125px;
@@ -795,7 +798,12 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .three-foto-raspolochenie {height: 342px;margin-top: 262px;margin-left: -15px;}
 .four-foto-raspolochenie {height: 333px;margin-top: 633px;margin-left: -15px;}
 .foto-sports-nutrition-index {height: 225px;}
-.tekst-banner-index h1 {font-size: 15px;margin-top: -194px;margin-left: -534px;line-height: 20px;}
+.tekst-banner-index h1 {
+  font-size: 18px;
+  margin-top: -191px;
+  margin-left: -173px;
+  line-height: 20px;
+}
 .maps-api-contact {width: 219px;}
 .left {margin-left: 17px;margin-top: 82px;}
 .right {margin-left: 226px;margin-top: -168px;}
@@ -808,17 +816,24 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .fitness-grad-block {margin-top: 298px;margin-left: -156px;}
 .foto-fitness-grad-block {height: 217px;}
 .foto-box-club-block {height: 261px;}
-.teks-podborki-index {width: 240px;margin-left: 25px;margin-top: -81px;font-size: 14px;line-height: 18px;text-align: center;}
+.teks-podborki-index {
+  width: 240px;
+  margin-left: 45px;
+  margin-top: -219px;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+}
 .menu-logo {width: 65px;height: 26px;margin-top: -49px;margin-left: -33px;font-size: 10px;}
 .texth3-group-index {
-  margin-left: 64px;
+  margin-left: 69px;
   margin-top: 38px;
   font-size: 20px;
 }
 .group-index-opisanie {
   font-size: 13px;
   margin-top: -134px;
-  margin-left: -832px;
+  margin-left: -542px;
   line-height: 13px;
   text-align: center;
 }
@@ -826,7 +841,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   line-height: 14px;
   font-size: 13px;
   margin-top: -149px;
-  margin-left: 42px;
+  margin-left: -132px;
 }
 .texth3-personal-index {
   margin-left: 43px;
@@ -842,7 +857,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   line-height: 16px;
   font-size: 13px;
   margin-top: -144px;
-  margin-left: 43px;
+  margin-left: -133px;
 }
 .btn-block {width: 111px;font-size: 10px;height: 32px;margin-left: 98px;margin-top: -3px;}
 .btn-block-two {width: 111px;font-size: 10px;height: 32px;margin-left: -241px;margin-top: 170px;}
@@ -853,8 +868,12 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: -237px;
   margin-top: 171px;
 }
-.index-welcone-club {grid-template-rows: 151px 36px 168px;width: 320px;}
-.teks-welcome-index {margin-left: -37px;font-size: 26px;margin-top: 54px;}
+.index-welcone-club {height: 696px;grid-template-rows: 151px 36px 168px;width: 320px;}
+.teks-welcome-index {
+  margin-left: 8px;
+  font-size: 26px;
+  margin-top: 134px;
+}
 .teks-podborki-index-two {margin-left: 33px;margin-top: -921px;font-size: 9px;line-height: 14px;}
 .one-jackdaw-about-us {height: 16px;margin-top: -645px;margin-left: -498px;}
 .two-jackdaw-about-us {height: 16px;margin-top: -615px;margin-left: -499px;}
@@ -878,7 +897,12 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .nine-jackdaw-about-us {height: 16px;margin-top: -191px;margin-left: -498px;}
 .teks-podborki-two-index {margin-left: -496px;margin-top: 19px;font-size: 9px;line-height: 12px;}
 .description-care-quality-abous-us {grid-template-rows: 26px;}
-.foto-gym-three-index {width: 234px;height: 174px;margin-top: 517px;margin-left: 35px;}
+.foto-gym-three-index {
+  width: 234px;
+  height: 174px;
+  margin-top: 501px;
+  margin-left: 135px;
+}
 .index-programs-club {
   width: 299px;
   height: 371px;
@@ -894,7 +918,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .heading-index-programs-club {
   font-size: 30px;
   margin-top: -323px;
-  margin-left: 51px;
+  margin-left: 3px;
 }
 .text-index-programs-four {
   width: 273px;
@@ -1065,6 +1089,11 @@ margin-top: 114px;}
   margin-left: -544px;
   font-weight: 600;
   position: absolute;
+}
+
+.btn-three-index {
+  margin-left: 177px;
+  margin-top: 603px;
 }
 .form_toggle {margin-left: -487px;padding-top: 11px;position: absolute;}
 .form_toggle-item label {padding: 0px 6px;}
