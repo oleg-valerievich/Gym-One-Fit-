@@ -1439,14 +1439,16 @@ width: 267px;
 .form-one-name-index {width: 178px;margin-top: -162px;margin-left: -26px;}
 .form-two-name-index {width: 179px;margin-left: -26px;margin-top: -121px;}
 .btn-submit-your-application-index {margin-top: 1px;margin-left: -21px;}
-.tekst-get-information-index {margin-left: -62px;margin-top: 150px;}
+.tekst-get-information-index {
+  width: 210px;
+  margin-left: -62px;margin-top: 150px;}
 .one-sec-blog {margin-left: -57px;}
 .tekst-address-index {width: 200px;}
 .three-sec-blog {width: 188px;height: 400px;margin-left: 58px;margin-top: -629px;line-height: 20px;}
 .location-blog {width: 320px;grid-template-rows: 1458px;grid-template-columns: 100%;}
 .three-sec-blog a {font-size: 20px;}
 .two-sec-blog {width: 300px;height: 514px;margin-left: -297px;margin-top: -1520px;}
-.four-sec-blog {width: 256px;height: 308px;margin-left: 119px;margin-top: -479px;}
+.four-sec-blog {width: 193px;height: 308px;margin-left: 122px;margin-top: -479px;}
 .tekst-preparation-programs-index {width: 189px;}
 .icons-two-index-thirteen {margin-top: 69px;}
 .text-february-index {margin-top: 71px;}
