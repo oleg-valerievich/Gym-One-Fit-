@@ -796,6 +796,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   width: 338px;
 }
 
+.club-table-index {display: none;}
+
 .group-index {
   width: 340px;
 }
@@ -1154,15 +1156,15 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   font-size: 22px;
   position: absolute;
 }
-.club-table-index {display: grid;width: 774px;margin-top: 184px;overflow-x: auto;overflow-y: hidden;}
+
 .iksweb {margin-top: 82px;margin-left: 30px;}
 
 .men-and-woman-gym-sport {
   object-fit: cover;
-  width: 335px;
+  width: 339px;
   height: 389px;
-  margin-left: 4px;
-  margin-top: -242px;
+  margin-left: -4px;
+  margin-top: -14px;
 }
 .zagolovok-abonement-index {
   text-align: center;
