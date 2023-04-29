@@ -888,9 +888,11 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .four-foto-raspolochenie {height: 333px;margin-top: 633px;margin-left: -15px;}
 .foto-sports-nutrition-index {height: 225px;}
 .tekst-banner-index h1 {
+  width: 341px;
+  height: 73px;
   font-size: 18px;
   margin-top: -191px;
-  margin-left: -173px;
+  margin-left: -22px;
   line-height: 20px;
 }
 .maps-api-contact {width: 219px;}
@@ -915,14 +917,16 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 .menu-logo {width: 65px;height: 26px;margin-top: -49px;margin-left: -33px;font-size: 10px;}
 .texth3-group-index {
+  width: 298px;
   margin-left: 69px;
   margin-top: 38px;
   font-size: 20px;
 }
 .group-index-opisanie {
+  width: 282px;
   font-size: 13px;
   margin-top: -134px;
-  margin-left: -542px;
+  margin-left: 8px;
   line-height: 13px;
   text-align: center;
 }
@@ -931,7 +935,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   line-height: 14px;
   font-size: 13px;
   margin-top: -149px;
-  margin-left: -24px;
+  margin-left: 29px;
 }
 .texth3-personal-index {
   width: 255px;
@@ -963,7 +967,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 .index-welcone-club {height: 696px;grid-template-rows: 151px 36px 168px;width: 320px;}
 .teks-welcome-index {
-  margin-left: 8px;
+  width: 332px;
+  margin-left: 24px;
   font-size: 26px;
   margin-top: 134px;
 }
@@ -994,7 +999,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   width: 234px;
   height: 174px;
   margin-top: 501px;
-  margin-left: 135px;
+  margin-left: 71px;
 }
 .index-programs-club {
   width: 299px;
@@ -1149,6 +1154,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: -146px;
 }
 .teks-dance-index {
+  width: 222px;
   font-size: 13px;
   margin-top: -71px;
   margin-left: 74px;
@@ -1181,19 +1187,23 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
 /* .tekst-season-tickets-index {width: 222px;font-size: 8px;margin-top: 3px;margin-left: -523px;font-weight: 600;} */
 .tekst-season-tickets-index {
-  width: 281px;
+  width: 295px;
   font-size: 10px;
-  margin-top: -202px;
-  margin-left: 22px;
+  margin-top: -206px;
+  margin-left: 15px;
   font-weight: 600;
   position: absolute;
 }
+.blocki-two-banner-eight {
+width: 267px;
+
+}
 
 .btn-three-index {
-  margin-left: 177px;
+  margin-left: 99px;
   margin-top: 603px;
 }
-.form_toggle {margin-top: -132px;margin-left: 88px;position: absolute;}
+.form_toggle {margin-top: -105px;margin-left: 85px;position: absolute;}
 .form_toggle-item label {padding: 0px 6px;}
 .block-index-one {
   width: 230px;
@@ -1428,7 +1438,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .location-blog {width: 320px;grid-template-rows: 1458px;grid-template-columns: 100%;}
 .three-sec-blog a {font-size: 20px;}
 .two-sec-blog {width: 300px;height: 514px;margin-left: -297px;margin-top: -1520px;}
-.four-sec-blog {width: 300px;height: 308px;margin-left: 119px;margin-top: -479px;}
+.four-sec-blog {width: 256px;height: 308px;margin-left: 119px;margin-top: -479px;}
 .tekst-preparation-programs-index {width: 189px;}
 .icons-two-index-thirteen {margin-top: 69px;}
 .text-february-index {margin-top: 71px;}
