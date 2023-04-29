@@ -792,6 +792,19 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .menu-spisok-about-us li a {
   margin-left: 68px;
 }
+.index-training-complex {
+  width: 338px;
+}
+
+.group-index {
+  width: 340px;
+}
+.personal-index {
+  width: 340px;
+}
+.sports-nutrition-index {
+  width: 340px;
+}
 .mobile-two-anout-us {margin-top: 61px;margin-left: -141px;width: 150%;}
 .tekst-blog-one {font-size: 25px;margin-left: -267px;margin-top: 103px;}
 .ten-block-one-index {margin-left: 1px;}
