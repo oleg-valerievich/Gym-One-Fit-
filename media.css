@@ -927,26 +927,30 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   text-align: center;
 }
 .personal-index-opisanie {
+  width: 274px;
   line-height: 14px;
   font-size: 13px;
   margin-top: -149px;
-  margin-left: -132px;
+  margin-left: -24px;
 }
 .texth3-personal-index {
+  width: 255px;
   margin-left: 43px;
   margin-top: 39px;
   font-size: 19px;
 }
 .texth3-sport-index {
+  width: 197px;
   margin-left: 69px;
   margin-top: 45px;
   font-size: 19px;
 }
 .sports-index-opisanie {
+  width: 285px;
   line-height: 16px;
   font-size: 13px;
   margin-top: -144px;
-  margin-left: -133px;
+  margin-left: 21px;
 }
 .btn-block {width: 111px;font-size: 10px;height: 32px;margin-left: 98px;margin-top: -3px;}
 .btn-block-two {width: 111px;font-size: 10px;height: 32px;margin-left: -241px;margin-top: 170px;}
