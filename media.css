@@ -1337,7 +1337,15 @@ width: 267px;
 }
 .block-focus-one-index {margin-left: -235px;margin-top: 958px;}
 .block-focus-one-index {margin-left: -226px;margin-top: 951px;}
-.swimming-pool-index {width: 402px;}
+.swimming-pool-index {
+  width: 272px;
+  margin-left: 64px;
+}
+.text-logo-index {
+  width: 276px;
+  height: 93px;
+  margin-left: 68px;
+}
 .tekst-swimming-pool-index {
   width: 261px;
   font-size: 35px;
