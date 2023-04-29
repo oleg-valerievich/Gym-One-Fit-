@@ -1195,9 +1195,9 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   position: absolute;
 }
 .blocki-two-banner-eight {
-width: 267px;
-
-}
+width: 112px;
+height: 135px;
+margin-left: 55px;}
 
 .btn-three-index {
   margin-left: 99px;
@@ -1312,11 +1312,19 @@ width: 267px;
   position: absolute;
 }
 .text-sports-equipment-index {width: 240px;font-size: 14px;margin-top: -17px;margin-left: -84px;}
-.advantages-index {width: 296px;margin-left: 74px;grid-template-rows: 165px 109px 283px 1312px;}
+.advantages-index {width: 73px;margin-left: 241px;grid-template-rows: 165px 109px 283px 1312px;}
 .block-weare-with-you-index {margin-left: -83px;}
 .block-nach-trener-index {
   margin-top: 205px;
   margin-left: -278px;
+}
+.blocki-banner-eight {
+  width: 154px;
+  margin-left: 0px;
+}
+.blocki-two-banner-eight {
+  width: 129px;
+  margin-left: 141px;
 }
 
 .block-personalized-sessions-index {margin-left: -239px;margin-top: 450px;}
@@ -1442,7 +1450,9 @@ width: 267px;
 .tekst-get-information-index {
   width: 210px;
   margin-left: -62px;margin-top: 150px;}
-.one-sec-blog {margin-left: -57px;}
+.one-sec-blog {
+  width: 367px;
+  margin-left: -57px;}
 .tekst-address-index {width: 200px;}
 .three-sec-blog {width: 188px;height: 400px;margin-left: 58px;margin-top: -629px;line-height: 20px;}
 .location-blog {width: 320px;grid-template-rows: 1458px;grid-template-columns: 100%;}
