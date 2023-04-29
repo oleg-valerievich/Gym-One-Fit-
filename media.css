@@ -1440,9 +1440,12 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .location-contact {display: grid;grid-template-rows: 1290px;grid-template-columns: 80%;}
 .footer-index {
   width: 257px;
-  font-size: 11px;
+  height: 3px;
+  font-size: 9px;
   line-height: 13px;
-  padding-left: 58px;
+  margin-left: 30px;
+  padding-left: 1px;
+  padding-top: 6px;
 }
 .blog-three-sport-nutrition {margin-left: 62px;}
 
