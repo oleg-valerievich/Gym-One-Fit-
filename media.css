@@ -600,7 +600,9 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .block-trainer-five-about-us {margin-top: -607px;margin-left: -328px;}
 .blocki-banner-five-trainer {width: 312px;margin-left: 637px;}
 .block-trainer-six-about-us {margin-top: -606px;margin-left: 94px;}
-.blocki-two-banner-eight {width: 837px;}
+.blocki-two-banner-eight {width: 657px;
+  margin-top: -35px;
+}
 .blocki-two-banner-five-trainer {width: 329px;margin-left: 628px;}
 .blocki-three-banner-five-trainer {width: 502px;margin-left: 540px;}
 .block-trainer-seven-about-us {margin-top: -301px;margin-left: -326px;}
@@ -686,7 +688,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: 341px;
   margin-top: -344px;
 }
-.advantages-index {width: 534px;grid-template-rows: 162px 115px 276px 319px;margin-left: 261px;}
+.advantages-index {width: 534px;grid-template-rows: 162px 115px 276px 319px;margin-left: 160px;}
 .block-index-one {width: 154px;height: 187px;margin-left: -450px;margin-top: 205px;}
 .block-index-two {width: 154px;height: 187px;margin-left: -65px;margin-top: -225px;}
 .tekst-get-information-index {margin-left: 102px;margin-top: 183px;}
@@ -723,7 +725,6 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .teks-nechastui-posetitel-index {font-weight: 500;font-size: 11px;}
 .tekst-succeed-in-business-index {font-weight: 500;font-size: 11px;}
 .block-personalized-sessions-index {margin-left: -32px;}
-.blocki-two-banner-eight {margin-top: -35px;}
 .tekst-modern-gym-index {font-weight: 500;font-size: 11px;}
 .tekst-everyday-life-index {width: 186px;font-weight: 500;font-size: 11px;}
 .block-daily-workouts-index {margin-left: 234px;position: absolute;}
