@@ -1006,7 +1006,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .tekst-our-quality-about-us {height: 16px;margin-top: -591px;margin-left: -498px;}
 .seven-jackdaw-about-us {height: 16px;margin-top: -216px;margin-left: -498px;}
 .nine-jackdaw-about-us {height: 16px;margin-top: -191px;margin-left: -498px;}
-.teks-podborki-two-index {margin-left: -496px;margin-top: 19px;font-size: 9px;line-height: 12px;}
+.teks-podborki-two-index {width: 251px;height: 298px;margin-left: -496px;margin-top: 19px;font-size: 9px;line-height: 12px;}
 .description-care-quality-abous-us {grid-template-rows: 26px;}
 .foto-gym-three-index {
   width: 234px;
@@ -1018,6 +1018,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   width: 299px;
   height: 371px;
 }
+.about-us-programs-club {width: 321px;}
 .tekst-the-best-about-us {margin-left: -849px;margin-top: -526px;font-size: 18px;}
 .foto-gym-three-about-us {margin-left: -118px;margin-top: -1419px;height: 180px;}
 .tekst-concern-klient-about-us {margin-top: -967px;margin-left: 31px;font-size: 17px;}
