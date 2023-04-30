@@ -1336,16 +1336,22 @@ margin-left: 55px;}
   margin-left: 0px;
 }
 .blocki-two-banner-eight {
-  width: 129px;
-  margin-left: 141px;
+  width: 5px;
+  margin-left: 233px;
 }
 
-.block-personalized-sessions-index {margin-left: -239px;margin-top: 450px;}
+.block-personalized-sessions-index {
+  margin-left: -242px;
+  margin-top: 450px;
+}
 .block-nachi-trenera-index {
-  margin-left: -208px;
+  margin-left: -312px;
   margin-top: 398px;
 }
-.block-daily-workouts-index {margin-left: -199px;margin-top: 688px;}
+.block-daily-workouts-index {
+  margin-left: -305px;
+  margin-top: 688px;
+}
 .tekst-everyday-life-index {margin-left: -17px;font-size: 14px;text-align: center;}
 .tekst-daily-workouts-index {font-size: 16px;margin-left: 34px;}
 .icons-fivedaily-workouts-index {margin-left: 52px;}
@@ -1356,6 +1362,8 @@ margin-left: 55px;}
   margin-left: -75px;
   text-align: center;
 }
+
+
 .block-focus-one-index {margin-left: -235px;margin-top: 958px;}
 .block-focus-one-index {margin-left: -226px;margin-top: 951px;}
 .swimming-pool-index {
@@ -1402,7 +1410,11 @@ margin-left: 55px;}
 .tekst-two-gym-fit-crosfit {font-size: 12px;margin-left: 20px;}
 .ten-block-icons-instagram {margin-left: 208px;margin-top: -27px;position: absolute;}
 .ten-block-three-index {display: none;}
-.block-offers-one-index {display: grid;grid-template-columns: 53%;}
+.block-offers-one-index {
+  display: grid;
+  grid-template-columns: 53%;
+  margin-left: 4px;
+}
 .ten-block-six-index {margin-left: -3px;margin-top: 755px;}
 .foto-tehnika-bazovuh-index {width: 256px;}
 .ten-tekst-six-technique-execution {
