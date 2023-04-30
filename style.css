@@ -665,9 +665,17 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 
 .five-banner-block-sport-nutrition {width: 1140px;margin: 116px auto 0;}
 /* Параметры формы */.maps-api-two-block-sport-nutrition {display: grid;width: 489px;height: 384px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;position: absolute;border: #403b3b 1px;margin-top: -381px;margin-left: -603px;}
-/* Форма Имя */.form-one-name-sport-nutrition {width: 240px;height: 32px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
-/* Форма email */.form-two-email-sport-nutrition {width: 242px;height: 32px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: 171px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}/* Форма Телефон */.form-three-phone-sport-nutrition {width: 237px;height: 32px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: 426px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
-/* Форма Написать нам */.form-three-sport-nutrition {width: 743px;height: 112px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -82px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Форма Имя */.form-one-name-sport-nutrition {
+  width: 219px;
+  height: 36px;
+  border: 0px solid #2D2D2D;
+  color: #ffffff;
+  margin-top: -122px;
+  margin-left: -80px;
+  padding-left: 24px;
+  padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Форма email */.form-two-email-sport-nutrition {width: 218px;height: 32px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: 171px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}/* Форма Телефон */.form-three-phone-sport-nutrition {width: 237px;height: 32px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: 426px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
+/* Форма Написать нам */.form-three-sport-nutrition {width: 747px;height: 112px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -68px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
 .icons-vector-left-gallery {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 30px;margin-top: 511px;margin-left: -705px;color: #FFFFFF;text-decoration: none;line-height: 135.2%;position: absolute;}
 .icons-vector-right-gallery {font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 30px;margin-top: 511px;margin-left: -551px;color: #FFFFFF;text-decoration: none;line-height: 135.2%;position: absolute;}
 .icons-phone-gallery {margin-top: 521px;margin-left: -744px;position: absolute;}
