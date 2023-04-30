@@ -107,7 +107,7 @@
 .about-us-programs-club {width: 704px;}
 .abous-us-welcone-club { width: 860px;}
 .menu-logo-about-us {width: 187px;margin-top: 192px;margin-left: -2px;font-size: 25px;}
-.top-nav {width: 820px;}
+.top-nav {width: 824px;}
 .index-training-complex {width: 855px;}
 
 
@@ -125,7 +125,11 @@
 .right {margin-left: 735px;margin-top: -264px;}
 .mobile-index-spisok {margin-left: -8px;}
 .foto-ten-block-one-blog {margin-left: 10px;margin-top: 10px;}
-.block-offers-one-index {display: grid;grid-template-columns: 50% 50%;}
+.block-offers-one-index {
+  display: grid;
+  margin-left: -113px;
+  grid-template-columns: 50% 50%;
+}
 .ten-block-two-blog {margin-left: 302px;margin-top: 10px;position: absolute;}
 .foto-sport-club-blog {height: 287px;}
 .ten-block-three-blog {margin-top: 200px;}
@@ -180,7 +184,7 @@
 .teks-podborki-index {height: 125px;margin-left: 167px;margin-top: -144px;}
 .foto-gym-three-index {width: 622px;height: 409px;margin-top: 757px;margin-left: 109px;}
 /* Уменьшаем 4 Секцию  */.index-programs-club {width: 839px;}
-/* Параметры 5 Секции */.index-offers-club {width: 841px;grid-template-columns: repeat(2, 1fr);grid-template-rows: 100px 500px 100px 100px;margin-top: -160px;}
+/* Параметры 5 Секции */.index-offers-club {width: 841px;grid-template-columns: repeat(2, 1fr);grid-template-rows: 100px 500px 100px 100px;margin-top: -149px;}
 .foto-crossfit-index {width: 410px;height: 389px;margin-left: -1px;margin-top: 5px;}
 .foto-fitness-index {width: 436px;height: 392px;margin-left: 408px;margin-top: -96px;}
 .tekst-contacts-one {margin-left: -583px;margin-top: 215px;}
@@ -257,11 +261,20 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 
 /* Параметры Блога */.from-our-blog-index {width: 787px;grid-template-rows: 133px 108px 866px;}
 /* Заголовок из нашего блога */.tekst-from-our-blog-index {margin-left: 17px;}
-/* Текст Список всех новостей и событий */.tekst-list-news-index {margin-left: 40px;font-size: 18px;}
+/* Текст Список всех новостей и событий */
+.tekst-list-news-index {
+  width: 617px;
+  height: 32px;
+  margin-left: 40px;
+  font-size: 18px;
+}
 .tekst-list-news-blog {margin-left: 40px;font-size: 18px;}
 /* 1 блог */.foto-ten-block-one-index {margin-left: 1px;margin-top: -23px;}
 /* 2 Блог */.ten-block-two-index {margin-left: 448px;margin-top: -22px;position: absolute;}
-/* 3 блок */.ten-block-three-index {margin-left: 13px;margin-top: 165px;}
+/* 3 блок */.ten-block-three-index {
+    margin-left: 63px;
+    margin-top: 165px;
+}
 /* 4 Блог */.ten-block-six-index {margin-left: 455px;margin-top: 402px;position: absolute;}
 /* 5 Блог */.ten-block-five-index {margin-top: 306px;margin-left: 169px;position: absolute;}
 /* Фото со Спортивным залом */.foto-gym-sport-index {width: 262px;}
@@ -327,9 +340,9 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .description-care-quality-abous-us {grid-template-rows: 798px;}
 .foto-programs-four-index {
   width: 919px;
-  margin-left: -71px;
   height: 561px;
-  margin-top: -142px;
+  margin-left: -71px;
+  margin-top: 9px;
 }
 .blocki-two-banner-five-trainer {width: 453px;margin-left: 426px;}
 .text-about-us-four {
