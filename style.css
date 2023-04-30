@@ -626,10 +626,12 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Текст Когда речь заходит о разновидностях спортпита */
 .tekst-types-sportpit-sport-nutrition {width: 632px;height: 510px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
 /* Текст ПЛЮСЫ СПОРТИВНОГО ПИТАНИЯ */.tekst-advantages-of-sport-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 32px;padding-left: 57px;color: #FDF9F9;}
-/* Текст Бытует мнение, что спортивное питание  */.tekst-lot-narrow-audience-sport-nutrition {width: 624px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
-/* Текст Для решения возникающих проблем и были разработаны */.tekst-solutions-emergin-problems-sports-nutrition {width: 624px;font-family: 'Nunito Sans', sans-serif;margin-top: 35px;font-weight: 400;font-size: 15px;padding-left: 136px;color: #FFFBFB;}
-.the-harm-sports-nutrition {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 20px;padding-left: 57px;color: #FDF9F9;}
-.tekst-harmful-solid-chemistry {width: 624px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
+/* Текст Бытует мнение, что спортивное питание  */
+.tekst-lot-narrow-audience-sport-nutrition {width: 624px;height: 587px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
+/* Текст Для решения возникающих проблем и были разработаны */
+.tekst-solutions-emergin-problems-sports-nutrition {width: 624px;height: 131px;font-family: 'Nunito Sans', sans-serif;margin-top: 35px;font-weight: 400;font-size: 15px;padding-left: 136px;color: #FFFBFB;}
+.the-harm-sports-nutrition {width: 467px;height: 40px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 20px;padding-left: 57px;color: #FDF9F9;}
+.tekst-harmful-solid-chemistry {width: 624px;height: 235px;font-family: 'Nunito Sans', sans-serif;font-weight: 400;font-size: 15px;padding-left: 57px;color: #FFFBFB;}
 /* Текст поделиться */.tekst-to-share-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 600;font-size: 14px;color: #FFFAFA;margin-left: 318px;margin-top: 1904px;text-decoration: none;position: absolute;}
 /* Подсветка кнопки при наведении мышки "Текст поделиться" */.tekst-to-share-sport-nutrition:hover  {color: #e90606; text-decoration: underline;/* Рамка при наведении на ссылку курсора мыши */}
 /* переместить иконки на социальные сети */.menu-spisok-niz {margin-left: 487px;margin-top: 1894px;position: absolute;}
