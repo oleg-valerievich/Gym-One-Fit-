@@ -1497,33 +1497,35 @@ margin-left: 55px;}
   margin-top: 450px;
 }
 .block-nachi-trenera-index {
-  margin-left: 19px;
+  margin-left: 50px;
   margin-top: 398px;
 }
 .block-daily-workouts-index {
-  margin-left: 30px;
+  margin-left: 61px;
   margin-top: 688px;
 }
 .tekst-everyday-life-index {
-  margin-left: -17px;
-  font-size: 14px;
+  width: 218px;
   height: 105px;
+  margin-left: -32px;
+  font-size: 14px;
   text-align: center;
 }
 .tekst-daily-workouts-index {font-size: 16px;margin-left: 34px;}
 .icons-fivedaily-workouts-index {margin-left: 52px;}
 .icons-six-focus-one-index {margin-left: 44px;}
 .tekst-your-health-index {
+  width: 157px;
   height: 34px;
-  width: 141px;
   font-size: 15px;
 }
 .tekst-will-engage-index {
-  font-size: 14px;
-  margin-left: -34px;
-  width: 194px;
+  width: 208px;
   height: 77px;
   text-align: center;
+  font-size: 14px;
+  margin-left: -35px;
+
 }
 
 
