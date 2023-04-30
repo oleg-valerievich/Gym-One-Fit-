@@ -1039,8 +1039,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
     margin-left: 84px;
 }
 .blocki-banner-five-trainer {
-  width: 290px;
-  margin-left: 155px;
+  width: 267px;
+  margin-left: 82px;
 }
 .nine-jackdaw-about-us {
   height: 16px;
@@ -1137,8 +1137,8 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   width: 342px;
   object-fit: cover;
   margin-left: -9px;
-  height: 564px;
-  margin-top: -139px;
+  height: 375px;
+  margin-top: -16px;
 }
 .one-zvezda-about-us {
   height: 23px;
@@ -1180,8 +1180,9 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 
 .tekst-choosing-about-us {
+  width: 199px;
   font-size: 27px;
-  margin-left: 64px;
+  margin-left: 88px;
   margin-top: -600px;
 }
 .coaches-about-us {width: 286px;margin-top: 354px;grid-template-rows: 46px 216px 616px 318px 2093px;}
@@ -1193,22 +1194,22 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 .text-expert-equipment-about-us {
   width: 253px;
-  margin-left: 103px;
+  margin-left: 57px;
   margin-top: -575px;
   text-align: center;
 }
-.block-trainer-one-about-us {margin-top: -680px;margin-left: -133px;}
-.block-trainer-two-about-us {margin-left: -135px;margin-top: -378px;}
-.block-trainer-three-about-us {margin-top: -72px;margin-left: -138px;}
-.block-trainer-four-about-us {margin-top: 230px;margin-left: -139px;}
-.block-trainer-five-about-us {margin-top: -86px;margin-left: 109px;}
-.block-trainer-six-about-us {margin-top: 216px;margin-left: 112px;}
-.block-trainer-seven-about-us {margin-top: 515px;margin-left: 112px;}
-.block-trainer-eight-about-us {margin-top: 816px;margin-left: 112px;}
-.block-trainer-nine-about-us {margin-top: 801px;margin-left: 130px;position: absolute;}
-.block-trainer-ten-about-us {margin-top: 1103px;margin-left: 130px;}
-.block-trainer-eleven-about-us {margin-top: 1402px;margin-left: 130px;}
-.block-trainer-twelve-about-us {margin-top: 1708px;margin-left: 130px;}
+.block-trainer-one-about-us {margin-top: -680px;margin-left: -56px;}
+.block-trainer-two-about-us {margin-left: -57px;margin-top: -378px;}
+.block-trainer-three-about-us {margin-top: -72px;margin-left: -57px;}
+.block-trainer-four-about-us {margin-top: 230px;margin-left: -57px;}
+.block-trainer-five-about-us {margin-top: -86px;margin-left: 24px;}
+.block-trainer-six-about-us {margin-top: 216px;margin-left: 24px;}
+.block-trainer-seven-about-us {margin-top: 515px;margin-left: 24px;}
+.block-trainer-eight-about-us {margin-top: 816px;margin-left: 24px;}
+.block-trainer-nine-about-us {margin-top: 801px;margin-left: 24px;position: absolute;}
+.block-trainer-ten-about-us {margin-top: 1103px;margin-left: 24px;}
+.block-trainer-eleven-about-us {margin-top: 1402px;margin-left: 24px;}
+.block-trainer-twelve-about-us {margin-top: 1708px;margin-left: 24px;}
 .maps-api-index {width: 216px;margin-left: 5px;}
 .foto-crossfit-index {
   width: 337px;
