@@ -1003,13 +1003,24 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .four-jackdaw-about-us {height: 16px;margin-top: -477px;margin-left: -498px;}
 .five-jackdaw-about-us {height: 16px;margin-top: -436px;margin-left: -498px;}
 .six-jackdaw-about-us {height: 16px;margin-top: -252px;margin-left: -498px;}
-.tekst-our-quality-about-us {width: 127px;height: 26px;margin-top: -1px;margin-left: 89px;}
+.tekst-our-quality-about-us {
+  width: 209px;
+  height: 26px;
+  margin-top: -8px;
+  font-size: 17px;
+  margin-left: 89px;}
 .seven-jackdaw-about-us {height: 16px;margin-top: -216px;margin-left: -498px;}
+.blocki-banner-five-trainer {
+  width: 312px;
+  margin-left: 233px;
+}
 .nine-jackdaw-about-us {height: 16px;margin-top: -191px;margin-left: -498px;}
 .blocki-three-banner-five-trainer {
   width: 306px;
   margin-left: 73px;
 }
+
+.blocki-two-banner-five-trainer {width: 329px;margin-left: 82px;}
 .teks-podborki-two-index {
   width: 313px;
   height: 298px;
