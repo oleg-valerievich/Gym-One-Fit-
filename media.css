@@ -1145,7 +1145,13 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .three-zvezda-about-us {height: 23px;margin-left: -158px;margin-top: -77px;}
 .four-zvezda-about-us {height: 23px;margin-left: -129px;margin-top: -77px;}
 .five-zvezda-about-us {height: 23px;margin-left: -102px;margin-top: -77px;}
-.text-about-us-four {width: 263px;margin-left: 16px;font-size: 8px;font-weight: 600;margin-top: -321px;line-height: 10px;}
+.text-about-us-four {
+  width: 257px;
+  margin-left: 36px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: -183px;
+  line-height: 20px;}
 .tekst-name-klient-about-us {font-size: 10px;margin-left: 128px;margin-top: -394px;}
 .tekst-choosing-about-us {font-size: 27px;margin-left: -748px;margin-top: -600px;}
 .coaches-about-us {width: 286px;margin-top: 354px;grid-template-rows: 46px 216px 616px 318px 2093px;}
