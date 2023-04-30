@@ -986,9 +986,21 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: 134px;
 }
 .teks-podborki-index-two {margin-left: 33px;margin-top: -921px;font-size: 9px;line-height: 14px;}
-.one-jackdaw-about-us {height: 16px;margin-top: -645px;margin-left: -498px;}
-.two-jackdaw-about-us {height: 16px;margin-top: -615px;margin-left: -499px;}
-.three-jackdaw-about-us {height: 16px;margin-top: -574px;margin-left: -498px;}
+.one-jackdaw-about-us {
+  height: 16px;
+  margin-top: -596px;
+  margin-left: 87px;
+}
+.two-jackdaw-about-us {
+  height: 16px;
+  margin-top: -623px;
+  margin-left: 87px;
+}
+.three-jackdaw-about-us {
+  height: 16px;
+  margin-top: -553px;
+  margin-left: 86px;
+}
 .ten-block-two-blog {margin-left: 38px;margin-top: 1776px;position: absolute;}
 .foto-ten-block-two-blog {width: 247px;}
 .tekst-two-gym-fit-crosfit-blog {width: 180px;font-size: 14px;font-weight: 600;}
@@ -1000,21 +1012,41 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .tekst-championship-bodybilding-blog {width: 188px;margin-top: -175px;font-weight: 500;}
 .tekst-championship-has-gathered-blog {width: 166px;margin-left: 23px;margin-top: 10px;}
 .tekst-follow-our-blog {width: 200px;}
-.four-jackdaw-about-us {height: 16px;margin-top: -477px;margin-left: -498px;}
-.five-jackdaw-about-us {height: 16px;margin-top: -436px;margin-left: -498px;}
-.six-jackdaw-about-us {height: 16px;margin-top: -252px;margin-left: -498px;}
+.four-jackdaw-about-us {
+  height: 16px;
+  margin-top: -456px;
+  margin-left: 86px;
+}
+.five-jackdaw-about-us {
+  height: 16px;
+  margin-top: -415px;
+  margin-left: 86px;
+}
+.six-jackdaw-about-us {
+  height: 16px;
+  margin-top: -295px;
+  margin-left: 85px;
+}
 .tekst-our-quality-about-us {
   width: 209px;
   height: 26px;
   margin-top: -8px;
   font-size: 17px;
   margin-left: 89px;}
-.seven-jackdaw-about-us {height: 16px;margin-top: -216px;margin-left: -498px;}
+  .seven-jackdaw-about-us {
+    height: 16px;
+    margin-top: -261px;
+    margin-left: 84px;
+}
 .blocki-banner-five-trainer {
   width: 290px;
   margin-left: 155px;
 }
-.nine-jackdaw-about-us {height: 16px;margin-top: -191px;margin-left: -498px;}
+.nine-jackdaw-about-us {
+  height: 16px;
+  margin-top: -237px;
+  margin-left: 83px;
+}
 .blocki-three-banner-five-trainer {
   width: 224px;
   margin-left: 54px;
@@ -1025,9 +1057,10 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   width: 200px;
   height: 298px;
   margin-left: 87px;
-  margin-top: 50px;
+  margin-top: 22px;
   font-size: 9px;
-  line-height: 12px;}
+  line-height: 12px;
+}
 .description-care-quality-abous-us {
   width: 141px;
   margin-left: 25px;
@@ -1049,14 +1082,39 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-top: -632px;
 }
 .about-us-programs-club {width: 321px;}
-.tekst-the-best-about-us {margin-left: -849px;margin-top: -526px;font-size: 18px;}
-.foto-gym-three-about-us {margin-left: -118px;margin-top: -1419px;height: 180px;}
+.tekst-the-best-about-us {
+  margin-left: 10px;
+  margin-top: -489px;
+  font-size: 18px;
+  height: 36px;
+  width: 233px;
+}
+.foto-gym-three-about-us {
+  margin-left: 1px;
+  margin-top: -1419px;
+  height: 180px;
+}
 .tekst-concern-klient-about-us {margin-top: -967px;margin-left: 31px;font-size: 17px;}
-.one-red-jackdaw-about-us {height: 17px;margin-left: -491px;margin-top: -253px;}
-.two-red-jackdaw-about-us {height: 17px;margin-left: -490px;margin-top: -97px;}
-.one-red-jackdaw-about-us {height: 17px;margin-left: -491px;margin-top: -132px;}
-.three-red-jackdaw-about-us {height: 17px;margin-left: -492px;margin-top: -62px;}
-.four-red-jackdaw-about-us {height: 17px;margin-left: -492px;margin-top: -36px;}
+.one-red-jackdaw-about-us {
+  height: 17px;
+  margin-left: 83px;
+  margin-top: -176px;
+}
+.two-red-jackdaw-about-us {
+  height: 17px;
+  margin-left: 82px;
+  margin-top: -140px;
+}
+.three-red-jackdaw-about-us {
+  height: 17px;
+  margin-left: 81px;
+  margin-top: -105px;
+}
+.four-red-jackdaw-about-us {
+  height: 17px;
+  margin-left: 82px;
+  margin-top: -79px;
+}
 .heading-index-programs-club {
   font-size: 30px;
   margin-top: -323px;
