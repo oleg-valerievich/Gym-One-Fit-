@@ -144,7 +144,20 @@ border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margi
   font-size: 36px;
   line-height: 56px;
   color: #FFF7F7;}
+
+  .zagolovok-schedule-raspisanie {
+  width: 375px;
+  height: 68px;
+  margin-left: 382px;
+  margin-top: -110px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 56px;
+  color: #FFF7F7;
+}
 /* Перемещение таблицы */.iksweb {margin-top: 30px;margin-left: -243px;}
+.iksweb-shedule {margin-top: 30px;margin-left: -243px;}
 /* Шрифт время по левой стороне */.time-shrift-table-index {font-family: 'Oswald', sans-serif;font-size: 35px;}
 /* Шрифт заглавный Понед-Воск верх */.weekday-shrift-table-index {font-family: 'Oswald', sans-serif;text-align: center;}
 /* Текст в таблице с названием мероприятий Красный */.tekst-lessons-table-index {color: #E4381C;text-align: center;font-family: 'Oswald', sans-serif;line-height: 18px;font-size: 15px;}
@@ -161,6 +174,12 @@ table.iksweb tr:hover td{color:#f1f4f8;cursor:default;}
 table th, table td {color: 1px solid #e10c0c;padding: 10px;text-align: center;vertical-align: middle;position: relative;}
 table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px; bottom: 0px; left: 0px;border: 3px solid rgb(255, 60, 0);}
 
+
+table.iksweb-shedule th{font-weight:normal;font-size:16px; color:#ffffff;background-color:#348f00;}
+table.iksweb-shedule td{font-size:17px;color:#fefdfd;}
+table.iksweb-shedule td,table.iksweb th{white-space:pre-wrap;padding:4px 7px;border: 1px solid #313330;}
+table.iksweb-shedule tr:hover td{color:#f1f4f8;cursor:default;}
+table.iksweb-shedule td:hover:after {content: '';position: absolute;top: 0px;right: 0px; bottom: 0px; left: 0px;border: 3px solid rgb(255, 60, 0);}
 
                          /* banner-seven */
 
@@ -211,8 +230,6 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Оформление кнопки купить 1 */.two-btn-blok-seven-index {width: 91px;height: 26px;background: rgba(217, 217, 217, 0.09);border: 1px solid #E4381C;border-radius: 3px;margin-top: 303px;margin-left: -35px;position: absolute;}
 /* Подсветка кнопки при наведении мышки "Купить" banner seven тариф Обычный  */.two-btn-blok-seven-index:hover { display: inline-block; background: linear-gradient(180deg, #E18921 0%, #E26F1F 31.41%, #E4381C 100%);}
 /*Подсветка текста "Купить" тариф Обычный*/.two-btn-seven-index-text:hover  {color: #f6f1f1;border-radius: 5px;text-decoration:underline;}
-
-
 
 /* Текст кнопки купить 2 */.three-btn-seven-index-text {font-family: 'Oswald', sans-serif;font-weight: 500;line-height: 16px;font-size: 10px;color: #E4381C;letter-spacing: 0.105em;margin-top: 3px;}
 /* Оформление кнопки купить 1 */.three-btn-blok-seven-index {width: 91px;height: 26px;background: rgba(217, 217, 217, 0.09);border: 1px solid #E4381C;border-radius: 3px;margin-top: 303px;margin-left: 195px;position: absolute;}

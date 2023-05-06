@@ -218,6 +218,8 @@
 /* Загаловок Танцевальный микс */.zagalovok-dance-index {width: 282px;font-size: 35px;margin-left: 484px;margin-top: -144px;}
 /* Текст под Танцевальным миксом */.teks-dance-index {width: 324px;font-size: 18px;margin-top: -65px;margin-left: 481px;position: absolute;}
 /* Положение текста кнопки Подробнее в Танцевальном миксе */.dance-btn-five-index-text {padding-left: 35px;margin-top: 6px;}
+.zagolovok-schedule-raspisanie {margin-left: 286px;}
+
 
                                             /* Six-Block */
 
@@ -227,9 +229,15 @@
 
 table.iksweb td {font-size: 13px;}
 table.iksweb td, table.iksweb th {padding: 0px 0px;}
+table.iksweb-shedule td {font-size: 13px;}
+table.iksweb-shedule td, table.iksweb th {padding: 0px 0px;}
 /* Сжать таблицу */.numbers-table-index {width: 92px;}
 .tekst-lessons-table-index {font-size: 12px;}
 /* Поднять, опустить таблицу */.iksweb {margin-top: -15px;margin-left: -221px;}
+.iksweb-shedule {
+  margin-top: -15px;
+  margin-left: -110px;
+}
 .tekst-shedule-table {font-size: 50px;margin-left: -657px;margin-top: 241px;}
                                            /* Seven-Block */
 
@@ -633,6 +641,10 @@ margin-top: -142px;
   margin-top: -30px;
 }
 
+.zagolovok-schedule-raspisanie {
+  margin-left: 266px;
+  margin-top: -132px;
+}
 .text-index-programs-four {
   width: 598px;
   margin-top: -140px;
@@ -645,6 +657,10 @@ margin-top: -142px;
   margin-top: -287px;}
 .club-table-index {margin: 293px auto;}
 .iksweb {margin-top: 83px;margin-left: -110px;}
+.iksweb-shedule {
+  margin-top: -34px;
+  margin-left: -142px;
+}
 /* .tekst-contacts-one {margin-left: -497px;margin-top: 187px;} */
 .text-about-us-four {margin-left: 42px;font-size: 18px;margin-top: -197px;}
 .zvezdu-about-us {margin-top: -137px;}
@@ -1391,7 +1407,16 @@ margin-top: -16px;
   position: absolute;
 }
 
+.zagolovok-schedule-raspisanie {
+  margin-left: 69px;
+  margin-top: -4px;
+  font-size: 22px;
+  position: absolute;
+}
+
 .iksweb {margin-top: 82px;margin-left: 30px;}
+.iksweb-shedule {margin-top: 82px;margin-left: 30px;}
+
 
 .men-and-woman-gym-sport {
   object-fit: cover;
