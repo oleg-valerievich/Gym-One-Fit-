@@ -189,7 +189,10 @@
 /* Параметры 5 Секции */.index-offers-club {width: 841px;grid-template-columns: repeat(2, 1fr);grid-template-rows: 100px 500px 100px 100px;margin-top: -149px;}
 .foto-crossfit-index {width: 410px;height: 389px;margin-left: -1px;margin-top: 5px;}
 .foto-fitness-index {width: 436px;height: 392px;margin-left: 408px;margin-top: -96px;}
-.tekst-contacts-one {margin-left: -583px;margin-top: 215px;}
+.tekst-contacts-one {
+  margin-left: -550px;
+  margin-top: 293px;
+}
 .location-contact {display: grid;grid-template-rows: 790px;grid-template-columns: 40% 50%;}
 /* Текст Загаловок Crossfit */.zagalovok-crossfit-index {font-size: 40px;margin-left: 135px;margin-top: 57px;}
 /* Текст Crossfit */.teks-crossfit-index {width: 313px;font-size: 18px;margin-top: -259px;margin-left: 64px;}
@@ -309,9 +312,18 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 }
 .advantages-about-us {width: 828px;}
 .tekst-about-us {margin-left: -517px;margin-top: 215px;}
-.icons-phone-about-us {margin-top: 338px;margin-left: -609px;}
-.icons-vector-right-about-us {margin-left: -427px;margin-top: 329px;}
-.icons-vector-left-about-us {margin-left: -575px;margin-top: 329px;}
+.icons-phone-about-us {
+  margin-top: 425px;
+  margin-left: -577px;
+}
+.icons-vector-right-about-us {
+  margin-left: -388px;
+  margin-top: 415px;
+}
+.icons-vector-left-about-us {
+  margin-left: -540px;
+  margin-top: 414px;
+}
 .foto-gym-three-about-us {
   height: 436px;
   margin-left: 14px;
@@ -551,25 +563,28 @@ margin-top: -142px;
 .blog-four-all-us-life-sport-nutrition {width: 235px;}
 .blog-two-sport-nutrition {margin-left: -313px;}
 .three-sec-blog-contact {width: 221px;margin-left: 396px;margin-top: 48px;}
-.four-sect-contact {margin-left: 57px;margin-top: -36px;}
+.four-sect-contact {
+  margin-left: -40px;
+  margin-top: -74px;
+}
 .crossfit-tekst-gallery {margin-left: 136px;margin-top: -113px;}
 .training-tekst-gallery {margin-left: 261px;margin-top: -113px;}
 .gym-tekst-gallery {width: 141px;text-align: center;margin-left: 412px;margin-top: -113px;}
 .tekst-about-us {margin-left: -514px;margin-top: 236px;}
-.icons-vector-left-about-us {
+/* .icons-vector-left-about-us {
   margin-top: 363px;
   margin-left: -559px;
-}
+} */
 .tekst-blog-one {font-size: 45px;margin-left: -503px;margin-top: 239px;}
-.icons-phone-about-us {
+/* .icons-phone-about-us {
   margin-top: 374px;
   margin-left: -601px;
-}
-.icons-vector-right-about-us {
+} */
+/* .icons-vector-right-about-us {
   font-weight: 500;
   margin-top: 363px;
   margin-left: -406px;
-}
+} */
 /* .sport-hero-slider {width: 700px;} */
 .three-sec-blog  {width: 300px;}
 .tekst-banner-index h1 {margin-top: -305px;margin-left: 95px;}
@@ -625,7 +640,7 @@ margin-top: -142px;
   margin-top: -287px;}
 .club-table-index {margin: 293px auto;}
 .iksweb {margin-top: 83px;margin-left: -110px;}
-.tekst-contacts-one {margin-left: -497px;margin-top: 187px;}
+/* .tekst-contacts-one {margin-left: -497px;margin-top: 187px;} */
 .text-about-us-four {margin-left: 42px;font-size: 18px;margin-top: -197px;}
 .zvezdu-about-us {margin-top: -137px;}
 .one-zvezda-about-us {
@@ -756,11 +771,14 @@ margin-top: -142px;
 .form-two-phone-contact {width: 145px;height: 21px;margin-top: 494px;margin-left: 547px;}
 .form-three-name-contact {width: 345px;margin-left: 359px;}
 .form-one-name-sport-nutrition {margin-top: -163px;margin-left: -80px;}
-.tekst-contact-us-blog-contact {margin-left: -29px;margin-top: -219px;}
+.tekst-contact-us-blog-contact {
+  margin-left: 410px;
+  margin-top: 452px;
+}
 .five-banner-block-sport-nutrition {width: 715px;margin: 169px auto 0;}
 .form-two-email-sport-nutrition {width: 466px;margin-top: -122px;margin-left: -80px;}
 .form-three-phone-sport-nutrition {width: 216px;height: 32px;margin-top: -163px;margin-left: 169px;}
-.btn-submit-your-application-contact {margin-left: -80px;}
+.btn-submit-your-application-contact {margin-left: 360px;}
 .ordinary-text-index {font-size: 15px;margin-top: 11px;}
 .one-monthly-text-index {margin-top: -165px;margin-left: 196px;}
 .rub-one-index {margin-left: -55px;}
@@ -826,6 +844,7 @@ margin-top: -142px;
   margin-left: 162px;
   width: 567px;
 }
+.maps-api-two-contact {margin-top: -760px;margin-left: -265px;}
 
 }
 
