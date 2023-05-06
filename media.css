@@ -363,7 +363,9 @@ margin-left: -71px;
 margin-top: -142px;
 }
 
-
+.maps-api-blog-contact {
+  width: 821px;
+}
 
 .blocki-two-banner-five-trainer {width: 453px;margin-left: 342px;}
 .text-about-us-four {
@@ -448,11 +450,14 @@ margin-top: -142px;
 .tekst-address-index {width: 162px;}
 .four-sect-contact {margin-left: 84px;margin-top: -31px;}
 .tekst-get-information-index {margin-left: 0px;margin-top: 145px;}
-.maps-api-two-contact {margin-top: -318px;}
+.maps-api-two-contact {margin-top: -731px;margin-left: -265px;}
 .tekst-contact-us-blog-contact {width: 200px;margin-top: 462px;margin-left: 477px;position: absolute;}
 .form-one-name-contact {margin-top: 494px;margin-left: 426px;}
 .form-two-phone-contact {height: 23px;margin-top: 494px;margin-left: 638px;}
-.btn-submit-your-application-contact {margin-top: 90px;margin-left: -79px;}
+.btn-submit-your-application-contact {
+  margin-top: 697px;
+  margin-left: 426px;
+}
 .two-sec-contact {margin-left: -85px;margin-top: -431px;}
 .three-sec-blog-contact {margin-left: 470px;margin-top: 321px;position: absolute;}
 .three-sec-blog-contact a {font-size: 30px;}
@@ -468,7 +473,11 @@ margin-top: -142px;
 .blog-opisanie-sport-nutrition {grid-template-rows: 1190px 365px;}
 .tekst-all-us-life-sport-nutrition {font-size: 16px;}
 .maps-api-two-block-sport-nutrition {margin-top: -159px;margin-left: 46px;}
-.tekst-contact-us-blog-contact {margin-top: -166px;margin-left: -27px;font-size: 20px;}
+.tekst-contact-us-blog-contact {
+  margin-top: 429px;
+  margin-left: 479px;
+  font-size: 20px;
+}
 .one-btn-blok-eleven-index {margin-top: 21px;margin-left: 119px;}
 .vnutru-buy-blog-index {width: 851px;height: 243px;}
 .blog-four-sport-nutrition {grid-template-rows: 117px 501px 139px 625px 179px 82px 278px 0px;}
@@ -499,7 +508,7 @@ margin-top: -142px;
 .club-table-index {width: 696px;margin-left: 110px;}
 .information-blog-index {width: 850px;}
 .one-sec-blog {width: 418px;height: 511px;}
-.maps-api-contact {width: 819px;}
+.maps-api-contact {width: 375px;height: 384px;margin-top: -62px;margin-left: -191px;}
 
 
 
