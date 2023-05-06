@@ -287,7 +287,11 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 /* Ширина Контейнера*/.maps-api-blog-index {width: 834px;margin: auto;}
 /* Текст Начните сегодня */.eleven-tekst-start-today-index {padding-left: 121px;}
 /* Текст Вы студент! 500 рублей безлимитного посещения тренажерно */.tekst-are-you-student-index {padding-left: 121px;}
-/* Параметры Формы Контактных данных */.form-twelve-index {margin-left: 31px;margin-top: -29px;position: absolute;}
+/* Параметры Формы Контактных данных */
+.form-twelve-index {
+  margin-left: 155px;
+  margin-top: -48px;
+}
 .location-blog {display: grid;grid-template-rows: 1040px;grid-template-columns: 34% 23% 18% 18%;}
 
 
@@ -495,7 +499,7 @@ margin-top: -142px;
 .club-table-index {width: 696px;margin-left: 110px;}
 .information-blog-index {width: 850px;}
 .one-sec-blog {width: 418px;height: 511px;}
-
+.maps-api-contact {width: 819px;}
 
 
 
@@ -858,7 +862,7 @@ margin-top: -142px;
 .ten-block-one-index {margin-left: 1px;}
 .tekst-from-our-blog {font-size: 24px;margin-left: -65px;margin-top: 54px;}
 .ten-block-five-index {margin-left: -3px;}
-.form-one-name-contact {width: 216px;}
+.form-one-name-contact {width: 216px;margin-left: 385px;}
 .block-three-sport-nutrition {grid-template-columns: 22%;grid-template-rows: 200px 200px;grid-gap: 11px;}
 .tekst-sport-nutrition {font-size: 13px;margin-left: -305px;margin-top: 104px;line-height: 20px;}
 .teksts-sleep-nutrition-exercise {width: 271px;margin-top: -66px;margin-left: -20px;font-size: 10px;}
@@ -875,11 +879,11 @@ margin-top: -142px;
 .gallery-nine {height: 241px;}
 .tekst-contacts-one {font-size: 30px;margin-left: -255px;margin-top: 99px;}
 .information-blog-contact {width: 312px;grid-template-rows: 802px;}
-.four-sect-contact {margin-left: 113px;margin-top: -83px;}
+.four-sect-contact {width: 175px;height: 307px;margin-left: 120px;margin-top: -44px;}
 .tekst-contact-us-blog-contact {font-size: 22px;margin-left: 444px;}
-.form-three-name-contact {width: 222px;margin-top: 606px;}
+.form-three-name-contact {width: 222px;margin-top: 593px;margin-left: 385px;}
 .btn-submit-your-application-contact {margin-top: 751px;margin-left: 398px;}
-.form-two-phone-contact {width: 212px;margin-top: 549px;margin-left: 359px;}
+.form-two-phone-contact {width: 212px;margin-top: 545px;margin-left: 385px;}
 .maps-api-two-contact {margin-top: -6px;margin-left: -404px;}
 .training-complex-gallery {width: 242px;margin: 162px auto;grid-template-rows: 288px 215px 213px 217px 215px 209px 216px 215px 201px;grid-template-columns: 100%;}
 .all-tekst-gallery {margin-left: 56px;margin-top: -144px;}
@@ -922,8 +926,8 @@ margin-top: -142px;
 .form-three-sport-nutrition {margin-top: -33px;width: 204px;}
 .form-two-email-sport-nutrition {width: 202px;margin-top: -119px;}
 .form-three-phone-sport-nutrition {width: 202px;margin-top: -76px;margin-left: -80px;}
-.tekst-contact-us-blog-contact {width: 247px;font-size: 18px;margin-left: -29px;}
-.btn-submit-your-application-contact {margin-top: 116px;margin-left: -64px;}
+.tekst-contact-us-blog-contact {width: 205px;font-size: 20px;margin-left: 437px;margin-top: 445px;}
+.btn-submit-your-application-contact {margin-top: 752px;margin-left: 416px;}
 .one-btn-blok-eleven-index {
   margin-top: 3px;
   margin-left: 31px;
@@ -1613,7 +1617,7 @@ margin-left: 55px;}
 }
 .information-blog-index {width: 256px;}
 .maps-api-blog-index {width: 287px;}
-.vnutru-buy-blog-index {width: 296px;height: 228px;}
+.vnutru-buy-blog-index {width: 296px;height: 258px;}
 .tekst-list-news-index {width: 238px;margin-top: -33px;margin-left: 12px;font-size: 17px;}
 .tekst-list-news-blog {width: 238px;margin-top: -22px;margin-left: 42px;font-size: 17px;}
 .ten-block-two-index {margin-left: 1px;margin-top: 604px;}
@@ -1703,14 +1707,14 @@ margin-left: 55px;}
 .advantages-about-us {grid-template-rows: 162px 115px 276px 1267px;margin: -88px auto;width: 428px;}
 .three-sec-blog-contact {margin-left: 60px;margin-top: -47px;}
 .one-sec-contact {margin-top: 700px;margin-left: -59px;}
-.two-sec-contact {margin-left: -37px;margin-top: -127px;position: absolute;}
+.two-sec-contact {margin-left: -291px;margin-top: -204px;position: absolute;}
 .location-contact {display: grid;grid-template-rows: 1290px;grid-template-columns: 80%;}
 .footer-index {
   width: 211px;
   height: 3px;
   font-size: 10px;
   line-height: 13px;
-  margin-left: 99px;
+  margin-left: 73px;
   margin-top: -22px;
   padding-left: 1px;
   padding-top: 8px;
@@ -1733,7 +1737,9 @@ margin-left: 55px;}
   margin-left: -59px;
   margin-top: -96px;
 }
-
+.maps-api-blog-contact {
+  width: 302px;
+}
 
 }
 
