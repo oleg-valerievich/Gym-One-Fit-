@@ -453,7 +453,9 @@ margin-top: -142px;
 .banner-swiming-video {margin-top: 86px;height: 223px;}
 .tekst-swimming-pool-index {margin-top: -204px;}
 .icons-video-index {margin-left: 387px;margin-top: -29px;}
-.club-table-schedule {grid-template-rows: 328px 193px;}
+.club-table-schedule {
+  width: 847px; margin-left: -27px;
+  grid-template-rows: 328px 193px;}
 .icons-vector-right-gallery {margin-top: 385px;margin-left: -427px;}
 .icons-vector-left-gallery {margin-top: 384px;margin-left: -585px;}
 .icons-phone-gallery {margin-top: 394px;margin-left: -621px;position: absolute;}
@@ -860,42 +862,19 @@ margin-top: -142px;
 .logo-gym-index {display: none;}
 .logo-gym-about-us {display: none;}
 .menu-spisok-center {margin-top: -11px;}
-.top-nav {
-  width: 312px;
-  height: 24px;
-}
+.top-nav {width: 312px;height: 24px;}
 .index-banner {width: 307px;}
-.mobile-index-spisok {
-  margin-top: 12px;
-  margin-left: -125px;
-  width: 160%;
-}
-.menu-spisok-about-us li a {
-  margin-left: 68px;
-}
-.index-training-complex {
-  width: 338px;
-}
-
+.mobile-index-spisok {margin-top: 12px;margin-left: -125px;width: 160%;}
+.menu-spisok-about-us li a {margin-left: 68px;}
+.index-training-complex {width: 338px;}
 .club-table-index {display: none;}
-
-.group-index {
-  width: 340px;
-}
-.personal-index {
-  width: 340px;
-}
-.sports-nutrition-index {
-  width: 340px;
-}
+.group-index {width: 340px;}
+.personal-index {width: 340px;}
+.sports-nutrition-index {width: 340px;}
 .mobile-two-anout-us {margin-top: 61px;margin-left: -141px;width: 150%;}
 .tekst-blog-one {font-size: 25px;margin-left: -267px;margin-top: 103px;}
 .ten-block-one-index {margin-left: 1px;}
-.tekst-from-our-blog {
-  font-size: 24px;
-  margin-left: 74px;
-  margin-top: 54px;
-}
+.tekst-from-our-blog {font-size: 24px;margin-left: 74px;margin-top: 54px;}
 .ten-block-five-index {margin-left: -3px;}
 .form-one-name-contact {width: 216px;margin-left: 385px;}
 .block-three-sport-nutrition {grid-template-columns: 22%;grid-template-rows: 200px 200px;grid-gap: 11px;}
