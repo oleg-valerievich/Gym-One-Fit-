@@ -339,11 +339,23 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 .four-red-jackdaw-about-us {margin-left: -392px;}
 .description-care-quality-abous-us {grid-template-rows: 798px;}
 .foto-programs-four-index {
-  width: 857px;
+  width: 915px;
   height: 561px;
   margin-left: -71px;
-  margin-top: -142px;
+  margin-top: 13px;
 }
+
+.foto-programs-four-about-us {
+width: 915px;
+height: 561px;
+margin-left: -71px;
+margin-top: -142px;
+}
+
+
+
+
+
 .blocki-two-banner-five-trainer {width: 453px;margin-left: 426px;}
 .text-about-us-four {
   width: 766px;
@@ -563,6 +575,20 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   margin-left: -2px;
   object-fit: cover;
 }
+
+
+.foto-programs-four-about-us {
+  width: 851px;
+  height: 355px;
+  margin-top: -20px;
+  margin-left: -2px;
+  object-fit: cover;
+}
+
+
+
+
+
 .zagolovok-schedule-index {
   margin-left: 266px;
   margin-top: -30px;
@@ -1140,6 +1166,19 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
   height: 375px;
   margin-top: -16px;
 }
+
+
+.foto-programs-four-about-us {
+width: 342px;
+object-fit: cover;
+margin-left: -9px;
+height: 375px;
+margin-top: -16px;
+}
+
+
+
+
 .one-zvezda-about-us {
   height: 23px;
   margin-left: -255px;
