@@ -294,11 +294,15 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
                                                       /* thirteen-banner */
 /* Блог получить информацию */.four-sec-blog {width: 300px;height: 308px;margin-left: -520px;margin-top: 458px;}
 /* БЛоГ */.tekst-our-blog-index {margin-left: 102px;margin-top: 619px;}
+.tekst-our-blog-contact {display: none;}
 /* Блог программа перемещение текста */.three-sec-blog {width: 300px;height: 393px;margin-left: 13px;margin-top: 8px;}
 /* Блог программа текст */.three-sec-blog a {font-size: 30px;}
 /* Перемещение и изменение текста Программа */.tekst-programm-blog-index {font-size: 30px;margin-top: 105px;}
 /* Текст Наш блог */.two-sec-blog {width: 364px;height: 430px;margin-left: 111px;margin-top: -20px;}
-.tekst-programm-blog-contact {font-size: 30px;margin-top: 105px;}
+.tekst-programm-blog-contact {
+  font-size: 30px;
+  margin-top: -52px;
+}
 .advantages-about-us {width: 828px;}
 .tekst-about-us {margin-left: -517px;margin-top: 215px;}
 .icons-phone-about-us {margin-top: 338px;margin-left: -609px;}
@@ -514,6 +518,7 @@ margin-top: -142px;
 .teks-welcome-index {margin-left: 173px;}
 .right {margin-left: 667px;margin-top: -217px;}
 /* БЛоГ */.tekst-our-blog-index {width: 300px;height: 283px;margin-left: 237px;margin-top: 631px;}
+.tekst-our-blog-contact {width: 300px;height: 283px;margin-left: 237px;margin-top: 631px;}
 .abous-us-welcone-club { width: 710px;}
 .icons-vector-left-gallery {margin-top: 323px;margin-left: -495px;}
 .one-sec-contact {margin-top: 88px;margin-left: -29px;}
@@ -532,7 +537,7 @@ margin-top: -142px;
 .blog-three-all-us-life-sport-nutrition {width: 235px;}
 .blog-four-all-us-life-sport-nutrition {width: 235px;}
 .blog-two-sport-nutrition {margin-left: -313px;}
-.three-sec-blog-contact {width: 221px;margin-left: 464px;margin-top: 237px;}
+.three-sec-blog-contact {width: 221px;margin-left: 396px;margin-top: 48px;}
 .four-sect-contact {margin-left: 57px;margin-top: -36px;}
 .crossfit-tekst-gallery {margin-left: 136px;margin-top: -113px;}
 .training-tekst-gallery {margin-left: 261px;margin-top: -113px;}

@@ -436,6 +436,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Расположение иконок соц-сетей */.menu-spisok-niz-index {display: flex;margin-top: 471px;margin-left: 114px;justify-content: flex-end;align-items: center;position: absolute;}
 .two-sec-contact {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: -7px;}
 /* Текст НАШ БЛОГ */.tekst-our-blog-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 149px;}
+/* Текст НАШ БЛОГ */.tekst-our-blog-contact {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 149px;}
 /* Вторая колонка блогов */.two-sec-blog {display: grid;}
 /* 1-Красная иконка с временем */.icons-one-index-thirteen {margin-top: 32px;margin-left: -153px;position: absolute;}
 /* Текст ЛЮДИ КОТОРЫЕ РАБОТАЮТ С НАМИ */.tekst-people-work-index  {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 11px;text-decoration: none;color: #FFF2F2;}
