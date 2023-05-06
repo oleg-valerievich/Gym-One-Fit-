@@ -910,7 +910,11 @@ margin-top: -142px;
 .gallery-nine {height: 241px;}
 .tekst-contacts-one {font-size: 30px;margin-left: -255px;margin-top: 99px;}
 .information-blog-contact {width: 312px;grid-template-rows: 802px;}
-.four-sect-contact {width: 175px;height: 307px;margin-left: 120px;margin-top: -44px;}
+.four-sect-contact {
+  width: 175px;
+  height: 307px;
+  margin-left: 123px;
+  margin-top: 1394px;}
 .tekst-contact-us-blog-contact {font-size: 22px;margin-left: 444px;}
 .form-three-name-contact {width: 222px;margin-top: 593px;margin-left: 385px;}
 .btn-submit-your-application-contact {margin-top: 751px;margin-left: 398px;}
@@ -957,7 +961,7 @@ margin-top: -142px;
 .form-three-sport-nutrition {margin-top: -33px;width: 204px;}
 .form-two-email-sport-nutrition {width: 202px;margin-top: -119px;}
 .form-three-phone-sport-nutrition {width: 202px;margin-top: -76px;margin-left: -80px;}
-.tekst-contact-us-blog-contact {width: 205px;font-size: 20px;margin-left: 437px;margin-top: 445px;}
+.tekst-contact-us-blog-contact {width: 205px;font-size: 20px;margin-left: 437px;margin-top: 464px;}
 .btn-submit-your-application-contact {margin-top: 752px;margin-left: 416px;}
 .one-btn-blok-eleven-index {
   margin-top: 3px;
@@ -977,9 +981,9 @@ margin-top: -142px;
   line-height: 20px;
 }
 .maps-api-contact {
-  width: 219px;
-  margin-top: -81px;
-  margin-left: -27px;
+  width: 317px;
+  margin-top: 318px;
+  margin-left: -23px;
 }
 .left {margin-left: 17px;margin-top: 82px;}
 .right {margin-left: 232px;margin-top: -169px;}
