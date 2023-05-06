@@ -491,7 +491,10 @@ margin-top: -142px;
   font-size: 20px;
 }
 .one-btn-blok-eleven-index {margin-top: 21px;margin-left: 119px;}
-.vnutru-buy-blog-index {width: 851px;height: 243px;}
+.vnutru-buy-blog-index {
+  width: 851px;
+  height: 272px;
+}
 .blog-four-sport-nutrition {grid-template-rows: 117px 501px 139px 625px 179px 82px 278px 0px;}
 .tekst-solutions-emergin-problems-sports-nutrition {margin-top: 24px;}
 .text-index-programs-four {
@@ -505,8 +508,8 @@ margin-top: -142px;
 .maps-api-index {
   width: 390px;
   height: 335px;
-  margin-top: 73px;
-  margin-left: 364px;
+  margin-top: 19px;
+  margin-left: -186px;
 }
 
 
@@ -833,8 +836,8 @@ margin-top: -142px;
 .maps-api-index {
   width: 390px;
   height: 335px;
-  margin-top: 66px;
-  margin-left: 379px;
+  /* margin-top: 66px;
+  margin-left: 379px; */
 }
 .form_toggle {width: 271px;height: 39px;}
 .information-blog-index {width: 714px;}
@@ -973,7 +976,11 @@ margin-top: -142px;
   margin-left: -15px;
   line-height: 20px;
 }
-.maps-api-contact {width: 219px;}
+.maps-api-contact {
+  width: 219px;
+  margin-top: -81px;
+  margin-left: -27px;
+}}
 .left {margin-left: 17px;margin-top: 82px;}
 .right {margin-left: 232px;margin-top: -169px;}
 .posledni-from-our-blog {width: 412px;grid-template-rows: 138px 73px 172px 126px 128px 1931px;}
