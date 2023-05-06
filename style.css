@@ -469,6 +469,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
   justify-content: center;
 }
 /* Третья колонка блогов */.three-sec-blog {display: grid;}
+/* Текст ПРОГРАММА */.tekst-programm-blog-contact {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
 /* Текст ПРОГРАММА */.tekst-programm-blog-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
 /* Текст Бодибилдинг */.tekst-bodybuilding-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
 /* Подсветка кнопки при наведении мышки "Текст Бодибилдинг  */.tekst-bodybuilding-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
@@ -480,10 +481,10 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Подсветка кнопки при наведении мышки "Текст Питание */.tekst-food-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
 /* Текст Тренажерный зал Фитнес */.tekst-gym-fitness-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
 /* Подсветка кнопки при наведении мышки "Текст Тренажерный зал Фитнес */.tekst-gym-fitness-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
-/* Текст Получить информацию */.tekst-get-information-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
-/* Текст Контакты: */.tekst-contacts-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
-/* Текст email: */.tekst-email-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
-/* Текст Адрес */.tekst-address-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
+/* Текст Получить информацию */.tekst-get-information-index {width: 322px;height: 31px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
+/* Текст Контакты: */.tekst-contacts-index {width: 143px;height: 50px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
+/* Текст email: */.tekst-email-index { width: 143px;height: 45px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
+/* Текст Адрес */.tekst-address-index {width: 161px;height: 96px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
 
                                                                /* Раздел о нас Abous US */
 
@@ -578,7 +579,7 @@ table.iksweb td:hover:after {content: '';position: absolute;top: 0px;right: 0px;
 /* Заглавный текст Контакты */.tekst-contacts-one {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 74px;color: #FEF9F9;margin-left: -703px;margin-top: 267px;text-decoration: none;position: absolute;}
 /* Блог с картой */.maps-api-blog-contact{display: grid;width: 1140px;margin: auto;grid-template-rows:0px;}
 /* Блог с контакактами и формой */.information-blog-contact {display: grid;width: 1140px;margin: auto;grid-template-rows: 462px ;}
-.four-sect-contact {margin-left: 149px;margin-top: -42px;}
+.four-sect-contact {width: 350px;height: 446px;margin-left: 149px;margin-top: -42px;}
 /* Текст связаться с нами */.tekst-contact-us-blog-contact {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 22px;margin-left: -39px;}
 .maps-api-two-contact {display: grid;width: 489px;height: 384px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;position: absolute;border: #403b3b 1px;margin-top: -384px;margin-left: -155px;}
 /* Форма Имя */.form-one-name-contact {width: 173px;height: 26px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}

@@ -116,7 +116,9 @@
 .personal-index:hover  {background: none;}
 .sports-nutrition-index:hover  {background: none;}
 
-
+.information-blog-contact {
+  width: 817px;
+}
 
 
 
@@ -296,6 +298,7 @@ table.iksweb td, table.iksweb th {padding: 0px 0px;}
 /* Блог программа текст */.three-sec-blog a {font-size: 30px;}
 /* Перемещение и изменение текста Программа */.tekst-programm-blog-index {font-size: 30px;margin-top: 105px;}
 /* Текст Наш блог */.two-sec-blog {width: 364px;height: 430px;margin-left: 111px;margin-top: -20px;}
+.tekst-programm-blog-contact {font-size: 30px;margin-top: 105px;}
 .advantages-about-us {width: 828px;}
 .tekst-about-us {margin-left: -517px;margin-top: 215px;}
 .icons-phone-about-us {margin-top: 338px;margin-left: -609px;}
@@ -652,6 +655,7 @@ margin-top: -142px;
 .eleven-tekst-start-today-index {padding-left: 54px;}
 .tekst-are-you-student-index {padding-left: 55px;}
 .tekst-programm-blog-index {font-size: 28px;margin-top: 136px;margin-left: 89px;}
+.tekst-programm-blog-contact {font-size: 28px;margin-top: 136px;margin-left: 89px;}
 .tekst-address-index {width: 125px;margin-top: -24px;margin-left: 35px;}
 .two-sec-blog {margin-left: -83px;margin-top: -22px;}
 .foto-gym-three-index {width: 512px;height: 362px;margin-top: 656px;margin-left: 187px;}
@@ -1690,6 +1694,7 @@ margin-left: 55px;}
 .icons-two-index-thirteen {margin-top: 69px;}
 .text-february-index {margin-top: 71px;}
 .tekst-programm-blog-index {margin-top: 107px;margin-left: 0px;}
+.tekst-programm-blog-contact {margin-top: 107px;margin-left: 0px;}
 .advantages-about-us {grid-template-rows: 162px 115px 276px 1267px;margin: -88px auto;width: 428px;}
 .three-sec-blog-contact {margin-left: 60px;margin-top: -47px;}
 .one-sec-contact {margin-top: 700px;margin-left: -59px;}
