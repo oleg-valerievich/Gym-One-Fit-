@@ -5,7 +5,7 @@
 
 
 /* Скрыть иконки соц сетец */.menu-spisok-right {display: none;}
-.sport-hero-slider {width: 1117px;overflow: hidden;margin-top: 4px;margin-left: 1px;}
+.sport-hero-slider {width: 1137px;overflow: hidden;margin-top: 4px;margin-left: 1px;}
 .texth3-personal-index {margin-left: 43px;position: absolute;}
 .menu-spisok-center li a {margin-top: -23px;}
 
@@ -891,7 +891,7 @@ margin-top: -142px;
 .mobile-two-anout-us {margin-top: 61px;margin-left: -141px;width: 150%;}
 .tekst-blog-one {font-size: 25px;margin-left: -267px;margin-top: 103px;}
 .ten-block-one-index {margin-left: 1px;}
-.tekst-from-our-blog {font-size: 24px;margin-left: -65px;margin-top: 54px;}
+.tekst-from-our-blog {font-size: 24px;margin-left: -61px;margin-top: 54px;}
 .ten-block-five-index {margin-left: -3px;}
 .form-one-name-contact {width: 216px;margin-left: 385px;}
 .block-three-sport-nutrition {grid-template-columns: 22%;grid-template-rows: 200px 200px;grid-gap: 11px;}
@@ -987,12 +987,12 @@ margin-top: -142px;
 }
 .left {margin-left: 17px;margin-top: 82px;}
 .right {margin-left: 232px;margin-top: -169px;}
-.posledni-from-our-blog {width: 412px;grid-template-rows: 138px 73px 172px 126px 128px 1931px;}
+.posledni-from-our-blog {width: 284px;grid-template-rows: 138px 73px 172px 126px 128px 1931px;}
 .sport-club-blog {margin-top: 23px;margin-left: -163px;}
-.individual-group-classes-block {margin-left: 39px;margin-top: 324px;}
+.individual-group-classes-block {margin-left: 84px;margin-top: 324px;}
 .ten-block-three-blog {margin-top: 341px;margin-left: -157px;}
 .foto-ten-block-three-blog {height: 225px;}
-.box-club-block {margin-top: 1265px;margin-left: 37px;position: absolute;}
+.box-club-block {margin-top: 1265px;margin-left: -85px;position: absolute;}
 .fitness-grad-block {margin-top: 298px;margin-left: -156px;}
 .foto-fitness-grad-block {height: 217px;}
 .foto-box-club-block {height: 261px;}
@@ -1077,17 +1077,17 @@ margin-top: -142px;
   margin-top: -553px;
   margin-left: 86px;
 }
-.ten-block-two-blog {margin-left: 38px;margin-top: 1776px;position: absolute;}
+.ten-block-two-blog {margin-left: -85px;margin-top: 1776px;position: absolute;}
 .foto-ten-block-two-blog {width: 247px;}
 .tekst-two-gym-fit-crosfit-blog {width: 180px;font-size: 14px;font-weight: 600;}
 .tekst-two-follow-our-classes-blog {font-size: 13px;width: 250px;margin-top: -75px;margin-left: 21px;}
 .ten-block-icons-instagram-blog {height: 21px;margin-left: -69px;margin-top: 18px;}
-.bodibilding-grad-block {margin-left: 37px;margin-top: 1928px;}
+.bodibilding-grad-block {margin-left: -85px;margin-top: 1928px;}
 .foto-bodibilding-grad-block {height: 228px;}
-.linear-grad-block {margin-top: 932px;margin-left: 37px;}
+.linear-grad-block {margin-top: 932px;margin-left: -86px;}
 .tekst-championship-bodybilding-blog {width: 188px;margin-top: -175px;font-weight: 500;}
 .tekst-championship-has-gathered-blog {width: 166px;margin-left: 23px;margin-top: 10px;}
-.tekst-follow-our-blog {width: 200px;}
+.tekst-follow-our-blog {width: 209px;}
 .four-jackdaw-about-us {
   height: 16px;
   margin-top: -456px;
@@ -1759,7 +1759,10 @@ margin-left: 55px;}
   padding-top: 8px;
 }
 .blog-three-sport-nutrition {margin-left: 62px;}
-
+.block-offers-one-blog {
+  width: 141px;
+  margin-left: 129px;
+}
 
 
 /* Ширину блока уменьшили до 300px а на самой карте установлено width"auto"
