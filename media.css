@@ -115,14 +115,9 @@
 .group-index:hover  {background: none;}
 .personal-index:hover  {background: none;}
 .sports-nutrition-index:hover  {background: none;}
-
-.information-blog-contact {
-  width: 817px;
-}
-
+.information-blog-contact {width: 817px;}
+.tekst-choosing-us-schedule {margin-left: -66px;font-size: 35px;}
 .four-related-news-sport-nutrition {width: 848px;}
-
-
 .left {margin-left: 99px;margin-top: 318px;}
 .right {margin-left: 735px;margin-top: -264px;}
 .mobile-index-spisok {margin-left: -8px;}
@@ -616,6 +611,7 @@ margin-top: -142px;
   margin-top: 363px;
   margin-left: -559px;
 } */
+.tekst-choosing-us-schedule {margin-left: -100px;font-size: 30px;}
 .tekst-blog-one {font-size: 45px;margin-left: -503px;margin-top: 239px;}
 /* .icons-phone-about-us {
   margin-top: 374px;
@@ -747,7 +743,10 @@ margin-top: -142px;
 .zagolovok-abonement-index {margin-left: 12px;margin-top: -10px;}
 .tekst-season-tickets-index {width: 655px;margin-left: -324px;margin-top: 56px;}
 .form_toggle {margin-left: -98px;}
-.advantages-about-us {width: 715px;}
+.advantages-about-us {
+  width: 715px;
+  margin-top: 201px;
+}
 .foto-dance-index {
   height: 370px;
   margin-left: 414px;
@@ -1514,10 +1513,10 @@ margin-left: 55px;}
 }
 .tekst-choosing-us-index {
   width: 231px;
-  margin-left: 257px;
+  margin-left: 258px;
   font-size: 19px;
   text-align: center;
-  margin-top: 51px;
+  margin-top: 53px;
 }
 .icons-one-block-eight-index {
   margin-left: 75px;
@@ -1751,34 +1750,17 @@ margin-left: 55px;}
 .text-february-index {margin-top: 71px;}
 .tekst-programm-blog-index {margin-top: 107px;margin-left: 0px;}
 .tekst-programm-blog-contact {margin-top: 107px;margin-left: 0px;}
-.advantages-about-us {grid-template-rows: 162px 115px 276px 1267px;margin: -88px auto;width: 428px;}
+.advantages-about-us {grid-template-rows: 356px 115px 276px 1267px;margin: -88px auto;width: 428px;margin-left: -171px;}
 .three-sec-blog-contact {margin-left: 60px;margin-top: -47px;}
 .one-sec-contact {margin-top: 700px;margin-left: -59px;}
 .two-sec-contact {margin-left: -291px;margin-top: -204px;position: absolute;}
 .location-contact {display: grid;grid-template-rows: 1290px;grid-template-columns: 80%;}
-.footer-index {
-  width: 211px;
-  height: 3px;
-  font-size: 10px;
-  line-height: 13px;
-  margin-left: 73px;
-  margin-top: -22px;
-  padding-left: 1px;
-  padding-top: 8px;
-}
+.footer-index {width: 211px;height: 3px;font-size: 10px;line-height: 13px;margin-left: 73px;margin-top: -22px;padding-left: 1px;padding-top: 8px;}
 .blog-three-sport-nutrition {margin-left: 62px;}
-.block-offers-one-blog {
-  width: 141px;
-  margin-left: 129px;
-}
-
-.recent-two-block-sport-nutrition {
-  margin-left: -17px;
-}
-
-.recent-three-block-sport-nutrition {
-  margin-left: -16px;
-}
+.block-offers-one-blog {width: 141px;margin-left: 129px;}
+.tekst-choosing-us-schedule {width: 231px;margin-left: 258px;font-size: 19px;text-align: center;margin-top: 248px;}
+.recent-two-block-sport-nutrition {margin-left: -17px;}
+.recent-three-block-sport-nutrition {margin-left: -16px;}
 
 
 /* Ширину блока уменьшили до 300px а на самой карте установлено width"auto"

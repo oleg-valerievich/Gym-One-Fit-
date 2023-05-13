@@ -154,8 +154,8 @@ border: 1px solid #FA0909;color: #FFFFFF;font-family: 'Oswald', sans-serif;margi
   font-weight: 500;
   font-size: 36px;
   line-height: 56px;
-  color: #FFF7F7;
-}
+  color: #FFF7F7;}
+.tekst-choosing-us-schedule {width: 676px;height: 76px;display: grid;font-family: 'Oswald', sans-serif;font-weight: 400;color: #FAF3F3;font-size: 42px;justify-content: center;}
 /* Перемещение таблицы */.iksweb {margin-top: 30px;margin-left: -243px;}
 .iksweb-shedule {margin-top: 30px;margin-left: -243px;}
 /* Шрифт время по левой стороне */.time-shrift-table-index {font-family: 'Oswald', sans-serif;font-size: 35px;}
