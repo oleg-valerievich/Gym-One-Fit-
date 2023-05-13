@@ -478,7 +478,6 @@ margin-top: -142px;
 .four-sect-contact {margin-left: 84px;margin-top: -31px;}
 .tekst-get-information-index {margin-left: 0px;margin-top: 145px;}
 .maps-api-two-contact {margin-top: -731px;margin-left: -265px;}
-.tekst-contact-us-blog-contact {width: 200px;margin-top: 462px;margin-left: 477px;position: absolute;}
 .form-one-name-contact {margin-top: 494px;margin-left: 426px;}
 .form-two-phone-contact {height: 23px;margin-top: 494px;margin-left: 638px;}
 .btn-submit-your-application-contact {
@@ -501,9 +500,11 @@ margin-top: -142px;
 .tekst-all-us-life-sport-nutrition {font-size: 16px;}
 .maps-api-two-block-sport-nutrition {margin-top: -159px;margin-left: -72px;}
 .tekst-contact-us-blog-contact {
+  width: 250px;
   margin-top: -159px;
   margin-left: -28px;
   font-size: 20px;
+  position: absolute;
 }
 
 
@@ -653,7 +654,9 @@ margin-top: -142px;
   object-fit: cover;
 }
 
-
+.four-related-news-sport-nutrition {
+  width: 720px;
+}
 
 
 
@@ -812,14 +815,26 @@ margin-top: -142px;
 .form-one-name-contact {width: 149px;margin-top: 494px;margin-left: 359px;}
 .form-two-phone-contact {width: 145px;height: 21px;margin-top: 494px;margin-left: 547px;}
 .form-three-name-contact {width: 345px;margin-left: 359px;}
-.form-one-name-sport-nutrition {margin-top: -163px;margin-left: -80px;}
+.form-one-name-sport-nutrition {
+  margin-top: -178px;
+  margin-left: -80px;
+}
 .tekst-contact-us-blog-contact {
   margin-left: 410px;
   margin-top: 452px;
 }
 .five-banner-block-sport-nutrition {width: 715px;margin: 169px auto 0;}
-.form-two-email-sport-nutrition {width: 466px;margin-top: -122px;margin-left: -80px;}
-.form-three-phone-sport-nutrition {width: 216px;height: 32px;margin-top: -163px;margin-left: 169px;}
+.form-two-email-sport-nutrition {
+  width: 462px;
+  margin-top: -122px;
+  margin-left: -80px;
+}
+.form-three-phone-sport-nutrition {
+  width: 216px;
+  height: 32px;
+  margin-top: -178px;
+  margin-left: 166px;
+}
 .btn-submit-your-application-contact {margin-left: 360px;}
 .ordinary-text-index {font-size: 15px;margin-top: 11px;}
 .one-monthly-text-index {margin-top: -165px;margin-left: 196px;}
@@ -887,6 +902,21 @@ margin-top: -142px;
   width: 567px;
 }
 .maps-api-two-contact {margin-top: -760px;margin-left: -265px;}
+.recent-two-block-sport-nutrition {
+  margin-left: 88px;
+  margin-top: 10px;
+}
+
+.recent-three-block-sport-nutrition {
+  margin-left: 132px;
+  height: 200px;
+  margin-top: 10px;
+}
+
+
+
+
+
 
 }
 

@@ -598,7 +598,9 @@ table.iksweb-shedule td:hover:after {content: '';position: absolute;top: 0px;rig
 /* Блог с картой */.maps-api-blog-contact{display: grid;width: 1140px;margin: auto;grid-template-rows:0px;}
 /* Блог с контакактами и формой */.information-blog-contact {display: grid;width: 1140px;margin: auto;grid-template-rows: 462px ;}
 .four-sect-contact {width: 350px;height: 446px;margin-left: 149px;margin-top: -42px;}
-/* Текст связаться с нами */.tekst-contact-us-blog-contact {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 22px;margin-left: -39px;}
+/* Текст связаться с нами */.tekst-contact-us-blog-contact {
+  width: 289px;
+  font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 22px;margin-left: -39px;}
 .maps-api-two-contact {display: grid;width: 489px;height: 384px;font-family: 'Oswald', sans-serif;font-weight: 700;font-size: 15px;position: absolute;border: #403b3b 1px;margin-top: -384px;margin-left: -155px;}
 /* Форма Имя */.form-one-name-contact {width: 173px;height: 26px;border: 0px solid #2D2D2D;color: #ffffff;margin-top: -122px;margin-left: -80px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
 /* Форма Телефон */.form-two-phone-contact {width: 173px;height: 26px;border: 2px solid #2D2D2D;color: #ffffff;margin-top: -124px;margin-left: 140px;padding-left: 24px;padding-top: 10px;background: #2D2D2D;position: absolute;}
