@@ -499,7 +499,7 @@ table.iksweb-shedule td:hover:after {content: '';position: absolute;top: 0px;rig
 /* Подсветка кнопки при наведении мышки "Текст Питание */.tekst-food-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
 /* Текст Тренажерный зал Фитнес */.tekst-gym-fitness-index {font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FDF8F8;text-decoration: none;}
 /* Подсветка кнопки при наведении мышки "Текст Тренажерный зал Фитнес */.tekst-gym-fitness-index:hover { display: inline-block; background: #e10c0c;text-decoration: underline;}
-/* Текст Получить информацию */.tekst-get-information-index {width: 322px;height: 31px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
+/* Текст Получить информацию */.tekst-get-information-index {width: 224px;height: 31px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 18px;color: #FBF7F7;margin-top: 146px;}
 /* Текст Контакты: */.tekst-contacts-index {width: 143px;height: 50px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
 /* Текст email: */.tekst-email-index { width: 143px;height: 45px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}
 /* Текст Адрес */.tekst-address-index {width: 161px;height: 96px;font-family: 'Oswald', sans-serif;font-weight: 400;font-size: 16px;color: #FCF3F3;margin-top: -24px;margin-left: 37px;}

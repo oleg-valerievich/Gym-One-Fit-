@@ -44,7 +44,7 @@
 .mobile-index-spisok {margin-top: 51px;margin-left: -8px;}
 .blog-opisanie-sport-nutrition {width: 1092px;}
 .mobile-two-anout-us {margin-top: 101px;margin-left: 2px;}
-.menu-logo-about-us {margin-top: 200px;}
+.menu-logo-about-us {margin-top: 210px;}
 
 
 #menu-toggle ~ .menu li {
@@ -106,7 +106,7 @@
 }
 .about-us-programs-club {width: 704px;}
 .abous-us-welcone-club { width: 860px;}
-.menu-logo-about-us {width: 187px;margin-top: 192px;margin-left: -2px;font-size: 25px;}
+.menu-logo-about-us {width: 187px;margin-top: 201px;margin-left: -7px;font-size: 25px;}
 .top-nav {width: 824px;}
 .index-training-complex {width: 855px;}
 
@@ -571,7 +571,7 @@ margin-top: -142px;
 
 #src {width: 851px;height: 475px;margin-top: 60px;margin-left: -3px;}
 .inner-banner {width: 756px;}
-.menu-logo-about-us {width: 147px;margin-top: 160px;margin-left: -4px;font-size: 20px;}
+.menu-logo-about-us {width: 147px;margin-top: 175px;margin-left: -10px;font-size: 20px;}
 .tekst-shedule-table {font-size: 50px;margin-left: -587px;margin-top: 214px;}
 .mobile-index-spisok {margin-left: -19px;}
 .top-nav {width: 819px;}
@@ -933,7 +933,7 @@ margin-left: 7px;
 @media screen and (max-width: 320px) {
 
 #src {width: 338px;height: 196px;margin-top: 55px;margin-left: -2px;}
-.menu-logo-about-us {width: 65px;height: 26px;margin-top: 6px;margin-left: -29px;font-size: 10px;}
+.menu-logo-about-us {width: 65px;height: 26px;margin-top: 11px;margin-left: -29px;font-size: 10px;}
 .logo-gym-index {display: none;}
 .logo-gym-about-us {display: none;}
 .menu-spisok-center {margin-top: -11px;}
@@ -1045,30 +1045,31 @@ margin-left: 7px;
 .knopka-crossfit-gym-sport-nutrition {margin-left: 170px;}
 .maps-api-two-block-sport-nutrition {width: 236px;margin-top: -171px;margin-left: 46px;}
 .season-tickets-index {width: 304px;grid-template-columns: 100%;}
-.form-one-name-sport-nutrition {width: 202px;}
+.form-one-name-sport-nutrition {width: 202px;margin-top: -231px;}
 .form-three-sport-nutrition {
-  margin-top: -1px;
+  margin-top: -50px;
   width: 204px;
 }
 .form-two-email-sport-nutrition {
   width: 198px;
-  margin-top: -119px;
+  margin-top: -171px;
 }
 .form-three-phone-sport-nutrition {
   width: 199px;
-  margin-top: -60px;
+  margin-top: -111px;
   margin-left: -80px;
 }
+
 .tekst-contact-us-blog-contact {
   width: 205px;
   font-size: 20px;
   margin-left: -27px;
-  margin-top: -219px;
+  margin-top: -268px;
 }
 
 
 .btn-submit-your-application-contact {
-  margin-top: 137px;
+  margin-top: 107px;
   margin-left: -51px;
 }
 
