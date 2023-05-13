@@ -889,7 +889,7 @@ margin-top: -142px;
 .tekst-to-share-sport-nutrition {font-size: 18px;margin-left: 78px;margin-top: 1867px;}
 .form-three-sport-nutrition {width: 466px;}
 .tekst-related-news-sport {margin-top: 96px;}
-.four-related-news-sport-nutrition {display: grid;width: 1140px;margin: 72px auto 0;grid-template-rows: 173px 714px;}
+.four-related-news-sport-nutrition {width: 725px;grid-template-rows: 173px 714px;}
 .recent-one-block-sport-nutrition  {margin-left: 10px;margin-top: 10px;}
 .block-three-sport-nutrition {grid-template-columns: 22% 22%;grid-template-rows: 200px;grid-gap: 12px;}
 .one-btn-blok-eleven-index {margin-top: 13px;margin-left: 53px;}
@@ -954,7 +954,7 @@ margin-left: 7px;
 .tekst-from-our-blog {font-size: 24px;margin-left: 74px;margin-top: 54px;}
 .ten-block-five-index {margin-left: -3px;}
 .form-one-name-contact {width: 216px;margin-left: 385px;}
-.block-three-sport-nutrition {grid-template-columns: 22%;grid-template-rows: 200px 200px;grid-gap: 11px;}
+.block-three-sport-nutrition {width: 198px;grid-template-columns: 22%;grid-template-rows: 200px 200px;grid-gap: 11px;}
 .tekst-sport-nutrition {font-size: 13px;margin-left: -305px;margin-top: 104px;line-height: 20px;}
 .teksts-sleep-nutrition-exercise {width: 271px;margin-top: -66px;margin-left: -20px;font-size: 10px;}
 .sport-dietolog-sports-nutrition {width: 227px;font-size: 12px;margin-top: 187px;margin-left: -295px;}
@@ -1005,12 +1005,12 @@ margin-left: 7px;
 .tekst-types-sportpit-sport-nutrition {width: 251px;margin-left: -13px;margin-top: -31px;font-size: 10px;}
 .tekst-advantages-of-sport-nutrition {font-size: 16px;padding-left: 46px;margin-top: 32px;}
 .tekst-lot-narrow-audience-sport-nutrition {width: 271px;font-size: 10px;margin-left: -13px;}
-.blog-four-sport-nutrition {grid-template-rows: 101px 722px 82px 722px 161px 48px 487px 0px;}
+.blog-four-sport-nutrition {width: 311px;grid-template-rows: 101px 722px 82px 722px 161px 48px 487px 0px;}
 .tekst-harmful-solid-chemistry {width: 243px;margin-left: -17px;font-size: 10px;}
 .tekst-to-share-sport-nutrition {margin-left: 38px;margin-top: 2191px;}
 .menu-spisok-niz {margin-left: 105px;margin-top: 2236px;}
 .tekst-related-news-sport {margin-top: 103px;margin-left: -18px;}
-.four-related-news-sport-nutrition {width: 1003px;margin: -52px auto 0;grid-template-rows: 173px 714px;}
+.four-related-news-sport-nutrition {width: 306px;margin: -52px auto 0;grid-template-rows: 173px 714px;}
 .five-banner-block-sport-nutrition {width: 715px;margin: 382px auto 0;}
 .recent-one-block-sport-nutrition {margin-left: -17px;margin-top: 10px;}
 .knopka-training-gym-sport-nutrition {margin-left: 46px;}
@@ -1018,11 +1018,33 @@ margin-left: 7px;
 .maps-api-two-block-sport-nutrition {margin-top: -171px;margin-left: 46px;}
 .season-tickets-index {width: 304px;grid-template-columns: 100%;}
 .form-one-name-sport-nutrition {width: 202px;}
-.form-three-sport-nutrition {margin-top: -33px;width: 204px;}
-.form-two-email-sport-nutrition {width: 202px;margin-top: -119px;}
-.form-three-phone-sport-nutrition {width: 202px;margin-top: -76px;margin-left: -80px;}
-.tekst-contact-us-blog-contact {width: 205px;font-size: 20px;margin-left: 437px;margin-top: 464px;}
-.btn-submit-your-application-contact {margin-top: 752px;margin-left: 416px;}
+.form-three-sport-nutrition {
+  margin-top: -1px;
+  width: 204px;
+}
+.form-two-email-sport-nutrition {
+  width: 198px;
+  margin-top: -119px;
+}
+.form-three-phone-sport-nutrition {
+  width: 199px;
+  margin-top: -60px;
+  margin-left: -80px;
+}
+.tekst-contact-us-blog-contact {
+  width: 205px;
+  font-size: 20px;
+  margin-left: -27px;
+  margin-top: -219px;
+}
+
+
+.btn-submit-your-application-contact {
+  margin-top: 137px;
+  margin-left: -51px;
+}
+
+
 .one-btn-blok-eleven-index {
   margin-top: 3px;
   margin-left: 31px;
@@ -1840,6 +1862,14 @@ margin-left: 55px;}
 .block-offers-one-blog {
   width: 141px;
   margin-left: 129px;
+}
+
+.recent-two-block-sport-nutrition {
+  margin-left: -17px;
+}
+
+.recent-three-block-sport-nutrition {
+  margin-left: -16px;
 }
 
 
