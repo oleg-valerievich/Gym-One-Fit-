@@ -953,9 +953,19 @@ margin-left: 7px;
 .ten-block-five-index {margin-left: -3px;}
 .form-one-name-contact {width: 216px;margin-left: 385px;}
 .block-three-sport-nutrition {width: 198px;grid-template-columns: 22%;grid-template-rows: 200px 200px;grid-gap: 11px;}
-.tekst-sport-nutrition {font-size: 13px;margin-left: -305px;margin-top: 104px;line-height: 20px;}
+.tekst-sport-nutrition {
+  font-size: 13px;
+  margin-left: 44px;
+  margin-top: -147px;
+  line-height: 20px;
+}
 .teksts-sleep-nutrition-exercise {width: 271px;margin-top: -66px;margin-left: -20px;font-size: 10px;}
-.sport-dietolog-sports-nutrition {width: 227px;font-size: 12px;margin-top: 187px;margin-left: -295px;}
+.sport-dietolog-sports-nutrition {
+  width: 227px;
+  font-size: 12px;
+  margin-top: -64px;
+  margin-left: 49px;
+}
 .blog-two-sport-nutrition {margin-left: -702px;margin-top: 621px;}
 .gallery-one {height: 241px;margin-top: 76px;}
 .gallery-two {height: 241px;}
@@ -996,20 +1006,40 @@ margin-left: 7px;
 .icons-vector-right-about-us {margin-top: 148px;margin-left: -193px;font-size: 15px;}
 .group-index {height: 227px;margin-top: -15px;}
 .foto-personal-group-index {height: 226px;}
-.one-foto-raspolochenie {height: 280px;margin-left: -35px;margin-top: 151px;}
+.one-foto-raspolochenie {
+  height: 280px;
+  margin-left: -26px;
+  margin-top: -539px;
+}
+.two-sec-foto {
+  margin-left: -78px;
+  margin-top: -309px;
+}
 .two-foto-raspolochenie {margin-left: -16px;margin-top: 68px;height: 173px;}
-.blog-opisanie-sport-nutrition {width: 295px;grid-template-rows: 1185px 1223px;}
+.blog-opisanie-sport-nutrition {
+  width: 295px;
+  grid-template-rows: 1185px 538px;
+}
 .tekst-types-sport-nutrition {font-size: 16px;padding-left: 43px;}
 .tekst-types-sportpit-sport-nutrition {width: 251px;margin-left: -13px;margin-top: -31px;font-size: 10px;}
 .tekst-advantages-of-sport-nutrition {font-size: 16px;padding-left: 46px;margin-top: 32px;}
 .tekst-lot-narrow-audience-sport-nutrition {width: 271px;font-size: 10px;margin-left: -13px;}
-.blog-four-sport-nutrition {width: 311px;grid-template-rows: 101px 722px 82px 722px 161px 48px 487px 0px;}
+.blog-four-sport-nutrition {
+  width: 311px;
+  grid-template-rows: 101px 618px 96px 626px 154px 27px 441px 0px;
+}
 .tekst-harmful-solid-chemistry {width: 243px;margin-left: -17px;font-size: 10px;}
-.tekst-to-share-sport-nutrition {margin-left: 38px;margin-top: 2191px;}
-.menu-spisok-niz {margin-left: 105px;margin-top: 2236px;}
+.tekst-to-share-sport-nutrition {
+  margin-left: 43px;
+  margin-top: 1942px;
+}
+.menu-spisok-niz {
+  margin-left: 105px;
+  margin-top: 1983px;
+}
 .tekst-related-news-sport {margin-top: 103px;margin-left: -18px;}
 .four-related-news-sport-nutrition {width: 306px;margin: -52px auto 0;grid-template-rows: 173px 714px;}
-.five-banner-block-sport-nutrition {width: 715px;margin: 382px auto 0;}
+.five-banner-block-sport-nutrition {width: 715px;margin: 418px auto 0;}
 .recent-one-block-sport-nutrition {margin-left: -17px;margin-top: 10px;}
 .knopka-training-gym-sport-nutrition {margin-left: 46px;}
 .knopka-crossfit-gym-sport-nutrition {margin-left: 170px;}
