@@ -202,7 +202,7 @@
 /* Параметры кнопки Фитнес */.fitness-btn-five-index {width: 168px;height: 45px;margin-left: 526px;margin-top: 302px;font-size: 20px;}
 /* Текст кнопки фитнес */.fitness-btn-five-index-text {padding-left: 35px;margin-top: 6px;}
 /* Текст фитнесс */.teks-fitness-index {width: 342px;font-family: 'Nunito Sans', sans-serif;font-size: 18px;color: #FFFFFF;margin-top: -262px;margin-left: 469px;}
-/* Фото BJJ */.foto-bjj-index {width: 410px;height: 385px;margin-left: -1318px;margin-top: 304px;}
+/* Фото BJJ */.foto-bjj-index {width: 410px;height: 385px;margin-left: -1280px;margin-top: 305px;}
 /* Положение кнопки в BJJ */.bjj-btn-five-index-text {padding-left: 38px;margin-top: 7px;}
 /* Фото Dance-mix */
 .foto-dance-index {
@@ -238,7 +238,13 @@ table.iksweb-shedule td, table.iksweb th {padding: 0px 0px;}
   margin-top: -15px;
   margin-left: -110px;
 }
-.tekst-shedule-table {font-size: 50px;margin-left: -657px;margin-top: 241px;}
+
+.tekst-shedule-table {
+  font-size: 50px;
+  margin-left: -636px;
+  margin-top: 303px;
+  text-align: center;
+}
                                            /* Seven-Block */
 
 /* Уменьшить Фото баннера */.men-and-woman-gym-sport {width: 841px;}
@@ -572,7 +578,7 @@ margin-top: -142px;
 #src {width: 851px;height: 475px;margin-top: 60px;margin-left: -3px;}
 .inner-banner {width: 756px;}
 .menu-logo-about-us {width: 147px;margin-top: 175px;margin-left: -10px;font-size: 20px;}
-.tekst-shedule-table {font-size: 50px;margin-left: -587px;margin-top: 214px;}
+.tekst-shedule-table {margin-left: -642px;margin-top: 310px;}
 .mobile-index-spisok {margin-left: -19px;}
 .top-nav {width: 819px;}
 .teks-welcome-index {margin-left: 173px;}
@@ -669,45 +675,18 @@ margin-top: -142px;
   margin-left: 266px;
   margin-top: -132px;
 }
-.text-index-programs-four {
-  width: 598px;
-  margin-top: -140px;
-  margin-left: 112px;
-  position: absolute;
-}
-
-.heading-index-programs-club {
-  width: 300px;
-  margin-top: -287px;}
+.text-index-programs-four {width: 598px;margin-top: -140px;margin-left: 112px;position: absolute;}
+.heading-index-programs-club {width: 300px;margin-top: -287px;}
 .club-table-index {margin: 293px auto;}
 .iksweb {margin-top: 83px;margin-left: -110px;}
-.iksweb-shedule {
-  margin-top: -34px;
-  margin-left: -142px;
-}
-/* .tekst-contacts-one {margin-left: -497px;margin-top: 187px;} */
+.iksweb-shedule {margin-top: -34px;margin-left: -142px;}
 .text-about-us-four {margin-left: 42px;font-size: 18px;margin-top: -197px;}
 .zvezdu-about-us {margin-top: -137px;}
-.one-zvezda-about-us {
-  margin-left: -539px;
-  margin-top: 27px;
-}
-.two-zvezda-about-us {
-  margin-left: -480px;
-  margin-top: 27px;
-}
-.three-zvezda-about-us {
-  margin-left: -419px;
-  margin-top: 27px;
-}
-.four-zvezda-about-us {
-  margin-left: -364px;
-  margin-top: 27px;
-}
-.five-zvezda-about-us {
-  margin-left: -307px;
-  margin-top: 27px;
-}
+.one-zvezda-about-us {margin-left: -539px;margin-top: 27px;}
+.two-zvezda-about-us {margin-left: -480px;margin-top: 27px;}
+.three-zvezda-about-us {margin-left: -419px;margin-top: 27px;}
+.four-zvezda-about-us {margin-left: -364px;margin-top: 27px;}
+.five-zvezda-about-us {margin-left: -307px;margin-top: 27px;}
 .coaches-about-us {grid-template-rows: 45px 201px 616px 318px 53px;width: 550px;}
 .tekst-name-klient-about-us {margin-left: 412px;margin-top: -206px;}
 .foto-klient-about-us {margin-left: 410px;margin-top: -450px;height: 79px;}
@@ -784,29 +763,10 @@ margin-top: -142px;
 .foto-gym-three-about-us {margin-left: 61px;margin-top: -992px;}
 .location-blog {grid-template-rows: 989px;}
 .block-trainer-eight-about-us {margin-left: -753px;margin-top: -301px;}
-.banner-swiming-video {
-  object-fit: cover;
-  width: 842px;
-  height: 468px;
-  margin-left: 21px;
-  margin-top: -87px;
-}
-.tekst-swimming-pool-index {
-  width: 465px;
-  margin-left: 195px;
-  margin-top: -374px;
-  font-size: 45px;
-  font-weight: 500;
-}
-.icons-video-index {
-  margin-left: 386px;
-  margin-top: -17px;
-  height: 88px;
-}
-.btn-three-index {
-  margin-left: 341px;
-  margin-top: -344px;
-}
+.banner-swiming-video {object-fit: cover;width: 842px;height: 468px;margin-left: 21px;margin-top: -87px;}
+.tekst-swimming-pool-index {width: 465px;margin-left: 195px;margin-top: -374px;font-size: 45px;font-weight: 500;}
+.icons-video-index {margin-left: 386px;margin-top: -17px;height: 88px;}
+.btn-three-index {margin-left: 341px;margin-top: -344px;}
 .advantages-index {width: 534px;grid-template-rows: 162px 115px 276px 319px;margin-left: 160px;}
 .block-index-one {width: 154px;height: 187px;margin-left: -450px;margin-top: 205px;}
 .block-index-two {width: 154px;height: 187px;margin-left: -65px;margin-top: -225px;}
@@ -815,30 +775,12 @@ margin-top: -142px;
 .form-one-name-contact {width: 149px;margin-top: 494px;margin-left: 359px;}
 .form-two-phone-contact {width: 145px;height: 21px;margin-top: 494px;margin-left: 547px;}
 .form-three-name-contact {width: 345px;margin-left: 359px;}
-.form-one-name-sport-nutrition {
-  margin-top: -178px;
-  margin-left: -80px;
-}
-.tekst-contact-us-blog-contact {
-  margin-left: 410px;
-  margin-top: 452px;
-}
+.form-one-name-sport-nutrition {margin-top: -178px;margin-left: -80px;}
+.tekst-contact-us-blog-contact {margin-left: 410px;margin-top: 452px;}
 .five-banner-block-sport-nutrition {width: 715px;margin: 169px auto 0;}
-.form-two-email-sport-nutrition {
-  width: 462px;
-  margin-top: -122px;
-  margin-left: -80px;
-}
-.form-three-phone-sport-nutrition {
-  width: 216px;
-  height: 32px;
-  margin-top: -178px;
-  margin-left: 166px;
-}
-.btn-submit-your-application-contact {
-  margin-left: -77px;
-  margin-top: 73px;
-}
+.form-two-email-sport-nutrition {width: 462px;margin-top: -122px;margin-left: -80px;}
+.form-three-phone-sport-nutrition {width: 216px;height: 32px;margin-top: -178px;margin-left: 166px;}
+.btn-submit-your-application-contact {margin-left: -77px;margin-top: 73px;}
 .ordinary-text-index {font-size: 15px;margin-top: 11px;}
 .one-monthly-text-index {margin-top: -165px;margin-left: 196px;}
 .rub-one-index {margin-left: -55px;}
@@ -870,10 +812,7 @@ margin-top: -142px;
 .posledni-from-our-blog {width: 691px;}
 .blog-opisanie-sport-nutrition {grid-template-rows: 1219px 720px 6px;}
 .one-foto-raspolochenie {height: 420px;margin-left: 52px;margin-top: -120px;position: absolute;}
-.two-sec-foto {
-  margin-left: -274px;
-  margin-top: 380px;
-}
+.two-sec-foto {margin-left: -274px;margin-top: 380px;}
 .two-foto-raspolochenie {margin-left: 52px;margin-top: -60px;height: 263px;position: absolute;}
 .three-foto-raspolochenie {margin-top: 214px;margin-left: -257px;position: absolute;}
 .three-foto-raspolochenie {height: 247px;margin-top: 221px;margin-left: 52px;}
@@ -893,35 +832,17 @@ margin-top: -142px;
 .one-btn-blok-eleven-index {margin-top: 13px;margin-left: 53px;}
 .menu-logo {width: 169px;margin-top: 126px;margin-left: -13px;font-size: 20px;}
 .vnutru-buy-blog-index {width: 715px;height: 228px;}
-.maps-api-index {
-  width: 390px;
-  height: 335px;
-  /* margin-top: 66px;
-  margin-left: 379px; */
-}
+.maps-api-index {width: 390px;height: 335px;}
 .form_toggle {width: 271px;height: 39px;}
 .information-blog-index {width: 714px;}
 .konteiner-maps-index {width: 850px;}
 .tekst-our-blog-index {width: 235px;height: 283px;margin-left: 357px;margin-top: 662px;}
-.footer-index {
-  margin-left: 162px;
-  width: 567px;
-}
+.footer-index {margin-left: 162px;width: 567px;}
 .maps-api-two-contact {margin-top: -760px;margin-left: -265px;}
-.recent-two-block-sport-nutrition {
-  margin-left: 88px;
-  margin-top: 10px;
-}
+.recent-two-block-sport-nutrition {margin-left: 88px;margin-top: 10px;}
+.recent-three-block-sport-nutrition {margin-left: 132px;height: 200px;margin-top: 10px;}
 
-.recent-three-block-sport-nutrition {
-  margin-left: 132px;
-  height: 200px;
-  margin-top: 10px;
-}
-
-.blog-three-sport-nutrition {
-margin-left: 7px;
-}
+.blog-three-sport-nutrition {margin-left: 7px;}
 
 
 
@@ -953,19 +874,9 @@ margin-left: 7px;
 .ten-block-five-index {margin-left: -3px;}
 .form-one-name-contact {width: 216px;margin-left: 385px;}
 .block-three-sport-nutrition {width: 198px;grid-template-columns: 22%;grid-template-rows: 200px 200px;grid-gap: 11px;}
-.tekst-sport-nutrition {
-  font-size: 13px;
-  margin-left: 44px;
-  margin-top: -147px;
-  line-height: 20px;
-}
+.tekst-sport-nutrition {font-size: 13px;margin-left: 44px;margin-top: -147px;line-height: 20px;}
 .teksts-sleep-nutrition-exercise {width: 271px;margin-top: -66px;margin-left: -20px;font-size: 10px;}
-.sport-dietolog-sports-nutrition {
-  width: 227px;
-  font-size: 12px;
-  margin-top: -64px;
-  margin-left: 49px;
-}
+.sport-dietolog-sports-nutrition {width: 227px;font-size: 12px;margin-top: -64px;margin-left: 49px;}
 .blog-two-sport-nutrition {margin-left: -702px;margin-top: 621px;}
 .gallery-one {height: 241px;margin-top: 76px;}
 .gallery-two {height: 241px;}
@@ -978,11 +889,7 @@ margin-left: 7px;
 .gallery-nine {height: 241px;}
 .tekst-contacts-one {font-size: 30px;margin-left: -255px;margin-top: 99px;}
 .information-blog-contact {width: 312px;grid-template-rows: 802px;}
-.four-sect-contact {
-  width: 175px;
-  height: 307px;
-  margin-left: 123px;
-  margin-top: 1394px;}
+.four-sect-contact {width: 175px;height: 307px;margin-left: 123px;margin-top: 1394px;}
 .tekst-contact-us-blog-contact {font-size: 22px;margin-left: 444px;}
 .form-three-name-contact {width: 222px;margin-top: 593px;margin-left: 385px;}
 .btn-submit-your-application-contact {margin-top: 751px;margin-left: 398px;}
@@ -996,21 +903,17 @@ margin-left: 7px;
 .icons-vector-left-gallery {font-size: 20px;margin-top: 167px;margin-left: -276px;}
 .icons-vector-right-gallery {font-size: 20px;margin-top: 167px;margin-left: -182px;}
 .gym-tekst-gallery {margin-left: 47px;margin-top: -34px;}
-.tekst-shedule-table {font-size: 21px;margin-left: -292px;margin-top: 105px;}
+.tekst-shedule-table {font-size: 21px;margin-left: 56px;margin-top: -158px;font-weight: 500;}
 .club-table-schedule {grid-template-rows: 334px 260px;}
 .club-table-schedule {margin: 103px auto auto;}
 .sport-hero-slider {width: 337px;}
 .tekst-about-us {margin-left: -227px;margin-top: 95px;font-size: 30px;}
-.icons-phone-about-us {margin-top: 150px;margin-left: -287px;height: 15px;}
-.icons-vector-left-about-us {margin-top: 148px;margin-left: -267px;font-size: 15px;}
-.icons-vector-right-about-us {margin-top: 148px;margin-left: -193px;font-size: 15px;}
+.icons-phone-about-us {margin-top: -116px;margin-left: 65px;height: 15px;}
+.icons-vector-left-about-us {margin-top: -119px;margin-left: 91px;font-size: 15px;}
+.icons-vector-right-about-us {margin-top: -119px;margin-left: 167px;font-size: 15px;}
 .group-index {height: 227px;margin-top: -15px;}
 .foto-personal-group-index {height: 226px;}
-.one-foto-raspolochenie {
-  height: 280px;
-  margin-left: -26px;
-  margin-top: -539px;
-}
+.one-foto-raspolochenie {height: 280px;margin-left: -26px;margin-top: -539px;}
 .two-sec-foto {
   margin-left: -78px;
   margin-top: -309px;
@@ -1024,19 +927,10 @@ margin-left: 7px;
 .tekst-types-sportpit-sport-nutrition {width: 251px;margin-left: -13px;margin-top: -31px;font-size: 10px;}
 .tekst-advantages-of-sport-nutrition {font-size: 16px;padding-left: 46px;margin-top: 32px;}
 .tekst-lot-narrow-audience-sport-nutrition {width: 271px;font-size: 10px;margin-left: -13px;}
-.blog-four-sport-nutrition {
-  width: 311px;
-  grid-template-rows: 101px 618px 96px 626px 154px 27px 441px 0px;
-}
+.blog-four-sport-nutrition {width: 311px;grid-template-rows: 101px 618px 96px 626px 154px 27px 441px 0px;}
 .tekst-harmful-solid-chemistry {width: 243px;margin-left: -17px;font-size: 10px;}
-.tekst-to-share-sport-nutrition {
-  margin-left: 43px;
-  margin-top: 1942px;
-}
-.menu-spisok-niz {
-  margin-left: 105px;
-  margin-top: 1983px;
-}
+.tekst-to-share-sport-nutrition {margin-left: 43px;margin-top: 1942px;}
+.menu-spisok-niz {margin-left: 105px;margin-top: 1983px;}
 .tekst-related-news-sport {margin-top: 103px;margin-left: -18px;}
 .four-related-news-sport-nutrition {width: 306px;margin: -52px auto 0;grid-template-rows: 173px 714px;}
 .five-banner-block-sport-nutrition {width: 715px;margin: 418px auto 0;}
@@ -1050,24 +944,9 @@ margin-left: 7px;
   margin-top: -50px;
   width: 204px;
 }
-.form-two-email-sport-nutrition {
-  width: 198px;
-  margin-top: -171px;
-}
-.form-three-phone-sport-nutrition {
-  width: 199px;
-  margin-top: -111px;
-  margin-left: -80px;
-}
-
-.tekst-contact-us-blog-contact {
-  width: 205px;
-  font-size: 20px;
-  margin-left: -27px;
-  margin-top: -268px;
-}
-
-
+.form-two-email-sport-nutrition {width: 198px;margin-top: -171px;}
+.form-three-phone-sport-nutrition {width: 199px;margin-top: -111px;margin-left: -80px;}
+.tekst-contact-us-blog-contact {width: 205px;font-size: 20px;margin-left: -27px;margin-top: -268px;}
 .btn-submit-your-application-contact {
   margin-top: 107px;
   margin-left: -51px;
