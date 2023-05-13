@@ -347,6 +347,11 @@ table.iksweb-shedule td, table.iksweb th {padding: 0px 0px;}
   width: 547px;
   margin-left: 295px;
 }
+.four-foto-raspolochenie {
+  margin-left: 21px;
+  margin-top: 20px;
+  position: absolute;
+}
 .tekst-concern-klient-about-us {margin-top: -570px;margin-left: 140px;position: absolute;}
 .heading-index-programs-club {margin-top: -407px;margin-left: 258px;font-size: 42px;position: absolute;}
 .two-three-block-about-us {width: 239px;margin-left: 15px;margin-top: 18px;}
@@ -489,17 +494,19 @@ margin-top: -142px;
 .teksts-sleep-nutrition-exercise {width: 418px;font-size: 17px;}
 .blog-all-us-life-sport-nutrition {width: 280px;}
 .blog-two-all-us-life-sport-nutrition {width: 281px;}
-.blog-two-sport-nutrition {margin-left: -237px;}
+.blog-two-sport-nutrition {width: 309px;margin-left: -42px;}
 .blog-three-all-us-life-sport-nutrition {width: 283px;}
 .blog-four-all-us-life-sport-nutrition {width: 284px;}
-.blog-opisanie-sport-nutrition {grid-template-rows: 1190px 365px;}
+.blog-opisanie-sport-nutrition {width: 837px;grid-template-rows: 1190px 365px;}
 .tekst-all-us-life-sport-nutrition {font-size: 16px;}
-.maps-api-two-block-sport-nutrition {margin-top: -159px;margin-left: 46px;}
+.maps-api-two-block-sport-nutrition {margin-top: -159px;margin-left: -72px;}
 .tekst-contact-us-blog-contact {
-  margin-top: 429px;
-  margin-left: 479px;
+  margin-top: -159px;
+  margin-left: -28px;
   font-size: 20px;
 }
+
+
 .one-btn-blok-eleven-index {margin-top: 21px;margin-left: 119px;}
 .vnutru-buy-blog-index {
   width: 851px;
@@ -536,6 +543,18 @@ margin-top: -142px;
 .information-blog-index {width: 850px;}
 .one-sec-blog {width: 418px;height: 511px;}
 .maps-api-contact {width: 375px;height: 384px;margin-top: -62px;margin-left: -191px;}
+.block-three-sport-nutrition {width: 716px;grid-template-columns: 25% 22% 25%;margin-left: 57px;}
+.recent-two-block-sport-nutrition {margin-left: 51px;}
+.recent-three-block-sport-nutrition {margin-left: 121px;}
+.form-one-name-sport-nutrition {width: 211px;margin-left: -80px;}
+.form-two-email-sport-nutrition {width: 206px;margin-left: 168px;}
+.form-three-phone-sport-nutrition {width: 200px;margin-left: 413px;}
+.form-three-sport-nutrition {width: 699px;}
+
+
+
+
+
 
 
 
