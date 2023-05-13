@@ -120,7 +120,7 @@
   width: 817px;
 }
 
-
+.four-related-news-sport-nutrition {width: 848px;}
 
 
 .left {margin-left: 99px;margin-top: 318px;}
@@ -505,7 +505,9 @@ margin-top: -142px;
   width: 851px;
   height: 272px;
 }
-.blog-four-sport-nutrition {grid-template-rows: 117px 501px 139px 625px 179px 82px 278px 0px;}
+.blog-four-sport-nutrition {
+  width: 846px;
+  grid-template-rows: 117px 501px 139px 625px 179px 82px 278px 0px;}
 .tekst-solutions-emergin-problems-sports-nutrition {margin-top: 24px;}
 .text-index-programs-four {
   margin-top: -265px;

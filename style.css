@@ -673,7 +673,7 @@ table.iksweb-shedule td:hover:after {content: '';position: absolute;top: 0px;rig
 
 /* Ширина, высота, расстановка блоков секции*/.four-related-news-sport-nutrition {display: grid;width: 1140px;margin: 72px auto 0;grid-template-rows: 117px 501px;}
 /* Ширина, высота, расстановка блоков секции */.block-three-sport-nutrition {display: grid;grid-template-columns: 22% 22% 25%;grid-gap: 18px;margin-left: 56px;}
-/* Текст НОВОСТИ ПО ТЕМЕ */.tekst-related-news-sport {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 24px;color: #FFF8F8;padding-left: 56px;}
+/* Текст НОВОСТИ ПО ТЕМЕ */.tekst-related-news-sport {width: 201px;height: 52px;font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 24px;color: #FFF8F8;padding-left: 56px;}
 /* Текст ТРЕНАЖЕРНЫЙ ЗАЛ & CROOSFIT */.tekst-gym-crossfit-sport-nutrition {font-family: 'Nunito Sans', sans-serif;font-weight: 800;font-size: 11px;color: #FEFEFE;margin-top: -68px;margin-left: 18px;text-decoration: none;}
 /* Текст Аэробика, стретчинг какую<br>программу выбрать */.tekst-aerobics-stretching-which-program-choose {font-family: 'Oswald', sans-serif;font-weight: 600;font-size: 10px;color: #FFFCFC;margin-top: -10px;margin-left: 18px;}
 /* Подсветка блока с нижним выделением Crossfit */.foto-recent-one-block-sport-nutrition:hover {background-color:  #e5280b;padding-bottom: 10px;border-radius: 8px;}
