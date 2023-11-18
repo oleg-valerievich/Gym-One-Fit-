@@ -1,7 +1,7 @@
 
 
 var slider = {
-    slides:['img/oleg.jpg','img/hero-slider/hero-2-1140px.svg', 'img/hero-slider/hero-3-1140px.svg'],
+    slides:['oleg.jpg','img/hero-slider/hero-2-1140px.svg', 'img/hero-slider/hero-3-1140px.svg'],
     frame:0,
     set: function(image) {
         document.getElementById("src").style.backgroundImage = "url("+image+")";
